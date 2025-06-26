@@ -140,11 +140,11 @@ https://vavoo.to/play/1785501924/index.m3u8
 
 #EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="20 MEDIASET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",20 MEDIASET
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/1230338185/index.m3u8
+https://vavoo.to/play/3134481201/index.m3u8
 
 #EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="20 MEDIASET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",20 MEDIASET (2)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/3134481201/index.m3u8
+https://vavoo.to/play/1230338185/index.m3u8
 
 #EXTINF:-1 tvg-id="20mediasethd.it" tvg-name="20 MEDIASET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",20 MEDIASET (D)
 https://thedaddy.click/stream/stream-857.php
@@ -159,11 +159,11 @@ https://vavoo.to/play/80896559/index.m3u8
 
 #EXTINF:-1 tvg-id="canale.5.it" tvg-name="CANALE 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/1101559666/index.m3u8
+https://vavoo.to/play/1534161807/index.m3u8
 
 #EXTINF:-1 tvg-id="canale.5.it" tvg-name="CANALE 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5 (2)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/1534161807/index.m3u8
+https://vavoo.to/play/1101559666/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE 34 MEDIASET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset",CINE 34 MEDIASET
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
@@ -221,11 +221,11 @@ https://thedaddy.click/stream/stream-877.php
 
 #EXTINF:-1 tvg-id="dazn.2.it.it" tvg-name="DAZN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN2
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/1376440573/index.m3u8
+https://vavoo.to/play/2911178456/index.m3u8
 
 #EXTINF:-1 tvg-id="dazn.2.it.it" tvg-name="DAZN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN2 (2)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/2911178456/index.m3u8
+https://vavoo.to/play/1376440573/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
@@ -666,11 +666,11 @@ https://vavoo.to/play/153693434/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 4
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/3137990890/index.m3u8
+https://vavoo.to/play/2416993844/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 4 (2)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/2416993844/index.m3u8
+https://vavoo.to/play/3137990890/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 5
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
@@ -721,11 +721,11 @@ https://thedaddy.click/stream/stream-880.php
 
 #EXTINF:-1 tvg-id="top.crime.it" tvg-name="TOP CRIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Film & Serie TV",TOP CRIME
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/269503091/index.m3u8
+https://vavoo.to/play/3420407456/index.m3u8
 
 #EXTINF:-1 tvg-id="top.crime.it" tvg-name="TOP CRIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Film & Serie TV",TOP CRIME (2)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/3420407456/index.m3u8
+https://vavoo.to/play/269503091/index.m3u8
 
 #EXTINF:-1 tvg-id="euronews.it" tvg-name="EURONEWS" tvg-logo="https://play-lh.googleusercontent.com/Mi8GAQIp3x94VcvbxZNsK-CTNhHy1zmo51pmME5KkkK4WgN4aQhM1FlNgLZUMD4VAXhL" group-title="News",EURONEWS
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
@@ -841,11 +841,11 @@ https://vavoo.to/play/3267376899/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery.channel.it" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/1955739367/index.m3u8
+https://vavoo.to/play/3554841914/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery.channel.it" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL (2)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/3554841914/index.m3u8
+https://vavoo.to/play/1955739367/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FOCUS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Documentari",DISCOVERY FOCUS
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
@@ -1109,11 +1109,11 @@ https://vavoo.to/play/2381583828/index.m3u8
 
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro",CIELO
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/2719953688/index.m3u8
+https://vavoo.to/play/3743894403/index.m3u8
 
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro",CIELO (2)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/3743894403/index.m3u8
+https://vavoo.to/play/2719953688/index.m3u8
 
 #EXTINF:-1 tvg-id="cine34.it" tvg-name="CINE 34" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Altro",CINE 34
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
@@ -1289,11 +1289,11 @@ https://vavoo.to/play/84139639/index.m3u8
 
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-name="LA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/775530063/index.m3u8
+https://vavoo.to/play/2143522071/index.m3u8
 
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-name="LA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7 (2)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/2143522071/index.m3u8
+https://vavoo.to/play/775530063/index.m3u8
 
 #EXTINF:-1 tvg-id="la7d.it" tvg-name="LA 7 D" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7d-it.png" group-title="Altro",LA 7 D
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
@@ -1819,9 +1819,6 @@ https://thedaddy.click/stream/stream-46.php
 #EXTINF:-1 tvg-id="allelitewrestlingdynamite" tvg-name="WWE | All Elite Wrestling: Dynamite (02:00)" tvg-logo="https://images.seeklogo.com/logo-png/52/3/aew-all-elite-wrestling-logo-png_seeklogo-525465.png" group-title="Eventi Live",WWE | All Elite Wrestling: Dynamite (02:00)
 https://thedaddy.click/stream/stream-336.php
 
-#EXTINF:-1 tvg-id="tnaimpact" tvg-name="WWE | TNA iMPACT! (02:00)" tvg-logo="https://latestlogo.com/wp-content/uploads/2024/01/tna-impact-2024-logo.png" group-title="Eventi Live",WWE | TNA iMPACT! (02:00)
-https://thedaddy.click/stream/stream-742.php
-
 #EXTINF:-1 tvg-id="mlbhoustonastrosvsphiladelphiaphillies" tvg-name="Baseball | MLB : Houston Astros vs Philadelphia Phillies (02:10)" tvg-logo="https://raw.githubusercontent.com/qwertyuiop8899/TV/main/logos/Houston Astros_vs_Philadelphia Phillies.png" group-title="Eventi Live",Baseball | MLB : Houston Astros vs Philadelphia Phillies (02:10)
 https://thedaddy.click/stream/stream-777.php
 
@@ -1873,7 +1870,7 @@ https://thedaddy.click/stream/stream-51.php
 #EXTINF:-1 tvg-id="2025nbadraft" tvg-name="Basketball | 2025 NBA Draft (02:00)" tvg-logo="https://content.sportslogos.net/logos/6/3052/full/_nba_draft_logo_primary_2023_sportslogosnet-8722.png" group-title="Eventi Live",Basketball | 2025 NBA Draft (02:00)
 https://thedaddy.click/stream/stream-44.php
 
-#EXTINF:-1 tvg-id="2025nbadraft" tvg-name="Basketball | 2025 NBA Draft (02:00)" tvg-logo="https://nbadraftnetwork.com/wp-content/uploads/2022/11/nba-draft-logo.png" group-title="Eventi Live",Basketball | 2025 NBA Draft (02:00)
+#EXTINF:-1 tvg-id="2025nbadraft" tvg-name="Basketball | 2025 NBA Draft (02:00)" tvg-logo="https://content.sportslogos.net/logos/6/3052/full/_nba_draft_logo_primary_2023_sportslogosnet-8722.png" group-title="Eventi Live",Basketball | 2025 NBA Draft (02:00)
 https://thedaddy.click/stream/stream-766.php
 
 #EXTINF:-1 tvg-id="wnbalasvegasaceswvsconnecticutsunw" tvg-name="Basketball | WNBA : Las Vegas Aces W vs Connecticut Sun W (04:00)" tvg-logo="https://raw.githubusercontent.com/qwertyuiop8899/TV/main/logos/Las Vegas Aces W_vs_Connecticut Sun W.png" group-title="Eventi Live",Basketball | WNBA : Las Vegas Aces W vs Connecticut Sun W (04:00)
@@ -1882,25 +1879,22 @@ https://thedaddy.click/stream/stream-404.php
 #EXTINF:-1 tvg-id="wnbawnewyorklibertywvsgoldenstatevalkyriesw" tvg-name="Basketball | WNBA W : New York Liberty W vs Golden State Valkyries W (04:00)" tvg-logo="https://raw.githubusercontent.com/qwertyuiop8899/TV/main/logos/New York Liberty W_vs_Golden State Valkyries W.png" group-title="Eventi Live",Basketball | WNBA W : New York Liberty W vs Golden State Valkyries W (04:00)
 https://thedaddy.click/stream/stream-654.php
 
-#EXTINF:-1 tvg-id="nbadraftround2" tvg-name="Basketball | NBA Draft: Round 2 (02:00)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/NBA_Draft_(1990s-2000).png/revision/latest?cb=20180712044045" group-title="Eventi Live",Basketball | NBA Draft: Round 2 (02:00)
-https://thedaddy.click/stream/stream-44.php
-
-#EXTINF:-1 tvg-id="frenchnationalroadchampionshipswomenlesherbiersitt265km" tvg-name="Cycling | French National Road Championships Women | Les Herbiers (ITT, 26.5km) (13:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | French National Road Championships Women | Les Herbiers (ITT, 26.5km) (13:00)
+#EXTINF:-1 tvg-id="frenchnationalroadchampionshipswomenlesherbiersitt265km" tvg-name="Cycling | French National Road Championships Women | Les Herbiers (ITT, 26.5km) (13:00)" tvg-logo="https://www.cadelevansgreatoceanroadrace.com.au/wp-content/uploads/2024/01/2024-Jersey-Human-Powered-Health.png" group-title="Eventi Live",Cycling | French National Road Championships Women | Les Herbiers (ITT, 26.5km) (13:00)
 https://thedaddy.click/stream/stream-34.php
 
-#EXTINF:-1 tvg-id="frenchnationalroadchampionshipswomenlesherbiersitt265km" tvg-name="Cycling | French National Road Championships Women | Les Herbiers (ITT, 26.5km) (13:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | French National Road Championships Women | Les Herbiers (ITT, 26.5km) (13:00)
+#EXTINF:-1 tvg-id="frenchnationalroadchampionshipswomenlesherbiersitt265km" tvg-name="Cycling | French National Road Championships Women | Les Herbiers (ITT, 26.5km) (13:00)" tvg-logo="https://www.cadelevansgreatoceanroadrace.com.au/wp-content/uploads/2024/01/2024-Jersey-Human-Powered-Health.png" group-title="Eventi Live",Cycling | French National Road Championships Women | Les Herbiers (ITT, 26.5km) (13:00)
 https://thedaddy.click/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="frenchnationalroadchampionshipsmenlesherbiersitt265km" tvg-name="Cycling | French National Road Championships Men | Les Herbiers (ITT, 26.5km) (17:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | French National Road Championships Men | Les Herbiers (ITT, 26.5km) (17:00)
+#EXTINF:-1 tvg-id="frenchnationalroadchampionshipsmenlesherbiersitt265km" tvg-name="Cycling | French National Road Championships Men | Les Herbiers (ITT, 26.5km) (17:00)" tvg-logo="https://www.thesportsdb.com/images/media/player/render/m19uet1625147000.png" group-title="Eventi Live",Cycling | French National Road Championships Men | Les Herbiers (ITT, 26.5km) (17:00)
 https://thedaddy.click/stream/stream-34.php
 
-#EXTINF:-1 tvg-id="frenchnationalroadchampionshipsmenlesherbiersitt265km" tvg-name="Cycling | French National Road Championships Men | Les Herbiers (ITT, 26.5km) (17:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | French National Road Championships Men | Les Herbiers (ITT, 26.5km) (17:00)
+#EXTINF:-1 tvg-id="frenchnationalroadchampionshipsmenlesherbiersitt265km" tvg-name="Cycling | French National Road Championships Men | Les Herbiers (ITT, 26.5km) (17:00)" tvg-logo="https://www.thesportsdb.com/images/media/player/render/m19uet1625147000.png" group-title="Eventi Live",Cycling | French National Road Championships Men | Les Herbiers (ITT, 26.5km) (17:00)
 https://thedaddy.click/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Horse Racing | Live racing from around the UK (14:00)" tvg-logo="https://www.enolamproductions.com/drive/images/liveracing.png" group-title="Eventi Live",Horse Racing | Live racing from around the UK (14:00)
 https://thedaddy.click/stream/stream-554.php
 
-#EXTINF:-1 tvg-id="liveracingfromnewmarketnottinghamhamiltonandleicester" tvg-name="Horse Racing | Live racing from Newmarket, Nottingham, Hamilton and Leicester (14:45)" tvg-logo="https://alburyracing.com.au/wp-content/uploads/2021/08/The-Newmarket-Hotel.png" group-title="Eventi Live",Horse Racing | Live racing from Newmarket, Nottingham, Hamilton and Leicester (14:45)
+#EXTINF:-1 tvg-id="liveracingfromnewmarketnottinghamhamiltonandleicester" tvg-name="Horse Racing | Live racing from Newmarket, Nottingham, Hamilton and Leicester (14:45)" tvg-logo="https://britishspeedway.co.uk/wp-content/uploads/2021/04/LIONS-TRANS-300-x-300-2.png" group-title="Eventi Live",Horse Racing | Live racing from Newmarket, Nottingham, Hamilton and Leicester (14:45)
 https://thedaddy.click/stream/stream-555.php
 
 #EXTINF:-1 tvg-id="americasdayattheraces" tvg-name="Horse Racing | America's Day At the Races (19:00)" tvg-logo="https://images.seeklogo.com/logo-png/52/3/a-day-at-the-races-queen-album-logo-png_seeklogo-520226.png" group-title="Eventi Live",Horse Racing | America's Day At the Races (19:00)

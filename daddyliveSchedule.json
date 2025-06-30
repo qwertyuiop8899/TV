@@ -2802,6 +2802,11 @@
                 ]
             },
             {
+                "time": "16:00",
+                "event": "World - Club Friendly : Grazer AK vs Vojvodina",
+                "channels": []
+            },
+            {
                 "time": "17:00",
                 "event": "Friendly International Women : Serbia W vs Russia W",
                 "channels": [
@@ -3274,6 +3279,206 @@
                         "channel_id": "147"
                     }
                 ]
+            },
+            {
+                "time": "04:30",
+                "event": "UTR (F) - Taiwan (TWN) : Amy Zhu vs Yu Chin Tsai",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "UTR (M) - Taiwan (TWN) : Jerome Estephan vs Hiiro Sakamoto",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "UTR (F) - Taiwan (TWN) : Ju-Yun Jeng vs Kseniya Yersh",
+                "channels": []
+            },
+            {
+                "time": "04:30",
+                "event": "UTR (M) - Taiwan (TWN) : Semen Batin vs Chen Hui Ho",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "Challenger - Brasov (ROM) : Dimitar Kuzmanov vs Edas Butvilas",
+                "channels": []
+            },
+            {
+                "time": "07:30",
+                "event": "Challenger - Brasov (ROM) : Kilian Feldbausch vs Radu Mihai Papoe",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Troyes (FRA) : Harold Mayot vs Clement Tabur",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Troyes (FRA) : Lorenzo Giustino vs Tristan Lamasine",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Troyes (FRA) : Marat Sharipov vs Javier Barranco Cosano",
+                "channels": []
+            },
+            {
+                "time": "08:40",
+                "event": "Challenger - Brasov (ROM) : Gabi Adrian Boitan vs Andrea Guerrieri",
+                "channels": []
+            },
+            {
+                "time": "08:40",
+                "event": "Challenger - Brasov (ROM) : Maxim Mrva vs Oriol Roca Batalla",
+                "channels": []
+            },
+            {
+                "time": "08:40",
+                "event": "Challenger - Brasov (ROM) : Zsombor Piros vs Denis Yevseyev",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Troyes (FRA) : Branko Djuric vs Corentin Denolly",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Troyes (FRA) : Cosme Rolland De Ravel vs Joao Lucas Reis Silva",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Troyes (FRA) : Niels Visker vs Norbert Gombos",
+                "channels": []
+            },
+            {
+                "time": "09:50",
+                "event": "Challenger - Brasov (ROM) : Kimmer Coppejans vs Alexander Donski",
+                "channels": []
+            },
+            {
+                "time": "09:50",
+                "event": "Challenger - Brasov (ROM) : Manas Manoj Dhamne vs Christoph Negritu",
+                "channels": []
+            },
+            {
+                "time": "09:50",
+                "event": "Challenger - Brasov (ROM) : Pol Martin Tiffon vs Filip Cristian Jianu",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Modena (ITA) : Andrea Pellegrino vs Aristotelis Thanos",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Modena (ITA) : Federico Cina vs Mili Poljicak",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "WTA - Wimbledon : Katerina Siniakova vs Qinwen Zheng",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Modena (ITA) : Stefano Travaglia vs Geoffrey Blancaneaux",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Troyes (FRA) : Kalin Ivanovski vs Calvin Hemery",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Troyes (FRA) : Nikolas Sanchez Izquierdo vs Daniel Michalski",
+                "channels": []
+            },
+            {
+                "time": "10:20",
+                "event": "Challenger - Troyes (FRA) : Tyler Zink vs Jelle Sels",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "Challenger - Brasov (ROM) : Radu Albot vs Murkel Dellien",
+                "channels": []
+            },
+            {
+                "time": "11:10",
+                "event": "Challenger - Modena (ITA) : Luca Parenti vs Jerome Kym",
+                "channels": []
+            },
+            {
+                "time": "11:10",
+                "event": "Challenger - Modena (ITA) : Max Houkes vs Federico Agustin Gomez",
+                "channels": []
+            },
+            {
+                "time": "11:10",
+                "event": "Challenger - Modena (ITA) : Stefanos Sakellaridis vs Federico Bondioli",
+                "channels": []
+            },
+            {
+                "time": "11:20",
+                "event": "Challenger - Brasov (ROM) - Double : S.Purtseladze/D.Yevseyev vs K.Coppejans/O.Roca Batalla",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Challenger - Troyes (FRA) : Marco Trungelliti vs Florent Bax",
+                "channels": []
+            },
+            {
+                "time": "11:30",
+                "event": "Challenger - Troyes (FRA) : Mikael Ymer vs Mika Brunold",
+                "channels": []
+            },
+            {
+                "time": "13:30",
+                "event": "Challenger - Brasov (ROM) : Felipe Alves vs Francesco Maestrelli",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Challenger - Troyes (FRA) - Double : A.de La Bassetiere/C.de La Bassetiere vs S.Duncan/T.Hands",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Challenger - Troyes (FRA) - Double : A.Reymond/A.Virgili vs D.Poljak/T.Ruehl",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Challenger - Modena (ITA) : Marco Cecchinato vs Thiago Moura Monteiro",
+                "channels": []
+            },
+            {
+                "time": "14:00",
+                "event": "Challenger - Modena (ITA) : Moez Echargui vs Tristan Boyer",
+                "channels": []
+            },
+            {
+                "time": "15:10",
+                "event": "Challenger - Modena (ITA) : Thiago Seyboth Wild vs Max Alcala Gurri",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "Challenger - Troyes (FRA) : Matteo Martineau vs Benoit Paire",
+                "channels": []
+            },
+            {
+                "time": "19:00",
+                "event": "Challenger - Modena (ITA) : Carlos Taberner vs Michael Geerts",
+                "channels": []
             }
         ],
         "WWE</span>": [

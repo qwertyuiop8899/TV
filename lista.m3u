@@ -38,11 +38,11 @@ https://thedaddy.click/stream/stream-852.php
 
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="RAI 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai",RAI 4
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/2179822223/index.m3u8
+https://vavoo.to/play/4241820180/index.m3u8
 
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="RAI 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai",RAI 4 (2)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/4241820180/index.m3u8
+https://vavoo.to/play/2179822223/index.m3u8
 
 #EXTINF:-1 tvg-id="rai4k.it" tvg-name="RAI 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1200px-Rai_4K_-_Logo_2017.svg.png" group-title="Rai",RAI 4K
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
@@ -74,11 +74,11 @@ https://vavoo.to/play/294457245/index.m3u8
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/1925964148/index.m3u8
+https://vavoo.to/play/2835672487/index.m3u8
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE (2)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/2835672487/index.m3u8
+https://vavoo.to/play/1925964148/index.m3u8
 
 #EXTINF:-1 tvg-id="rainews24.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
@@ -90,22 +90,22 @@ https://vavoo.to/play/2272923972/index.m3u8
 
 #EXTINF:-1 tvg-id="raipremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai",RAI PREMIUM
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/2861734300/index.m3u8
+https://vavoo.to/play/2828455552/index.m3u8
 
 #EXTINF:-1 tvg-id="raipremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai",RAI PREMIUM (2)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/2828455552/index.m3u8
+https://vavoo.to/play/2861734300/index.m3u8
 
 #EXTINF:-1 tvg-id="raipremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai",RAI PREMIUM (D)
 https://thedaddy.click/stream/stream-858.php
 
 #EXTINF:-1 tvg-id="raiscuola.it" tvg-name="RAI SCUOLA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-scuola-it.png" group-title="Rai",RAI SCUOLA
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/2007798511/index.m3u8
+https://vavoo.to/play/1886684667/index.m3u8
 
 #EXTINF:-1 tvg-id="raiscuola.it" tvg-name="RAI SCUOLA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-scuola-it.png" group-title="Rai",RAI SCUOLA (2)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/1886684667/index.m3u8
+https://vavoo.to/play/2007798511/index.m3u8
 
 #EXTINF:-1 tvg-id="raisport.it" tvg-name="RAI SPORT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-sport-it.png" group-title="Rai",RAI SPORT
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
@@ -221,19 +221,19 @@ https://thedaddy.click/stream/stream-877.php
 
 #EXTINF:-1 tvg-id="dazn.2.it.it" tvg-name="DAZN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN2
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/2911178456/index.m3u8
+https://vavoo.to/play/1376440573/index.m3u8
 
 #EXTINF:-1 tvg-id="dazn.2.it.it" tvg-name="DAZN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN2 (2)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/1376440573/index.m3u8
+https://vavoo.to/play/2911178456/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/3448075317/index.m3u8
+https://vavoo.to/play/3481346857/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (2)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/3481346857/index.m3u8
+https://vavoo.to/play/3448075317/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (D)
 https://thedaddy.click/stream/stream-878.php
@@ -379,11 +379,11 @@ https://vavoo.to/play/2077387085/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/2100771782/index.m3u8
+https://vavoo.to/play/78546677/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (2)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/78546677/index.m3u8
+https://vavoo.to/play/2100771782/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (D)
 https://thedaddy.click/stream/stream-576.php
@@ -432,11 +432,11 @@ https://vavoo.to/play/2198410339/index.m3u8
 
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="SUPER TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/3009377513/index.m3u8
+https://vavoo.to/play/3213195143/index.m3u8
 
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="SUPER TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS (2)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/3213195143/index.m3u8
+https://vavoo.to/play/3009377513/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL" tvg-logo="https://images.tennis.com/image/upload/t_16-9_768/v1620828532/tenniscom-prd/assets/Fallback/Tennis_Fallback_v6_f5tjzv.jpg" group-title="Sport",TENNIS CHANNEL
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
@@ -514,11 +514,11 @@ https://vavoo.to/play/3812796171/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (2)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/2242741766/index.m3u8
+https://vavoo.to/play/1144128726/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (3)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/1144128726/index.m3u8
+https://vavoo.to/play/2242741766/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (D)
 https://thedaddy.click/stream/stream-861.php
@@ -584,11 +584,11 @@ https://thedaddy.click/stream/stream-864.php
 
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-name="SKY CINEMA SUSPENSE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film & Serie TV",SKY CINEMA SUSPENSE
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/1820997555/index.m3u8
+https://vavoo.to/play/3060043751/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-name="SKY CINEMA SUSPENSE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film & Serie TV",SKY CINEMA SUSPENSE (2)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/3060043751/index.m3u8
+https://vavoo.to/play/1820997555/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-name="SKY CINEMA UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film & Serie TV",SKY CINEMA UNO
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
@@ -650,19 +650,19 @@ https://vavoo.to/play/3470758028/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 2
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/877200714/index.m3u8
+https://vavoo.to/play/525374356/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 2 (2)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/525374356/index.m3u8
+https://vavoo.to/play/877200714/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 3
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/573618724/index.m3u8
+https://vavoo.to/play/153693434/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 3 (2)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/153693434/index.m3u8
+https://vavoo.to/play/573618724/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 4
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
@@ -698,11 +698,11 @@ https://vavoo.to/play/3618643172/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 8
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/1440779061/index.m3u8
+https://vavoo.to/play/2130255339/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 8 (2)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/2130255339/index.m3u8
+https://vavoo.to/play/1440779061/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 9
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
@@ -789,11 +789,11 @@ https://vavoo.to/play/1744435623/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/2178717282/index.m3u8
+https://vavoo.to/play/1987220436/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (2)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/1987220436/index.m3u8
+https://vavoo.to/play/2178717282/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (3)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
@@ -853,11 +853,11 @@ https://vavoo.to/play/2113273064/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/1574591400/index.m3u8
+https://vavoo.to/play/2651461317/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE (2)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/2651461317/index.m3u8
+https://vavoo.to/play/1574591400/index.m3u8
 
 #EXTINF:-1 tvg-id="history.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
@@ -885,11 +885,11 @@ https://vavoo.to/play/3428501495/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-name="SKY ARTE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/1902695925/index.m3u8
+https://vavoo.to/play/1806815496/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-name="SKY ARTE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE (2)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/1806815496/index.m3u8
+https://vavoo.to/play/1902695925/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.documentaries.it" tvg-name="SKY DOCUMENTARIES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari",SKY DOCUMENTARIES
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
@@ -1133,11 +1133,11 @@ https://vavoo.to/play/3658277450/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="COMPANY TV" tvg-logo="https://www.trendcomunicazione.com/wp-content/uploads/2018/11/20180416-logo-tv-bokka-300x155.png" group-title="Altro",COMPANY TV
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/1225484664/index.m3u8
+https://vavoo.to/play/1322483308/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="COMPANY TV" tvg-logo="https://www.trendcomunicazione.com/wp-content/uploads/2018/11/20180416-logo-tv-bokka-300x155.png" group-title="Altro",COMPANY TV (2)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/1322483308/index.m3u8
+https://vavoo.to/play/1225484664/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CREMONA 1" tvg-logo="https://www.arvedi.it/fileadmin/user_upload/istituzionale/gruppo-arvedi-e-informazione-logo-Cremona1.png" group-title="Altro",CREMONA 1
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
@@ -1149,11 +1149,11 @@ https://vavoo.to/play/3156092639/index.m3u8
 
 #EXTINF:-1 tvg-id="dmax.it" tvg-name="DMAX" tvg-logo="https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png" group-title="Altro",DMAX
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/3803638765/index.m3u8
+https://vavoo.to/play/3008151733/index.m3u8
 
 #EXTINF:-1 tvg-id="dmax.it" tvg-name="DMAX" tvg-logo="https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png" group-title="Altro",DMAX (2)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/3008151733/index.m3u8
+https://vavoo.to/play/3803638765/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ELIVE TV BRESCIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/%C3%88_live_Brescia_logo.png" group-title="Altro",ELIVE TV BRESCIA
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
@@ -1289,11 +1289,11 @@ https://vavoo.to/play/84139639/index.m3u8
 
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-name="LA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/2143522071/index.m3u8
+https://vavoo.to/play/775530063/index.m3u8
 
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-name="LA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7 (2)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/775530063/index.m3u8
+https://vavoo.to/play/2143522071/index.m3u8
 
 #EXTINF:-1 tvg-id="la7d.it" tvg-name="LA 7 D" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7d-it.png" group-title="Altro",LA 7 D
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
@@ -1327,11 +1327,11 @@ https://vavoo.to/play/3648324945/index.m3u8
 
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-name="MOTORTREND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/3889279895/index.m3u8
+https://vavoo.to/play/3758728323/index.m3u8
 
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-name="MOTORTREND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND (2)
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}
-https://vavoo.to/play/3758728323/index.m3u8
+https://vavoo.to/play/3889279895/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ONDA NOVARA TV" tvg-logo="https://gag-fondazionedeagostini.s3.amazonaws.com/wp-content/uploads/2023/03/logo-Onda-Novara-TV-Ufficiale-1.png" group-title="Altro",ONDA NOVARA TV
 #EXTHTTP:{"User-Agent": "VAVOO/2.6", "Referer": "https://vavoo.to/", "Origin": "https://vavoo.to"}

@@ -1,5 +1,87 @@
 {
     "Thursday 03rd July 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "21:30",
+                "event": "2025 Weekly Racing at Stafford Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "55"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "Super DIRTcar Series Land of Legends",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "59"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "DIRTcar Summer Nationals Late Models LaSalle",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "68"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "2025 Bill Shea Memorial at Utica-Rome Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "69"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2025 Independence Day Spectacular at Thunder Road Speedbowl",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "76"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "World of Outlaws Late Models",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "77"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "American Sprint Car Series Belleville",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "86"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "wXw Drive of Champions Fight Forever",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "105"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "19:00",

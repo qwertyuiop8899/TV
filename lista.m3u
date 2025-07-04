@@ -409,6 +409,10 @@ https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
 https://vavoo.to/vavoo-iptv/play/313448120145a6443975e1
 #EXTINF:-1 tvg-id="mediaset.extra.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/mediaset-extra-it.png" group-title="Mediaset",MEDIASET EXTRA
 https://vavoo.to/vavoo-iptv/play/4774665319f73c392df0e
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET INFINITY+ 1
+https://vavoo.to/vavoo-iptv/play/3599959739ed5ed2f1f0cd
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET INFINITY+ 2
+https://vavoo.to/vavoo-iptv/play/2436070507988d651c6548
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET INFINITY+ 5
 https://vavoo.to/vavoo-iptv/play/588488827b855babc9df4
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",MEDIASET IRIS
@@ -523,26 +527,18 @@ https://thedaddy.click/stream/stream-875.php
 https://thedaddy.click/stream/stream-876.php
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
 https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://thedaddy.click/stream/stream-462.php
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
-#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
-https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
 https://thedaddy.click/stream/stream-870.php
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1
 https://vavoo.to/vavoo-iptv/play/42467740561588897497f2
-#EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1
-https://vavoo.to/vavoo-iptv/play/42467740561588897497f2
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (D)
 https://thedaddy.click/stream/stream-577.php
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL
-https://vavoo.to/vavoo-iptv/play/309353533094c3ad269514
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL
 https://vavoo.to/vavoo-iptv/play/309353533094c3ad269514
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL (D)
@@ -709,6 +705,8 @@ https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 https://vavoo.to/vavoo-iptv/play/209862439074120bb15132
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN FAMILY
 https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN TOP FREE
+https://vavoo.to/vavoo-iptv/play/1572866962efea4ca22353
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN TV SHOWS
 https://vavoo.to/vavoo-iptv/play/860912269147f85ae7a8
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film & Serie TV",SKY ATLANTIC
@@ -942,7 +940,7 @@ https://thedaddy.click/stream/stream-879.php
 #EXTINF:-1 tvg-id="formula2qatarairwaysbritishgppractice" tvg-name="Motorsport | Formula 2 : Qatar Airways British GP - Practice (11:00)" tvg-logo="https://assets.antenaplay.ro/2024/02/28/YW9VML2K4hpFUKMHme97.png" group-title="Eventi Live",Motorsport | Formula 2 : Qatar Airways British GP - Practice (11:00)
 https://thedaddy.click/stream/stream-577.php
 
-#EXTINF:-1 tvg-id="formula3qatarairwaysbritishgppractice" tvg-name="Motorsport | Formula 3 : Qatar Airways British GP - Practice (10:00)" tvg-logo="https://images.seeklogo.com/logo-png/5/2/formula-3-euro-series-logo-png_seeklogo-56757.png" group-title="Eventi Live",Motorsport | Formula 3 : Qatar Airways British GP - Practice (10:00)
+#EXTINF:-1 tvg-id="formula3qatarairwaysbritishgppractice" tvg-name="Motorsport | Formula 3 : Qatar Airways British GP - Practice (10:00)" tvg-logo="https://assets.antenaplay.ro/2024/02/28/YW9VML2K4hpFUKMHme97.png" group-title="Eventi Live",Motorsport | Formula 3 : Qatar Airways British GP - Practice (10:00)
 https://thedaddy.click/stream/stream-577.php
 
 #EXTINF:-1 tvg-id="formula1qatarairwaysbritishgppractice1" tvg-name="Motorsport | Formula 1 : Qatar Airways British GP - Practice 1 (13:30)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : Qatar Airways British GP - Practice 1 (13:30)
@@ -960,7 +958,7 @@ https://thedaddy.click/stream/stream-577.php
 #EXTINF:-1 tvg-id="worldchampionshipu20franceu20vswalesu20" tvg-name="Rugby Union | World Championship U20 : France U20 vs Wales U20 (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/France U20_vs_Wales U20.png" group-title="Eventi Live",Rugby Union | World Championship U20 : France U20 vs Wales U20 (15:30)
 https://thedaddy.click/stream/stream-460.php
 
-#EXTINF:-1 tvg-id="grandprixdivingmeetingbolzano2025finals1stday" tvg-name="Water Sports | Grand Prix Diving Meeting Bolzano 2025-Finals 1st day (17:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/80347d2e-69cc-43e1-b432-3a8835f8a7f1/dgl8cfr-5a03d4c0-388c-43d9-a620-aa64c8711517.png/v1/fill/w_307,h_306/the_finals_icon_by_beeminbenji_dgl8cfr-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzA2IiwicGF0aCI6IlwvZlwvODAzNDdkMmUtNjljYy00M2UxLWI0MzItM2E4ODM1ZjhhN2YxXC9kZ2w4Y2ZyLTVhMDNkNGMwLTM4OGMtNDNkOS1hNjIwLWFhNjRjODcxMTUxNy5wbmciLCJ3aWR0aCI6Ijw9MzA3In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.MdzBNwZfxb-_9Yahc3Pj25DyniCNVfRTHqk-po6B6ko" group-title="Eventi Live",Water Sports | Grand Prix Diving Meeting Bolzano 2025-Finals 1st day (17:00)
+#EXTINF:-1 tvg-id="grandprixdivingmeetingbolzano2025finals1stday" tvg-name="Water Sports | Grand Prix Diving Meeting Bolzano 2025-Finals 1st day (17:00)" tvg-logo="https://graphdrawing.github.io/gd2025/assets/images/logo/gdlogo-2025-transparent.png" group-title="Eventi Live",Water Sports | Grand Prix Diving Meeting Bolzano 2025-Finals 1st day (17:00)
 https://thedaddy.click/stream/stream-882.php
 
 

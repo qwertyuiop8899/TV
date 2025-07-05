@@ -483,8 +483,6 @@ https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1 (D)
 https://thedaddy.click/stream/stream-877.php
-#EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
-https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1
 https://vavoo.to/vavoo-iptv/play/34813468571b25fb16646d
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1
@@ -527,10 +525,10 @@ https://thedaddy.click/stream/stream-874.php
 https://thedaddy.click/stream/stream-875.php
 #EXTINF:-1 tvg-id="sky.sport..256.it" tvg-logo="" group-title="Sport",SKY SPORT 256 (D)
 https://thedaddy.click/stream/stream-876.php
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://thedaddy.click/stream/stream-462.php
-#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
-https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
@@ -935,7 +933,7 @@ https://thedaddy.click/stream/stream-30.php
 #EXTINF:-1 tvg-id="2025wimbledonchampionshipsearlyroundcoverageday6" tvg-name="Tennis | 2025 Wimbledon Championships Early Round Coverage, Day 6 (20:00)" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/wimbledon-logo-png-transparent-tennis-new-latest-750x750.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Early Round Coverage, Day 6 (20:00)
 https://thedaddy.click/stream/stream-576.php
 
-#EXTINF:-1 tvg-id="2025wimbledonchampionshipsearlyroundcoverageday6" tvg-name="Tennis | 2025 Wimbledon Championships Early Round Coverage, Day 6 (20:00)" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/wimbledon-logo-png-transparent-tennis-new-latest-750x750.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Early Round Coverage, Day 6 (20:00)
+#EXTINF:-1 tvg-id="2025wimbledonchampionshipsearlyroundcoverageday6" tvg-name="Tennis | 2025 Wimbledon Championships Early Round Coverage, Day 6 (20:00)" tvg-logo="https://blog.flicks.co.nz/wp-content/uploads/The-Championships-Wimbledon-Logo-2.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Early Round Coverage, Day 6 (20:00)
 https://thedaddy.click/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="2025wimbledonchampionshipsearlyroundcoverageday6" tvg-name="Tennis | 2025 Wimbledon Championships Early Round Coverage, Day 6 (20:00)" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/wimbledon-logo-png-transparent-tennis-new-latest-750x750.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Early Round Coverage, Day 6 (20:00)
@@ -950,10 +948,10 @@ https://thedaddy.click/stream/stream-577.php
 #EXTINF:-1 tvg-id="formula2qatarairwaysbritishgpsprintrace" tvg-name="Motorsport | Formula 2 : Qatar Airways British GP - Sprint Race (14:15)" tvg-logo="https://assets.antenaplay.ro/2024/02/28/YW9VML2K4hpFUKMHme97.png" group-title="Eventi Live",Motorsport | Formula 2 : Qatar Airways British GP - Sprint Race (14:15)
 https://thedaddy.click/stream/stream-577.php
 
-#EXTINF:-1 tvg-id="formula1qatarairwaysbritishgpqualifying" tvg-name="Motorsport | Formula 1 : Qatar Airways British GP - Qualifying (16:00)" tvg-logo="https://i0.wp.com/logodownload.org/wp-content/uploads/2016/11/formula-1-logo-0.png" group-title="Eventi Live",Motorsport | Formula 1 : Qatar Airways British GP - Qualifying (16:00)
+#EXTINF:-1 tvg-id="formula1qatarairwaysbritishgpqualifying" tvg-name="Motorsport | Formula 1 : Qatar Airways British GP - Qualifying (16:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : Qatar Airways British GP - Qualifying (16:00)
 https://thedaddy.click/stream/stream-577.php
 
-#EXTINF:-1 tvg-id="brusselsfreestylesemifinalsworldcupwomen" tvg-name="Cycling | Brussels | Freestyle | Semifinals World Cup | Women (15:45)" tvg-logo="https://diabeteswise.org/assets/default-site/freestyle-libre-2-device-image__FocusFillMaxWyIwLjAwIiwiMC4wMCIsODAwLDgwMF0.png" group-title="Eventi Live",Cycling | Brussels | Freestyle | Semifinals World Cup | Women (15:45)
+#EXTINF:-1 tvg-id="brusselsfreestylesemifinalsworldcupwomen" tvg-name="Cycling | Brussels | Freestyle | Semifinals World Cup | Women (15:45)" tvg-logo="https://www.swingit.brussels/build/img/sibLogo.7917ed9b.png" group-title="Eventi Live",Cycling | Brussels | Freestyle | Semifinals World Cup | Women (15:45)
 https://thedaddy.click/stream/stream-879.php
 
 #EXTINF:-1 tvg-id="jumpingmonacoglobalchampionstourevent8" tvg-name="Equestrian | Jumping | Monaco Global Champions Tour | Event 8 (20:00)" tvg-logo="https://wallpapers.com/images/hd/jumping-dolphins-png-msa11-zkozgrf5rwn8bq1z.png" group-title="Eventi Live",Equestrian | Jumping | Monaco Global Champions Tour | Event 8 (20:00)

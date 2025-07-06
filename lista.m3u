@@ -251,10 +251,6 @@ https://vavoo.to/vavoo-iptv/play/2130523218823893ad0255
 https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 #EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO (D)
 https://thedaddy.click/stream/stream-881.php
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/star-comedy-pt.png?raw=true" group-title="Altro",STAR COMEDY
-https://vavoo.to/vavoo-iptv/play/151207238423ec1d54e5b8
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/star-life-ar.png?raw=true" group-title="Altro",STAR LIFE
-https://vavoo.to/vavoo-iptv/play/3946128844a366ea9809f0
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.stereo5.it/2022/wp-content/uploads/2023/02/LOGO-NUOVO-2023-2.png" group-title="Altro",STEREO 5 TV
 https://vavoo.to/vavoo-iptv/play/88205050e85664590a6b
 #EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/439/74/png-clipart-superman-superhero-drawing-super-man-font-superhero-heart.png" group-title="Altro",SUPER J
@@ -377,6 +373,8 @@ https://vavoo.to/vavoo-iptv/play/1249978054d9101729f51f
 https://vavoo.to/vavoo-iptv/play/24994885846c204e8b0b86
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kAZM1WRzE6qfQx90xPJ3v1Jz1gaJwn6BbrZcewu6eTcQ=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",VIDEOTOLENTINO
 https://vavoo.to/vavoo-iptv/play/201531251001a1e9936f4c
+#EXTINF:-1 tvg-id="warner.tv.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Warner_TV_Italy.svg/1200px-Warner_TV_Italy.svg.png" group-title="Altro",WARNER TV
+https://vavoo.to/vavoo-iptv/play/3171202588cf85ec4cba3f
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Altro",WWE CHANNEL
 https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08
 
@@ -481,6 +479,8 @@ https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1 (D)
 https://thedaddy.click/stream/stream-877.php
+#EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
+https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1
 https://vavoo.to/vavoo-iptv/play/34813468571b25fb16646d
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1
@@ -915,12 +915,6 @@ https://vavoo.to/vavoo-iptv/play/57338653b83f61385a9f
 https://vavoo.to/vavoo-iptv/play/178550192490bfbe154312
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Rai",RAI YOYO
 https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
-
-#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
-https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="uefawomenseuronorwayvsfinland" tvg-name="Soccer | UEFA Women's Euro : Norway vs Finland (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Norway_vs_Finland.png" group-title="Eventi Live",Soccer | UEFA Women's Euro : Norway vs Finland (18:00)
-https://thedaddy.click/stream/stream-882.php
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas

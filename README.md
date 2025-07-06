@@ -37,7 +37,7 @@ Non sai come creare un proxy o vuoi una lista gia pronta usa questo link.
 ## 🔗 Link Film & MPD TEST
 
 Queste liste devono essere utilizzate con mediaflow-proxy usando questo link per generare l' URL da usare.
-[`[https://nzo66-mfpform3u.hf.space]`](https://nzo666-playlist-generator.hf.space)
+[`[[https://nzo66-mfpform3u.hf.space]`](https://nzo666-playlist-generator.hf.space)
 
 - **Lista Film**  
   [`https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/film.m3u`](https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/film.m3u)

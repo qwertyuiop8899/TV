@@ -288,3 +288,6 @@ https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S
 
 #EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boomerang-it.png" group-title="Bambini",BOOMERANG (MPD)
 https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(boomerang)/master_2hr-aac.mpd&amp;key_id=1115cc41a0daf57a22c1c81bd139b559&amp;key=31347f9bbc90713e972249b54ec882b2
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY ADVENTURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Sky_Adventure_Logo_1080p.png" group-title="Altro",SKY ADVENTURE (MPD)
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skyadventure)/master_2hr-aac.mpd&key_id=11158035ffbf17eebd02027e96383161&key=7e1ea10428e8c5cdfdac6c55b23018d2

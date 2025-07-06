@@ -102,7 +102,7 @@ Avvia creando un fork della repository proxy.
 
 ### 🔁 Come proxare le liste con Mediaflow-Proxy e TvProxy assieme?
 
-Usa questo: [`https://nzo666-playlist-generator.hf.space`](https://github.com/nzo66/Playlist-Generator)
+Usa questo: [`https://github.com/nzo66/Playlist-Generator`](https://github.com/nzo66/Playlist-Generator)
 
 Questo ti permetterà di servire la lista M3U attraverso il tuo proxy personale in modo sicuro e performante.
 

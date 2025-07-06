@@ -30,7 +30,7 @@ Queste liste devono essere utilizzate con un proxy.
 Non sai come creare un proxy o vuoi una lista gia pronta usa questo link.
 
 - **Lista M3U con Proxy**  
-  [`https://nzo66-tvproxy.hf.space/proxy?url=https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/lista.m3u`](https://nzo66-tvproxy.hf.space/proxy?url=https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/lista.m3u)
+  [`https://nzo666-tvproxy.hf.space/proxy?url=https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/lista.m3u`](https://nzo666-tvproxy.hf.space/proxy?url=https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/lista.m3u)
 
 ---
 

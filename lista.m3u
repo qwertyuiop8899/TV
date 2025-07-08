@@ -395,8 +395,6 @@ https://vavoo.to/vavoo-iptv/play/80896559d4a6e09d36f1
 https://vavoo.to/vavoo-iptv/play/15341618078b08a3db572d
 #EXTINF:-1 tvg-id="canale.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5
 https://vavoo.to/vavoo-iptv/play/110155966670807e698f7d
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset",CINE 34 MEDIASET
-https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38
 #EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1
 https://vavoo.to/vavoo-iptv/play/663536394520458805ef6
 #EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1 (D)
@@ -707,8 +705,6 @@ https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 https://vavoo.to/vavoo-iptv/play/209862439074120bb15132
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN FAMILY
 https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN TOP FREE
-https://vavoo.to/vavoo-iptv/play/1572866962efea4ca22353
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN TV SHOWS
 https://vavoo.to/vavoo-iptv/play/860912269147f85ae7a8
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film & Serie TV",SKY ATLANTIC
@@ -837,6 +833,8 @@ https://vavoo.to/vavoo-iptv/play/49095557997f00b59c5b8
 https://vavoo.to/vavoo-iptv/play/33760313550167605877f1
 #EXTINF:-1 tvg-id="sky.tg24.it" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News",SKY TG 24
 https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe
+#EXTINF:-1 tvg-id="tgcom24.it" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News",TG COM 24
+https://vavoo.to/vavoo-iptv/play/1785098768e3514b1dbecc
 #EXTINF:-1 tvg-id="tg.norba.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24
 https://vavoo.to/vavoo-iptv/play/33797298178cac7afa180a
 #EXTINF:-1 tvg-id="tg.norba.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24
@@ -883,8 +881,6 @@ https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
 https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
-https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
@@ -923,8 +919,26 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="uefawomenseuroportugalvsitaly" tvg-name="Soccer | UEFA Women's Euro : Portugal vs Italy (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Portugal_vs_Italy.png" group-title="Eventi Live",Soccer | UEFA Women's Euro : Portugal vs Italy (21:00)
-https://thedaddy.click/stream/stream-851.php
+#EXTINF:-1 tvg-id="uefawomenseurogermanyvsdenmark" tvg-name="Soccer | UEFA Women's Euro : Germany vs Denmark (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Germany_vs_Denmark.png" group-title="Eventi Live",Soccer | UEFA Women's Euro : Germany vs Denmark (18:00)
+https://thedaddy.click/stream/stream-882.php
+
+#EXTINF:-1 tvg-id="uefawomenseuropolandvssweden" tvg-name="Soccer | UEFA Women's Euro : Poland vs Sweden (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Poland_vs_Sweden.png" group-title="Eventi Live",Soccer | UEFA Women's Euro : Poland vs Sweden (21:00)
+https://thedaddy.click/stream/stream-15.php
+
+#EXTINF:-1 tvg-id="fifaclubworldcupfluminensevschelsea" tvg-name="Soccer | FIFA Club World Cup : Fluminense vs Chelsea (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fluminense_vs_Chelsea.png" group-title="Eventi Live",Soccer | FIFA Club World Cup : Fluminense vs Chelsea (21:00)
+https://thedaddy.click/stream/stream-16.php
+
+#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiessinglesdoublesquarterfinals" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals (10:00)" tvg-logo="https://blog.flicks.co.nz/wp-content/uploads/The-Championships-Wimbledon-Logo-2.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals (10:00)
+https://thedaddy.click/stream/stream-576.php
+
+#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiessinglesdoublesquarterfinals" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals (10:00)" tvg-logo="https://blog.flicks.co.nz/wp-content/uploads/The-Championships-Wimbledon-Logo-2.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals (10:00)
+https://thedaddy.click/stream/stream-878.php
+
+#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiessinglesdoublesquarterfinals" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals (10:00)" tvg-logo="https://blog.flicks.co.nz/wp-content/uploads/The-Championships-Wimbledon-Logo-2.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Quarter-finals (10:00)
+https://thedaddy.click/stream/stream-879.php
+
+#EXTINF:-1 tvg-id="worldcup2025lonatodelgardawomensskeet" tvg-name="Shooting | World Cup 2025-Lonato del Garda: Women's Skeet (14:45)" tvg-logo="https://images.seeklogo.com/logo-png/57/2/club-world-cup-2025-logo-png_seeklogo-577684.png" group-title="Eventi Live",Shooting | World Cup 2025-Lonato del Garda: Women's Skeet (14:45)
+https://thedaddy.click/stream/stream-882.php
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas

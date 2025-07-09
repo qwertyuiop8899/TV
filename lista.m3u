@@ -497,6 +497,8 @@ https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (D)
 https://thedaddy.click/stream/stream-879.php
+#EXTINF:-1 tvg-id="inter.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/inter-tv-it.png?raw=true" group-title="Sport",INTER TV
+https://vavoo.to/vavoo-iptv/play/29737730766a27b9a63e21
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/lazio-style-channel-it.png?raw=true" group-title="Sport",LAZIO TV
 https://vavoo.to/vavoo-iptv/play/2774026655397d6ec52fe5
 #EXTINF:-1 tvg-id="milan.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/milan-tv-it.png" group-title="Sport",MILAN TV
@@ -531,8 +533,6 @@ https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
 https://thedaddy.click/stream/stream-462.php
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
-#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
-https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
@@ -637,6 +637,8 @@ https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
 https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
+#EXTINF:-1 tvg-id="sky.documentaries.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari",SKY DOCUMENTARIES
+https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
 #EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari",SKY NATURE
 https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teleartetv.it/web/wp-content/uploads/2023/04/logo_TA.jpg" group-title="Documentari",TELEARTE
@@ -930,7 +932,7 @@ https://thedaddy.click/stream/stream-1.php
 #EXTINF:-1 tvg-id="fifaclubworldcupsemifinal2psgvsrealmadrid" tvg-name="Soccer | FIFA Club World Cup Semi Final 2 : PSG vs Real Madrid (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/PSG_vs_Real Madrid.png" group-title="Eventi Live",Soccer | FIFA Club World Cup Semi Final 2 : PSG vs Real Madrid (21:00)
 https://thedaddy.click/stream/stream-13.php
 
-#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiessinglesdoublesquarterfinals" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)" tvg-logo="http://assets.stickpng.com/images/626698bc2c88722059d5870d.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)
+#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiessinglesdoublesquarterfinals" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)" tvg-logo="https://assets.stickpng.com/images/626698bc2c88722059d5870d.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)
 https://thedaddy.click/stream/stream-576.php
 
 #EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiessinglesdoublesquarterfinals" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)" tvg-logo="http://assets.stickpng.com/images/626698bc2c88722059d5870d.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)
@@ -939,7 +941,7 @@ https://thedaddy.click/stream/stream-878.php
 #EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiessinglesdoublesquarterfinals" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)" tvg-logo="http://assets.stickpng.com/images/626698bc2c88722059d5870d.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)
 https://thedaddy.click/stream/stream-879.php
 
-#EXTINF:-1 tvg-id="uciworldtourstage3tourdefrance" tvg-name="Cycling | UCI World Tour Stage 3 - Tour de France (15:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/igahc11535183469.png" group-title="Eventi Live",Cycling | UCI World Tour Stage 3 - Tour de France (15:00)
+#EXTINF:-1 tvg-id="uciworldtourstage3tourdefrance" tvg-name="Cycling | UCI World Tour Stage 3 - Tour de France (15:00)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/03/Tour-de-France-Logo-history-2048x2043.png" group-title="Eventi Live",Cycling | UCI World Tour Stage 3 - Tour de France (15:00)
 https://thedaddy.click/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="worldchampionshipu20southafricau20vsscotlandu20" tvg-name="Rugby Union | World Championship U20 : South Africa U20 vs Scotland U20 (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/South Africa U20_vs_Scotland U20.png" group-title="Eventi Live",Rugby Union | World Championship U20 : South Africa U20 vs Scotland U20 (15:30)

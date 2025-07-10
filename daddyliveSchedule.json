@@ -2662,7 +2662,7 @@
         ]
     },
     "Friday 11th July 2025 - Schedule Time UK GMT": {
-        "Volleyball</span>": [
+        "TV Shows</span>": [
             {
                 "time": "18:00",
                 "event": "Beyond the Gates Season 1, Episode 88",
@@ -3024,156 +3024,6 @@
                     {
                         "channel_name": "truTV USA",
                         "channel_id": "341"
-                    }
-                ]
-            },
-            {
-                "time": "06:30",
-                "event": "Nations League Women : Bulgaria W vs France W",
-                "channels": [
-                    {
-                        "channel_name": "Polsat Sport 1 Poland",
-                        "channel_id": "47"
-                    },
-                    {
-                        "channel_name": "Sportklub HD Croatia",
-                        "channel_id": "453"
-                    },
-                    {
-                        "channel_name": "Max Sport 2 Bulgaria",
-                        "channel_id": "473"
-                    }
-                ]
-            },
-            {
-                "time": "10:20",
-                "event": "Nations League Women : Poland W vs Brazil W",
-                "channels": [
-                    {
-                        "channel_name": "Polsat Sport 1 Poland",
-                        "channel_id": "47"
-                    },
-                    {
-                        "channel_name": "Sportklub HD Croatia",
-                        "channel_id": "453"
-                    },
-                    {
-                        "channel_name": "Arena Sport 1 Serbia",
-                        "channel_id": "429"
-                    },
-                    {
-                        "channel_name": "SporTV2 Brazil",
-                        "channel_id": "79"
-                    },
-                    {
-                        "channel_name": "Max Sport 2 Bulgaria",
-                        "channel_id": "473"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "Nations League Women : Belgium W vs Serbia W",
-                "channels": [
-                    {
-                        "channel_name": "Polsat Sport 2 Poland",
-                        "channel_id": "50"
-                    },
-                    {
-                        "channel_name": "Arena Premium 3 Serbia",
-                        "channel_id": "139"
-                    },
-                    {
-                        "channel_name": "Max Sport 2 Bulgaria",
-                        "channel_id": "473"
-                    },
-                    {
-                        "channel_name": "TRT Spor Turkey",
-                        "channel_id": "889"
-                    },
-                    {
-                        "channel_name": "Sportklub HD Croatia",
-                        "channel_id": "453"
-                    }
-                ]
-            },
-            {
-                "time": "18:30",
-                "event": "Nations League Women : Czech Republic W Turkey W",
-                "channels": [
-                    {
-                        "channel_name": "Polsat Sport 2 Poland",
-                        "channel_id": "50"
-                    },
-                    {
-                        "channel_name": "CT Sport Czech HD",
-                        "channel_id": "16"
-                    },
-                    {
-                        "channel_name": "Arena Sport 1 Serbia",
-                        "channel_id": "429"
-                    },
-                    {
-                        "channel_name": "TRT 1 Turkey",
-                        "channel_id": "1012"
-                    },
-                    {
-                        "channel_name": "Max Sport 2 Bulgaria",
-                        "channel_id": "473"
-                    },
-                    {
-                        "channel_name": "SporTV2 Brazil",
-                        "channel_id": "79"
-                    },
-                    {
-                        "channel_name": "Sportklub HD Croatia",
-                        "channel_id": "453"
-                    }
-                ]
-            },
-            {
-                "time": "21:00",
-                "event": "Nations League Women : Thailand W vs Dominican Republic W",
-                "channels": [
-                    {
-                        "channel_name": "Polsat Sport 1 Poland",
-                        "channel_id": "47"
-                    },
-                    {
-                        "channel_name": "SporTV2 Brazil",
-                        "channel_id": "79"
-                    },
-                    {
-                        "channel_name": "Sportklub HD Croatia",
-                        "channel_id": "453"
-                    }
-                ]
-            },
-            {
-                "time": "00:30",
-                "event": "Nations League Women : Canada W vs China W",
-                "channels": [
-                    {
-                        "channel_name": "Polsat Sport 1 Poland",
-                        "channel_id": "47"
-                    },
-                    {
-                        "channel_name": "SporTV2 Brazil",
-                        "channel_id": "79"
-                    },
-                    {
-                        "channel_name": "Sport Klub 3 Croatia",
-                        "channel_id": "103"
-                    }
-                ]
-            },
-            {
-                "time": "02:00",
-                "event": "AVP Beach Volleyball League Week 5 - Los Angeles",
-                "channels": [
-                    {
-                        "channel_name": "CBS Sports Network USA",
-                        "channel_id": "308"
                     }
                 ]
             }
@@ -5088,13 +4938,7 @@
                     {
                         "channel_name": "MSG USA",
                         "channel_id": "765"
-                    }
-                ]
-            },
-            {
-                "time": "02:30",
-                "event": "Athletes Unlimited Softball League : Blaze vs Volts",
-                "channels": [
+                    },
                     {
                         "channel_name": "Bally Sports Sun",
                         "channel_id": "905"
@@ -5336,16 +5180,16 @@
                         "channel_id": "14"
                     },
                     {
+                        "channel_name": "NBCS California",
+                        "channel_id": "755"
+                    },
+                    {
                         "channel_name": "TVA Sports CA",
                         "channel_id": "833"
                     },
                     {
                         "channel_name": "Sportsnet Ontario",
                         "channel_id": "406"
-                    },
-                    {
-                        "channel_name": "NBCS California",
-                        "channel_id": "755"
                     }
                 ]
             },
@@ -5414,12 +5258,12 @@
                 "event": "NBA Las Vegas Summer League : New York Knicks vs Detroit Pistons",
                 "channels": [
                     {
-                        "channel_name": "FanDuel Sports Network Detroit",
-                        "channel_id": "891"
-                    },
-                    {
                         "channel_name": "NBA TV USA",
                         "channel_id": "404"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network Detroit",
+                        "channel_id": "891"
                     },
                     {
                         "channel_name": "beIN Sports 5 Max France",
@@ -5490,12 +5334,12 @@
                 "event": "NBA Las Vegas Summer League : LA Clippers vs Houston Rockets",
                 "channels": [
                     {
-                        "channel_name": "FanDuel Sports Network SoCal",
-                        "channel_id": "902"
-                    },
-                    {
                         "channel_name": "NBA TV USA",
                         "channel_id": "404"
+                    },
+                    {
+                        "channel_name": "FanDuel Sports Network SoCal",
+                        "channel_id": "902"
                     },
                     {
                         "channel_name": "beIN Sports 5 Max France",
@@ -5858,6 +5702,158 @@
                     {
                         "channel_name": "Sky Sports Mix UK",
                         "channel_id": "449"
+                    }
+                ]
+            }
+        ],
+        "Volleyball</span>": [
+            {
+                "time": "06:30",
+                "event": "Nations League Women : Bulgaria W vs France W",
+                "channels": [
+                    {
+                        "channel_name": "Polsat Sport 1 Poland",
+                        "channel_id": "47"
+                    },
+                    {
+                        "channel_name": "Sportklub HD Croatia",
+                        "channel_id": "453"
+                    },
+                    {
+                        "channel_name": "Max Sport 2 Bulgaria",
+                        "channel_id": "473"
+                    }
+                ]
+            },
+            {
+                "time": "10:20",
+                "event": "Nations League Women : Poland W vs Brazil W",
+                "channels": [
+                    {
+                        "channel_name": "Polsat Sport 1 Poland",
+                        "channel_id": "47"
+                    },
+                    {
+                        "channel_name": "Sportklub HD Croatia",
+                        "channel_id": "453"
+                    },
+                    {
+                        "channel_name": "Arena Sport 1 Serbia",
+                        "channel_id": "429"
+                    },
+                    {
+                        "channel_name": "SporTV2 Brazil",
+                        "channel_id": "79"
+                    },
+                    {
+                        "channel_name": "Max Sport 2 Bulgaria",
+                        "channel_id": "473"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "Nations League Women : Belgium W vs Serbia W",
+                "channels": [
+                    {
+                        "channel_name": "Polsat Sport 2 Poland",
+                        "channel_id": "50"
+                    },
+                    {
+                        "channel_name": "Arena Premium 3 Serbia",
+                        "channel_id": "139"
+                    },
+                    {
+                        "channel_name": "Max Sport 2 Bulgaria",
+                        "channel_id": "473"
+                    },
+                    {
+                        "channel_name": "TRT Spor Turkey",
+                        "channel_id": "889"
+                    },
+                    {
+                        "channel_name": "Sportklub HD Croatia",
+                        "channel_id": "453"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "Nations League Women : Czech Republic W Turkey W",
+                "channels": [
+                    {
+                        "channel_name": "Polsat Sport 2 Poland",
+                        "channel_id": "50"
+                    },
+                    {
+                        "channel_name": "CT Sport Czech HD",
+                        "channel_id": "16"
+                    },
+                    {
+                        "channel_name": "Arena Sport 1 Serbia",
+                        "channel_id": "429"
+                    },
+                    {
+                        "channel_name": "TRT 1 Turkey",
+                        "channel_id": "1012"
+                    },
+                    {
+                        "channel_name": "Max Sport 2 Bulgaria",
+                        "channel_id": "473"
+                    },
+                    {
+                        "channel_name": "SporTV2 Brazil",
+                        "channel_id": "79"
+                    },
+                    {
+                        "channel_name": "Sportklub HD Croatia",
+                        "channel_id": "453"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "Nations League Women : Thailand W vs Dominican Republic W",
+                "channels": [
+                    {
+                        "channel_name": "Polsat Sport 1 Poland",
+                        "channel_id": "47"
+                    },
+                    {
+                        "channel_name": "SporTV2 Brazil",
+                        "channel_id": "79"
+                    },
+                    {
+                        "channel_name": "Sportklub HD Croatia",
+                        "channel_id": "453"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "Nations League Women : Canada W vs China W",
+                "channels": [
+                    {
+                        "channel_name": "Polsat Sport 1 Poland",
+                        "channel_id": "47"
+                    },
+                    {
+                        "channel_name": "SporTV2 Brazil",
+                        "channel_id": "79"
+                    },
+                    {
+                        "channel_name": "Sport Klub 3 Croatia",
+                        "channel_id": "103"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "AVP Beach Volleyball League Week 5 - Los Angeles",
+                "channels": [
+                    {
+                        "channel_name": "CBS Sports Network USA",
+                        "channel_id": "308"
                     }
                 ]
             }

@@ -409,6 +409,8 @@ https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
 https://vavoo.to/vavoo-iptv/play/313448120145a6443975e1
 #EXTINF:-1 tvg-id="mediaset.extra.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/mediaset-extra-it.png" group-title="Mediaset",MEDIASET EXTRA
 https://vavoo.to/vavoo-iptv/play/4774665319f73c392df0e
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET INFINITY+ 1
+https://vavoo.to/vavoo-iptv/play/3599959739ed5ed2f1f0cd
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET INFINITY+ 2
 https://vavoo.to/vavoo-iptv/play/2436070507988d651c6548
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET INFINITY+ 5
@@ -477,6 +479,8 @@ https://vavoo.to/vavoo-iptv/play/3990509931e84e66eaa232
 https://vavoo.to/vavoo-iptv/play/13516316035c18ca000fe1
 #EXTINF:-1 tvg-id="dazn.it" tvg-logo="" group-title="Sport",DAZN
 https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143
+#EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
+https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1 (D)
 https://thedaddy.click/stream/stream-877.php
 #EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
@@ -924,16 +928,16 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="uefawomenseurofinlandvsswitzerland" tvg-name="Soccer | UEFA Women's Euro : Finland vs Switzerland (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Finland_vs_Switzerland.png" group-title="Eventi Live",Soccer | UEFA Women's Euro : Finland vs Switzerland (21:00)
 https://thedaddy.click/stream/stream-7.php
 
-#EXTINF:-1 tvg-id="uefawomenseuronorwayvsiceland" tvg-name="Soccer | UEFA Women's Euro : Norway vs Iceland (21:00)" tvg-logo="https://i.pinimg.com/originals/d7/21/8a/d7218a183a3377da9e7cb0efd6faea35.png" group-title="Eventi Live",Soccer | UEFA Women's Euro : Norway vs Iceland (21:00)
+#EXTINF:-1 tvg-id="uefawomenseuronorwayvsiceland" tvg-name="Soccer | UEFA Women's Euro : Norway vs Iceland (21:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230823/original/pngtree-norway-flag-logo-illustration-vector-picture-image_8222527.png" group-title="Eventi Live",Soccer | UEFA Women's Euro : Norway vs Iceland (21:00)
 https://thedaddy.click/stream/stream-882.php
 
-#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiesmixeddoubleschampionship" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/wimbledon-logo-png-transparent-tennis-new-latest-750x750.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)
+#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiesmixeddoubleschampionship" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)" tvg-logo="https://wimbledonten.com/wp-content/uploads/2025/04/Wimbledon_logo.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)
 https://thedaddy.click/stream/stream-576.php
 
-#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiesmixeddoubleschampionship" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)" tvg-logo="https://i.pinimg.com/originals/24/26/7e/24267ed2f6c421fb5cb86b9c7119aabc.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)
+#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiesmixeddoubleschampionship" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/wimbledon-logo-png-transparent-tennis-new-latest-750x750.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)
 https://thedaddy.click/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiesmixeddoubleschampionship" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)" tvg-logo="https://i.pinimg.com/originals/24/26/7e/24267ed2f6c421fb5cb86b9c7119aabc.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)
+#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiesmixeddoubleschampionship" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/wimbledon-logo-png-transparent-tennis-new-latest-750x750.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Mixed Doubles Championship (10:00)
 https://thedaddy.click/stream/stream-879.php
 
 #EXTINF:-1 tvg-id="tourdefrancestage6masculinehilly201km3550m" tvg-name="Cycling | Tour de France | Stage 6 Masculine Hilly | 201 km | 3550 m (12:15)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/03/Tour-de-France-Logo-history.png" group-title="Eventi Live",Cycling | Tour de France | Stage 6 Masculine Hilly | 201 km | 3550 m (12:15)

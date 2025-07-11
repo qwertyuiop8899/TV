@@ -19,6 +19,8 @@ https://vavoo.to/vavoo-iptv/play/4084059868fd82d62442e9
 https://vavoo.to/vavoo-iptv/play/1792428355edae51bf7896
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8by3YXjCGJQaxT6b-cgZ872BjY_NLIrALA&s" group-title="Altro",AVENGERS GRIMM CHANNEL
 https://vavoo.to/vavoo-iptv/play/1506307932300e27c2fd43
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_Ufficiale_Radio_Bellla_%26_Monella.png" group-title="Altro",BELLLA & MONELLA TV
+https://vavoo.to/vavoo-iptv/play/1611446752ef81feae9ae
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.opq.it/wp-content/uploads/BergamoTV.png" group-title="Altro",BERGAMO TV
 https://vavoo.to/vavoo-iptv/play/2476433040575c4662d870
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Altro",BLOOMBERG TV
@@ -221,6 +223,8 @@ https://vavoo.to/vavoo-iptv/play/10944791346b08a647fce
 https://vavoo.to/vavoo-iptv/play/2209352147379c000ac415
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1
 https://vavoo.to/vavoo-iptv/play/24556102030a38fc13c387
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1
+https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2
 https://vavoo.to/vavoo-iptv/play/3590183307ca309aa6be37
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2
@@ -365,12 +369,16 @@ https://vavoo.to/vavoo-iptv/play/20700707550e841728d807
 https://vavoo.to/vavoo-iptv/play/4271554009266077884615
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/vera-tv-it.png?raw=true" group-title="Altro",VERA TV
 https://vavoo.to/vavoo-iptv/play/24719022349f15509238ee
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1PvoHpnx0hNKtt435CUaJza2e_qsm5B87Cg&s" group-title="Altro",VIDEO NOVARA
+https://vavoo.to/vavoo-iptv/play/27917814213e17be842a1b
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/videolina-it.png?raw=true" group-title="Altro",VIDEOLINA
 https://vavoo.to/vavoo-iptv/play/1249978054d9101729f51f
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.videostartv.eu/images/videostar.png" group-title="Altro",VIDEOSTAR TV
 https://vavoo.to/vavoo-iptv/play/24994885846c204e8b0b86
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kAZM1WRzE6qfQx90xPJ3v1Jz1gaJwn6BbrZcewu6eTcQ=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",VIDEOTOLENTINO
 https://vavoo.to/vavoo-iptv/play/201531251001a1e9936f4c
+#EXTINF:-1 tvg-id="warner.tv.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Warner_TV_Italy.svg/1200px-Warner_TV_Italy.svg.png" group-title="Altro",WARNER TV
+https://vavoo.to/vavoo-iptv/play/3171202588cf85ec4cba3f
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Altro",WWE CHANNEL
 https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08
 
@@ -403,8 +411,6 @@ https://vavoo.to/vavoo-iptv/play/313448120145a6443975e1
 https://vavoo.to/vavoo-iptv/play/4774665319f73c392df0e
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET INFINITY+ 1
 https://vavoo.to/vavoo-iptv/play/3599959739ed5ed2f1f0cd
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET INFINITY+ 2
-https://vavoo.to/vavoo-iptv/play/2436070507988d651c6548
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET INFINITY+ 5
 https://vavoo.to/vavoo-iptv/play/588488827b855babc9df4
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",MEDIASET IRIS
@@ -555,8 +561,6 @@ https://thedaddy.click/stream/stream-575.php
 https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce
 #EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA
 https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A
-https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS
 https://vavoo.to/vavoo-iptv/play/78546677680f40b76841
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (D)
@@ -645,6 +649,8 @@ https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 https://vavoo.to/vavoo-iptv/play/33735102423e6e76be9ed3
 #EXTINF:-1 tvg-id="boing.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING
 https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5
+#EXTINF:-1 tvg-id="boingplus.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini",BOING PLUS
+https://vavoo.to/vavoo-iptv/play/3841982646469504c9c5fc
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
 https://vavoo.to/vavoo-iptv/play/1744435623b422a758373c
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
@@ -861,8 +867,6 @@ https://thedaddy.click/stream/stream-853.php
 https://vavoo.to/vavoo-iptv/play/4241820180667f1d89110e
 #EXTINF:-1 tvg-id="rai4.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai",RAI 4
 https://vavoo.to/vavoo-iptv/play/2179822223e6f7fefa408e
-#EXTINF:-1 tvg-id="rai4k.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1200px-Rai_4K_-_Logo_2017.svg.png" group-title="Rai",RAI 4K
-https://vavoo.to/vavoo-iptv/play/2049087681c31592c6b362
 #EXTINF:-1 tvg-id="rai5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Rai",RAI 5
 https://vavoo.to/vavoo-iptv/play/3249873828c4ad4d2c1d15
 #EXTINF:-1 tvg-id="rai5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Rai",RAI 5
@@ -914,28 +918,13 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="uefawomenseuroitalyvsspain" tvg-name="Soccer | UEFA Women's Euro : Italy vs Spain (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_Spain.png" group-title="Eventi Live",Soccer | UEFA Women's Euro : Italy vs Spain (21:00)
 https://thedaddy.click/stream/stream-851.php
 
-#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiessinglesdoublessemifinals" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals (10:00)" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/wimbledon-logo-png-transparent-tennis-new-latest-750x750.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals (10:00)
-https://thedaddy.click/stream/stream-576.php
-
-#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiessinglesdoublessemifinals" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals (10:00)" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/wimbledon-logo-png-transparent-tennis-new-latest-750x750.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals (10:00)
-https://thedaddy.click/stream/stream-878.php
-
-#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiessinglesdoublessemifinals" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals (10:00)" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/wimbledon-logo-png-transparent-tennis-new-latest-750x750.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals (10:00)
-https://thedaddy.click/stream/stream-879.php
-
-#EXTINF:-1 tvg-id="moto3germangrandprixfreepractice" tvg-name="Motorsport | Moto3 : German Grand Prix Free Practice (08:55)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Eventi Live",Motorsport | Moto3 : German Grand Prix Free Practice (08:55)
-https://thedaddy.click/stream/stream-575.php
-
-#EXTINF:-1 tvg-id="moto2germangrandprixfreepractice" tvg-name="Motorsport | Moto2 : German Grand Prix Free Practice (09:45)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Motorsport | Moto2 : German Grand Prix Free Practice (09:45)
-https://thedaddy.click/stream/stream-575.php
-
-#EXTINF:-1 tvg-id="motogpgermangrandprixfreepractice" tvg-name="Motorsport | MotoGP : German Grand Prix Free Practice (10:40)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-0.png" group-title="Eventi Live",Motorsport | MotoGP : German Grand Prix Free Practice (10:40)
+#EXTINF:-1 tvg-id="motogpgermangrandprixfreepractice" tvg-name="Motorsport | MotoGP : German Grand Prix Free Practice (10:40)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : German Grand Prix Free Practice (10:40)
 https://thedaddy.click/stream/stream-575.php
 
 #EXTINF:-1 tvg-id="moto3germangrandprixfreepractice1" tvg-name="Motorsport | Moto3 : German Grand Prix Free Practice 1 (13:10)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Eventi Live",Motorsport | Moto3 : German Grand Prix Free Practice 1 (13:10)
 https://thedaddy.click/stream/stream-575.php
 
-#EXTINF:-1 tvg-id="moto2germangrandprixfreepractice1" tvg-name="Motorsport | Moto2 : German Grand Prix Free Practice 1 (14:00)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Motorsport | Moto2 : German Grand Prix Free Practice 1 (14:00)
+#EXTINF:-1 tvg-id="moto2germangrandprixfreepractice1" tvg-name="Motorsport | Moto2 : German Grand Prix Free Practice 1 (14:00)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhndLqL8qCi6tkIi6wIKg9xnej611GJbFI3C7OG5d32IN5jHOSl5_TXhbi9J-IQDawFMUzSEg3VWjqto2MFOjV3Cf2bLZ_tle7LF7TmWiaCibf1wTy00Ay4G1xhqTllXSPXj1ij48XSDqsVg5yZ3EkS3ACIj4AJwJkYSnO11f_FGSlvSF7bXcyvS7VoNtA/s600/Moto2_logo.png" group-title="Eventi Live",Motorsport | Moto2 : German Grand Prix Free Practice 1 (14:00)
 https://thedaddy.click/stream/stream-575.php
 
 #EXTINF:-1 tvg-id="motogpgermangrandprixfreepractice1" tvg-name="Motorsport | MotoGP : German Grand Prix Free Practice 1 (15:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : German Grand Prix Free Practice 1 (15:00)

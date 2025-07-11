@@ -529,8 +529,6 @@ https://thedaddy.click/stream/stream-875.php
 https://thedaddy.click/stream/stream-876.php
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
 https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://thedaddy.click/stream/stream-462.php
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
@@ -567,6 +565,8 @@ https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce
 https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A
 https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc
+#EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS
+https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS
 https://vavoo.to/vavoo-iptv/play/78546677680f40b76841
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (D)
@@ -926,31 +926,31 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="uefawomenseuroitalyvsspain" tvg-name="Soccer | UEFA Women's Euro : Italy vs Spain (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_Spain.png" group-title="Eventi Live",Soccer | UEFA Women's Euro : Italy vs Spain (21:00)
 https://thedaddy.click/stream/stream-851.php
 
-#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiessinglesdoublessemifinals" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals (10:00)" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/wimbledon-logo-png-transparent-tennis-new-latest-750x750.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals (10:00)
+#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiessinglesdoublessemifinals" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals (10:00)" tvg-logo="http://assets.stickpng.com/images/626698bc2c88722059d5870d.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals (10:00)
 https://thedaddy.click/stream/stream-576.php
 
-#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiessinglesdoublessemifinals" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals (10:00)" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/wimbledon-logo-png-transparent-tennis-new-latest-750x750.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals (10:00)
+#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiessinglesdoublessemifinals" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals (10:00)" tvg-logo="https://assets.stickpng.com/images/626698bc2c88722059d5870d.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals (10:00)
 https://thedaddy.click/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiessinglesdoublessemifinals" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals (10:00)" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/wimbledon-logo-png-transparent-tennis-new-latest-750x750.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals (10:00)
+#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemensandladiessinglesdoublessemifinals" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals (10:00)" tvg-logo="https://assets.stickpng.com/images/626698bc2c88722059d5870d.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's and Ladies Singles & Doubles Semi-finals (10:00)
 https://thedaddy.click/stream/stream-879.php
 
-#EXTINF:-1 tvg-id="moto3germangrandprixfreepractice" tvg-name="Motorsport | Moto3 : German Grand Prix Free Practice (08:55)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Eventi Live",Motorsport | Moto3 : German Grand Prix Free Practice (08:55)
+#EXTINF:-1 tvg-id="moto3germangrandprixfreepractice" tvg-name="Motorsport | Moto3 : German Grand Prix Free Practice (08:55)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Motorsport | Moto3 : German Grand Prix Free Practice (08:55)
 https://thedaddy.click/stream/stream-575.php
 
-#EXTINF:-1 tvg-id="moto2germangrandprixfreepractice" tvg-name="Motorsport | Moto2 : German Grand Prix Free Practice (09:45)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live",Motorsport | Moto2 : German Grand Prix Free Practice (09:45)
+#EXTINF:-1 tvg-id="moto2germangrandprixfreepractice" tvg-name="Motorsport | Moto2 : German Grand Prix Free Practice (09:45)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhndLqL8qCi6tkIi6wIKg9xnej611GJbFI3C7OG5d32IN5jHOSl5_TXhbi9J-IQDawFMUzSEg3VWjqto2MFOjV3Cf2bLZ_tle7LF7TmWiaCibf1wTy00Ay4G1xhqTllXSPXj1ij48XSDqsVg5yZ3EkS3ACIj4AJwJkYSnO11f_FGSlvSF7bXcyvS7VoNtA/s600/Moto2_logo.png" group-title="Eventi Live",Motorsport | Moto2 : German Grand Prix Free Practice (09:45)
 https://thedaddy.click/stream/stream-575.php
 
 #EXTINF:-1 tvg-id="motogpgermangrandprixfreepractice" tvg-name="Motorsport | MotoGP : German Grand Prix Free Practice (10:40)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : German Grand Prix Free Practice (10:40)
 https://thedaddy.click/stream/stream-575.php
 
-#EXTINF:-1 tvg-id="moto3germangrandprixfreepractice1" tvg-name="Motorsport | Moto3 : German Grand Prix Free Practice 1 (13:10)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Eventi Live",Motorsport | Moto3 : German Grand Prix Free Practice 1 (13:10)
+#EXTINF:-1 tvg-id="moto3germangrandprixfreepractice1" tvg-name="Motorsport | Moto3 : German Grand Prix Free Practice 1 (13:10)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Motorsport | Moto3 : German Grand Prix Free Practice 1 (13:10)
 https://thedaddy.click/stream/stream-575.php
 
-#EXTINF:-1 tvg-id="moto2germangrandprixfreepractice1" tvg-name="Motorsport | Moto2 : German Grand Prix Free Practice 1 (14:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/yqvtrq1432309315.png" group-title="Eventi Live",Motorsport | Moto2 : German Grand Prix Free Practice 1 (14:00)
+#EXTINF:-1 tvg-id="moto2germangrandprixfreepractice1" tvg-name="Motorsport | Moto2 : German Grand Prix Free Practice 1 (14:00)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Motorsport | Moto2 : German Grand Prix Free Practice 1 (14:00)
 https://thedaddy.click/stream/stream-575.php
 
-#EXTINF:-1 tvg-id="motogpgermangrandprixfreepractice1" tvg-name="Motorsport | MotoGP : German Grand Prix Free Practice 1 (15:00)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-0.png" group-title="Eventi Live",Motorsport | MotoGP : German Grand Prix Free Practice 1 (15:00)
+#EXTINF:-1 tvg-id="motogpgermangrandprixfreepractice1" tvg-name="Motorsport | MotoGP : German Grand Prix Free Practice 1 (15:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : German Grand Prix Free Practice 1 (15:00)
 https://thedaddy.click/stream/stream-575.php
 
 #EXTINF:-1 tvg-id="giroditaliawomenstage6bellariaigeamarinaterreroveresche145km" tvg-name="Cycling | Giro d'Italia Women | Stage 6 Bellaria-Igea Marina – Terre Roveresche (145km) (13:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Giro d'Italia Women | Stage 6 Bellaria-Igea Marina – Terre Roveresche (145km) (13:00)

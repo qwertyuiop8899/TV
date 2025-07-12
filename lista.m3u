@@ -637,6 +637,8 @@ https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
 https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
+#EXTINF:-1 tvg-id="sky.documentaries.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari",SKY DOCUMENTARIES
+https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
 #EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari",SKY NATURE
 https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teleartetv.it/web/wp-content/uploads/2023/04/logo_TA.jpg" group-title="Documentari",TELEARTE
@@ -699,8 +701,12 @@ https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
 https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN ACTION MOVIES
 https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN COMEDY MOVIES
+https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN DRAMA
 https://vavoo.to/vavoo-iptv/play/209862439074120bb15132
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN FAMILY
+https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN TOP FREE
 https://vavoo.to/vavoo-iptv/play/1572866962efea4ca22353
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN TV SHOWS
@@ -845,6 +851,8 @@ https://vavoo.to/vavoo-iptv/play/28023290645ecbd632b9ce
 # RAI
 #EXTINF:-1 tvg-id="rai1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1
 https://vavoo.to/vavoo-iptv/play/875922788627becc98639
+#EXTINF:-1 tvg-id="rai1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1
+https://vavoo.to/vavoo-iptv/play/122565375973a967da4f03
 #EXTINF:-1 tvg-id="rai1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1 (D)
 https://thedaddy.click/stream/stream-850.php
 #EXTINF:-1 tvg-id="rai2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Rai",RAI 2
@@ -942,13 +950,13 @@ https://thedaddy.click/stream/stream-575.php
 #EXTINF:-1 tvg-id="moto2germangrandprixfreepractice2" tvg-name="Motorsport | Moto2 : German Grand Prix Free Practice 2 (09:20)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Motorsport | Moto2 : German Grand Prix Free Practice 2 (09:20)
 https://thedaddy.click/stream/stream-575.php
 
-#EXTINF:-1 tvg-id="motogpgermangrandprixfreepractice2" tvg-name="Motorsport | MotoGP : German Grand Prix Free Practice 2 (10:00)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-0.png" group-title="Eventi Live",Motorsport | MotoGP : German Grand Prix Free Practice 2 (10:00)
+#EXTINF:-1 tvg-id="motogpgermangrandprixfreepractice2" tvg-name="Motorsport | MotoGP : German Grand Prix Free Practice 2 (10:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : German Grand Prix Free Practice 2 (10:00)
 https://thedaddy.click/stream/stream-575.php
 
 #EXTINF:-1 tvg-id="moto3germangrandprixqualifying" tvg-name="Motorsport | Moto3 : German Grand Prix Qualifying (12:45)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Eventi Live",Motorsport | Moto3 : German Grand Prix Qualifying (12:45)
 https://thedaddy.click/stream/stream-575.php
 
-#EXTINF:-1 tvg-id="moto2germangrandprixqualifying" tvg-name="Motorsport | Moto2 : German Grand Prix Qualifying (13:40)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live",Motorsport | Moto2 : German Grand Prix Qualifying (13:40)
+#EXTINF:-1 tvg-id="moto2germangrandprixqualifying" tvg-name="Motorsport | Moto2 : German Grand Prix Qualifying (13:40)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Motorsport | Moto2 : German Grand Prix Qualifying (13:40)
 https://thedaddy.click/stream/stream-575.php
 
 #EXTINF:-1 tvg-id="motogpgermangrandprixfreequalifying" tvg-name="Motorsport | MotoGP : German Grand Prix Free Qualifying (15:00)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-0.png" group-title="Eventi Live",Motorsport | MotoGP : German Grand Prix Free Qualifying (15:00)
@@ -960,7 +968,7 @@ https://thedaddy.click/stream/stream-878.php
 #EXTINF:-1 tvg-id="worldcupchamonixmenswomensspeedfinal" tvg-name="Climbing | World Cup | Chamonix Men's & Women's Speed | Final (21:00)" tvg-logo="https://png.pngtree.com/png-vector/20240108/ourmid/pngtree-icc-mens-t20-world-cup-2024-logo-vector-png-image_11201318.png" group-title="Eventi Live",Climbing | World Cup | Chamonix Men's & Women's Speed | Final (21:00)
 https://thedaddy.click/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="ucidownhillworldcupwomenelitepalarinsal" tvg-name="Cycling | UCI Downhill World Cup | Women Elite | Pal Arinsal (12:30)" tvg-logo="https://cyclocross24.com/images/rider/marie-schreiber-kM1.png" group-title="Eventi Live",Cycling | UCI Downhill World Cup | Women Elite | Pal Arinsal (12:30)
+#EXTINF:-1 tvg-id="ucidownhillworldcupwomenelitepalarinsal" tvg-name="Cycling | UCI Downhill World Cup | Women Elite | Pal Arinsal (12:30)" tvg-logo="http://shop.trimtexcustom.com/cdn/shop/products/D-0198608_1_37c35142-774b-42e6-a444-d800cad3e716.png?v=1706007461" group-title="Eventi Live",Cycling | UCI Downhill World Cup | Women Elite | Pal Arinsal (12:30)
 https://thedaddy.click/stream/stream-879.php
 
 #EXTINF:-1 tvg-id="tourdefrance8thstagesaintmenlegrandlavalflat171km1700m" tvg-name="Cycling | Tour de France 8th stage: Saint-M?en-le-Grand - Laval Flat | 171 km | 1700 m (13:00)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/03/Tour-de-France-Logo-history.png" group-title="Eventi Live",Cycling | Tour de France 8th stage: Saint-M?en-le-Grand - Laval Flat | 171 km | 1700 m (13:00)

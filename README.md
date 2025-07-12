@@ -80,7 +80,7 @@ Con OMG Premium TV potrai sfruttare:
   `usando questo proxy hai la possibilita' di installarlo su un qualsiasi dispositivo android grazie all'app Termux`
 
 - **Mediaflow Proxy**:  
-  [mediaflow-proxy](https://github.com/mhdzumair/mediaflow-proxy)
+  [mediaflow-proxy](https://github.com/nzo66/mediaflow-proxy)
   
 - **Mediaflow Proxy Per HuggingFace**
   

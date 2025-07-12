@@ -495,8 +495,6 @@ https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (D)
 https://thedaddy.click/stream/stream-879.php
-#EXTINF:-1 tvg-id="inter.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/inter-tv-it.png?raw=true" group-title="Sport",INTER TV
-https://vavoo.to/vavoo-iptv/play/29737730766a27b9a63e21
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/lazio-style-channel-it.png?raw=true" group-title="Sport",LAZIO TV
 https://vavoo.to/vavoo-iptv/play/2774026655397d6ec52fe5
 #EXTINF:-1 tvg-id="milan.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/milan-tv-it.png" group-title="Sport",MILAN TV
@@ -739,6 +737,8 @@ https://thedaddy.click/stream/stream-867.php
 https://vavoo.to/vavoo-iptv/play/1228534500ffff855fff55
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film & Serie TV",SKY CINEMA DUE
 https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
+#EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film & Serie TV",SKY CINEMA DUE +24
+https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film & Serie TV",SKY CINEMA DUE +24 (D)
 https://thedaddy.click/stream/stream-866.php
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV",SKY CINEMA FAMILY
@@ -942,13 +942,13 @@ https://thedaddy.click/stream/stream-878.php
 #EXTINF:-1 tvg-id="2025wimbledonchampionshipswomendoublesfinal" tvg-name="Tennis | 2025 Wimbledon Championships Women Doubles Final (16:30)" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/wimbledon-logo-png-transparent-tennis-new-latest-750x750.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Women Doubles Final (16:30)
 https://thedaddy.click/stream/stream-879.php
 
-#EXTINF:-1 tvg-id="moto3germangrandprixfreepractice2" tvg-name="Motorsport | Moto3 : German Grand Prix Free Practice 2 (08:35)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Motorsport | Moto3 : German Grand Prix Free Practice 2 (08:35)
+#EXTINF:-1 tvg-id="moto3germangrandprixfreepractice2" tvg-name="Motorsport | Moto3 : German Grand Prix Free Practice 2 (08:35)" tvg-logo="https://www.snipersteam.com/wp-content/uploads/2025/02/Moto3-2025.png" group-title="Eventi Live",Motorsport | Moto3 : German Grand Prix Free Practice 2 (08:35)
 https://thedaddy.click/stream/stream-575.php
 
 #EXTINF:-1 tvg-id="moto2germangrandprixfreepractice2" tvg-name="Motorsport | Moto2 : German Grand Prix Free Practice 2 (09:20)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhndLqL8qCi6tkIi6wIKg9xnej611GJbFI3C7OG5d32IN5jHOSl5_TXhbi9J-IQDawFMUzSEg3VWjqto2MFOjV3Cf2bLZ_tle7LF7TmWiaCibf1wTy00Ay4G1xhqTllXSPXj1ij48XSDqsVg5yZ3EkS3ACIj4AJwJkYSnO11f_FGSlvSF7bXcyvS7VoNtA/s600/Moto2_logo.png" group-title="Eventi Live",Motorsport | Moto2 : German Grand Prix Free Practice 2 (09:20)
 https://thedaddy.click/stream/stream-575.php
 
-#EXTINF:-1 tvg-id="motogpgermangrandprixfreepractice2" tvg-name="Motorsport | MotoGP : German Grand Prix Free Practice 2 (10:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : German Grand Prix Free Practice 2 (10:00)
+#EXTINF:-1 tvg-id="motogpgermangrandprixfreepractice2" tvg-name="Motorsport | MotoGP : German Grand Prix Free Practice 2 (10:00)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-0.png" group-title="Eventi Live",Motorsport | MotoGP : German Grand Prix Free Practice 2 (10:00)
 https://thedaddy.click/stream/stream-575.php
 
 #EXTINF:-1 tvg-id="moto3germangrandprixqualifying" tvg-name="Motorsport | Moto3 : German Grand Prix Qualifying (12:45)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Motorsport | Moto3 : German Grand Prix Qualifying (12:45)
@@ -960,9 +960,6 @@ https://thedaddy.click/stream/stream-575.php
 #EXTINF:-1 tvg-id="motogpgermangrandprixfreequalifying" tvg-name="Motorsport | MotoGP : German Grand Prix Free Qualifying (15:00)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-0.png" group-title="Eventi Live",Motorsport | MotoGP : German Grand Prix Free Qualifying (15:00)
 https://thedaddy.click/stream/stream-575.php
 
-#EXTINF:-1 tvg-id="ufcfightnightmaincardderricklewisvstallisonteixeira" tvg-name="MMA | UFC Fight Night Main Card : Derrick Lewis vs Tallison Teixeira (03:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Derrick Lewis_vs_Tallison Teixeira.png" group-title="Eventi Live",MMA | UFC Fight Night Main Card : Derrick Lewis vs Tallison Teixeira (03:00)
-https://thedaddy.click/stream/stream-878.php
-
 #EXTINF:-1 tvg-id="worldcupchamonixmenswomensspeedfinal" tvg-name="Climbing | World Cup | Chamonix Men's & Women's Speed | Final (21:00)" tvg-logo="https://png.pngtree.com/png-vector/20240108/ourmid/pngtree-icc-mens-t20-world-cup-2024-logo-vector-png-image_11201318.png" group-title="Eventi Live",Climbing | World Cup | Chamonix Men's & Women's Speed | Final (21:00)
 https://thedaddy.click/stream/stream-878.php
 
@@ -972,7 +969,7 @@ https://thedaddy.click/stream/stream-879.php
 #EXTINF:-1 tvg-id="tourdefrance8thstagesaintmenlegrandlavalflat171km1700m" tvg-name="Cycling | Tour de France 8th stage: Saint-M?en-le-Grand - Laval Flat | 171 km | 1700 m (13:00)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/03/Tour-de-France-Logo-history.png" group-title="Eventi Live",Cycling | Tour de France 8th stage: Saint-M?en-le-Grand - Laval Flat | 171 km | 1700 m (13:00)
 https://thedaddy.click/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="ucidownhillworldcupmenelitepalarinsal" tvg-name="Cycling | UCI Downhill World Cup | Men Elite | Pal Arinsal (15:15)" tvg-logo="https://proximus-cyclis-alphamotorhomes.be/wp-content/uploads/2022/11/Logo-team-2020-2021-1.png" group-title="Eventi Live",Cycling | UCI Downhill World Cup | Men Elite | Pal Arinsal (15:15)
+#EXTINF:-1 tvg-id="ucidownhillworldcupmenelitepalarinsal" tvg-name="Cycling | UCI Downhill World Cup | Men Elite | Pal Arinsal (15:15)" tvg-logo="https://cycleholix.de/wp-content/uploads/2018/08/bres_dhi_mj_standings-325x325.png" group-title="Eventi Live",Cycling | UCI Downhill World Cup | Men Elite | Pal Arinsal (15:15)
 https://thedaddy.click/stream/stream-879.php
 
 #EXTINF:-1 tvg-id="nationsleaguewomenturkeywvsitalyw" tvg-name="Volleyball | Nations League Women : Turkey W vs Italy W (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Turkey W_vs_Italy W.png" group-title="Eventi Live",Volleyball | Nations League Women : Turkey W vs Italy W (19:00)

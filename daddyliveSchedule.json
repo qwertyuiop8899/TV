@@ -1,5 +1,47 @@
 {
     "Sunday 13th July 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "21:45",
+                "event": "DIRTcar Summer Nationals Late Models Wayne",
+                "channels": [
+                    {
+                        "channel_name": "Dirtvision",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "WWE Evolution 2025",
+                "channels": [
+                    {
+                        "channel_name": "Netflix",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "2025 Small Car Nationals at Slinger Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Husets Speedway Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "167"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "21:00",

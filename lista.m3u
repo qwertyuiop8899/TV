@@ -226,6 +226,8 @@ https://vavoo.to/vavoo-iptv/play/24556102030a38fc13c387
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1
 https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2
+https://vavoo.to/vavoo-iptv/play/3590183307ca309aa6be37
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2
 https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/7PzluYVAEVOCNzGYGkewkKI3PA0PkCKAc9KUZGfYzAbZnQLnlPAE5iQBMZEUi7ZKwJc" group-title="Altro",RTC TELECALABRIA
 https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
@@ -393,8 +395,6 @@ https://vavoo.to/vavoo-iptv/play/80896559d4a6e09d36f1
 https://vavoo.to/vavoo-iptv/play/15341618078b08a3db572d
 #EXTINF:-1 tvg-id="canale.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5
 https://vavoo.to/vavoo-iptv/play/110155966670807e698f7d
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset",CINE 34 MEDIASET
-https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38
 #EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1
 https://vavoo.to/vavoo-iptv/play/663536394520458805ef6
 #EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1 (D)
@@ -557,6 +557,8 @@ https://thedaddy.click/stream/stream-862.php
 https://thedaddy.click/stream/stream-868.php
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film & Serie TV",CRIME + INV
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film & Serie TV",CRIME+ INVESTIGATION
+https://vavoo.to/vavoo-iptv/play/30052277008e849440ee94
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film & Serie TV",DISNEY+ FILM
 https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 #EXTINF:-1 tvg-id="foxhd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film & Serie TV",FOX
@@ -753,12 +755,8 @@ https://thedaddy.click/stream/stream-462.php
 https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
-#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
-https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
 https://thedaddy.click/stream/stream-870.php
-#EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1
-https://vavoo.to/vavoo-iptv/play/42467740561588897497f2
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1
 https://vavoo.to/vavoo-iptv/play/42467740561588897497f2
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (D)
@@ -927,34 +925,34 @@ https://thedaddy.click/stream/stream-882.php
 #EXTINF:-1 tvg-id="fifaclubworldcupfinalchelseavspsg" tvg-name="Soccer | FIFA Club World Cup Final : Chelsea vs PSG (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Chelsea_vs_PSG.png" group-title="Eventi Live",Soccer | FIFA Club World Cup Final : Chelsea vs PSG (21:00)
 https://thedaddy.click/stream/stream-24.php
 
-#EXTINF:-1 tvg-id="2025wimbledonchampionshipsladiesdoublesfinal" tvg-name="Tennis | 2025 Wimbledon Championships Ladies Doubles Final (13:00)" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/wimbledon-logo-png-transparent-tennis-new-latest-750x750.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Ladies Doubles Final (13:00)
+#EXTINF:-1 tvg-id="2025wimbledonchampionshipsladiesdoublesfinal" tvg-name="Tennis | 2025 Wimbledon Championships Ladies Doubles Final (13:00)" tvg-logo="https://blog.flicks.co.nz/wp-content/uploads/The-Championships-Wimbledon-Logo-2.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Ladies Doubles Final (13:00)
 https://thedaddy.click/stream/stream-576.php
 
-#EXTINF:-1 tvg-id="2025wimbledonchampionshipsladiesdoublesfinal" tvg-name="Tennis | 2025 Wimbledon Championships Ladies Doubles Final (13:00)" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/wimbledon-logo-png-transparent-tennis-new-latest-750x750.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Ladies Doubles Final (13:00)
+#EXTINF:-1 tvg-id="2025wimbledonchampionshipsladiesdoublesfinal" tvg-name="Tennis | 2025 Wimbledon Championships Ladies Doubles Final (13:00)" tvg-logo="https://blog.flicks.co.nz/wp-content/uploads/The-Championships-Wimbledon-Logo-2.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Ladies Doubles Final (13:00)
 https://thedaddy.click/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="2025wimbledonchampionshipsladiesdoublesfinal" tvg-name="Tennis | 2025 Wimbledon Championships Ladies Doubles Final (13:00)" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/wimbledon-logo-png-transparent-tennis-new-latest-750x750.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Ladies Doubles Final (13:00)
+#EXTINF:-1 tvg-id="2025wimbledonchampionshipsladiesdoublesfinal" tvg-name="Tennis | 2025 Wimbledon Championships Ladies Doubles Final (13:00)" tvg-logo="https://blog.flicks.co.nz/wp-content/uploads/The-Championships-Wimbledon-Logo-2.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Ladies Doubles Final (13:00)
 https://thedaddy.click/stream/stream-879.php
 
-#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemenssinglesfinal" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's Singles Final (16:30)" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/wimbledon-logo-png-transparent-tennis-new-latest-750x750.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's Singles Final (16:30)
+#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemenssinglesfinal" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's Singles Final (16:30)" tvg-logo="https://img0.aiscore.com/v2/unique-tournament/cbeb0639c45ecfe31fc6596260871774.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's Singles Final (16:30)
 https://thedaddy.click/stream/stream-576.php
 
-#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemenssinglesfinal" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's Singles Final (16:30)" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/wimbledon-logo-png-transparent-tennis-new-latest-750x750.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's Singles Final (16:30)
+#EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemenssinglesfinal" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's Singles Final (16:30)" tvg-logo="https://img0.aiscore.com/v2/unique-tournament/cbeb0639c45ecfe31fc6596260871774.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's Singles Final (16:30)
 https://thedaddy.click/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="2025wimbledonchampionshipsgentlemenssinglesfinal" tvg-name="Tennis | 2025 Wimbledon Championships Gentlemen's Singles Final (16:30)" tvg-logo="https://img0.aiscore.com/v2/unique-tournament/cbeb0639c45ecfe31fc6596260871774.png" group-title="Eventi Live",Tennis | 2025 Wimbledon Championships Gentlemen's Singles Final (16:30)
 https://thedaddy.click/stream/stream-879.php
 
-#EXTINF:-1 tvg-id="motogpgermangrandprixwarmup" tvg-name="Motorsport | MotoGP : German Grand Prix Warm Up (09:30)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-0.png" group-title="Eventi Live",Motorsport | MotoGP : German Grand Prix Warm Up (09:30)
+#EXTINF:-1 tvg-id="motogpgermangrandprixwarmup" tvg-name="Motorsport | MotoGP : German Grand Prix Warm Up (09:30)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : German Grand Prix Warm Up (09:30)
 https://thedaddy.click/stream/stream-575.php
 
-#EXTINF:-1 tvg-id="moto3germangrandprixrace" tvg-name="Motorsport | Moto3 : German Grand Prix Race (10:45)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Eventi Live",Motorsport | Moto3 : German Grand Prix Race (10:45)
+#EXTINF:-1 tvg-id="moto3germangrandprixrace" tvg-name="Motorsport | Moto3 : German Grand Prix Race (10:45)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Motorsport | Moto3 : German Grand Prix Race (10:45)
 https://thedaddy.click/stream/stream-575.php
 
-#EXTINF:-1 tvg-id="moto2germangrandprixrace" tvg-name="Motorsport | Moto2 : German Grand Prix Race (12:00)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Motorsport | Moto2 : German Grand Prix Race (12:00)
+#EXTINF:-1 tvg-id="moto2germangrandprixrace" tvg-name="Motorsport | Moto2 : German Grand Prix Race (12:00)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhndLqL8qCi6tkIi6wIKg9xnej611GJbFI3C7OG5d32IN5jHOSl5_TXhbi9J-IQDawFMUzSEg3VWjqto2MFOjV3Cf2bLZ_tle7LF7TmWiaCibf1wTy00Ay4G1xhqTllXSPXj1ij48XSDqsVg5yZ3EkS3ACIj4AJwJkYSnO11f_FGSlvSF7bXcyvS7VoNtA/s600/Moto2_logo.png" group-title="Eventi Live",Motorsport | Moto2 : German Grand Prix Race (12:00)
 https://thedaddy.click/stream/stream-575.php
 
-#EXTINF:-1 tvg-id="motogpgermangrandprixrace" tvg-name="Motorsport | MotoGP : German Grand Prix Race (14:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : German Grand Prix Race (14:00)
+#EXTINF:-1 tvg-id="motogpgermangrandprixrace" tvg-name="Motorsport | MotoGP : German Grand Prix Race (14:00)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-0.png" group-title="Eventi Live",Motorsport | MotoGP : German Grand Prix Race (14:00)
 https://thedaddy.click/stream/stream-575.php
 
 #EXTINF:-1 tvg-id="ifscworldcupchamonixdifficultymfsemifinal" tvg-name="Climbing | IFSC World Cup Chamonix | Difficulty (M/F) – Semi-final (10:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Climbing | IFSC World Cup Chamonix | Difficulty (M/F) – Semi-final (10:00)

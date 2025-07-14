@@ -18,6 +18,9 @@ jobs:
         # GitHub sostituirà ${{ secrets.M3U_URL }} con il link che hai salvato.
         run: curl -o film.m3u ${{ secrets.FILM }}
 
+      - name: Download the M3U file using a secret URL
+        run: curl -o serie.m3u ${{ secrets.SERIE }}
+
       - name: Configure Git
         run: |
           git config --global user.name "GitHub Actions Bot"

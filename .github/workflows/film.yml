@@ -1,4 +1,4 @@
-name: Download and Update M3U List
+name: Download and Update FILM List
 
 on:
   schedule:

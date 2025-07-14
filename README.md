@@ -77,12 +77,7 @@ Con OMG Premium TV potrai sfruttare:
 
 ### ✅ Crea il tuo proxy personalizzato
 
-- **TvProxy** (migliore):
-  [tvproxy (repo GitHub)](https://github.com/nzo66/tvproxy)
-
-  `usando questo proxy hai la possibilita' di installarlo su un qualsiasi dispositivo android grazie all'app Termux`
-
-- **Mediaflow Proxy**:  
+- **Mediaflow Proxy** (consigliato):  
   [mediaflow-proxy](https://github.com/nzo66/mediaflow-proxy)
   
 - **Mediaflow Proxy Per HuggingFace**
@@ -90,6 +85,11 @@ Con OMG Premium TV potrai sfruttare:
   `(usa Mediaflow Proxy solo per lista Film e MPD)`
 
   Usa questa repo ottimizzata: [hfmfp](https://github.com/nzo66/hfmfp)
+
+- **TvProxy**:
+  [tvproxy (repo GitHub)](https://github.com/nzo66/tvproxy)
+
+  `usando questo proxy hai la possibilita' di installarlo su un qualsiasi dispositivo android grazie all'app Termux`
 
 ---
 

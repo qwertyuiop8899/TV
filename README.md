@@ -29,13 +29,16 @@ Queste liste devono essere utilizzate con un proxy.
 
 ---
 
-## 🔗 Link Film & MPD TEST
+## 🔗 Link Film, Serie TV & MPD TEST
 
 Queste liste devono essere utilizzate con mediaflow-proxy usando questo link per generare l' URL da usare.
 [`[https://nzo666-playlist-generator.hf.space]`](https://nzo666-playlist-generator.hf.space)
 
 - **Lista Film**  
   [`https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/film.m3u`](https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/film.m3u)
+
+- **Lista Serie TV**  
+  [`https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/serie.m3u`](https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/serie.m3u)
 
 - **Lista MPD** (solo ip Europeo)
   [`https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/mpd.m3u`](https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/mpd.m3u)

@@ -31,7 +31,7 @@ Queste liste devono essere utilizzate con un proxy.
 
 ## 🔗 Link Film, Serie TV & MPD TEST
 
-Queste liste devono essere utilizzate con mediaflow-proxy
+Queste liste devono essere utilizzate con mediaflow-proxy aprendo il seguente link http://ipvostromfp/playlist/builder
 
 - **Lista Film**  
   [`https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/film.m3u`](https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/film.m3u)

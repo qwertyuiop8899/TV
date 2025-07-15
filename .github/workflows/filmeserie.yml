@@ -1,24 +1,21 @@
-name: Download and Update FILM List
+name: Download and Update FILM and SERIE List
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Esegui ogni 2 ore
-  workflow_dispatch:      # Consente l'esecuzione manuale
+    - cron: '0 */6 * * *'  # Esegui ogni 6 ore
+  workflow_dispatch:
 
 jobs:
   download-and-commit:
     runs-on: ubuntu-latest
-    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Download the M3U file using a secret URL
-        # Utilizza il secret per scaricare il file senza esporre l'URL nel codice.
-        # GitHub sostituirà ${{ secrets.M3U_URL }} con il link che hai salvato.
+      - name: Download FILM M3U file
         run: curl -o film.m3u ${{ secrets.FILM }}
 
-      - name: Download the M3U file using a secret URL
+      - name: Download SERIE M3U file
         run: curl -o serie.m3u ${{ secrets.SERIE }}
 
       - name: Configure Git
@@ -28,14 +25,10 @@ jobs:
 
       - name: Commit and push if there are changes
         run: |
-          # Aggiungi il file scaricato all'area di staging
-          git add film.m3u
-          
-          # Controlla se ci sono modifiche da committare
+          git add film.m3u serie.m3u
           if git diff --staged --quiet; then
-            echo "Il file film.m3u è già aggiornato. Nessuna modifica da committare."
+            echo "Nessuna modifica da committare."
           else
-            # Esegui il commit e il push solo se il file è cambiato
-            git commit -m "Update film.m3u list"
+            git commit -m "Update film.m3u and serie.m3u list"
             git push
           fi

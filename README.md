@@ -29,7 +29,7 @@ Queste liste devono essere utilizzate con un proxy.
 
 ---
 
-## 🔗 Link Film, Serie TV & MPD TEST
+## 🔗 Link Film, Serie TV TEST
 
 Queste liste devono essere utilizzate con mediaflow-proxy aprendo il seguente link http://ipvostromfp/playlist/builder
 
@@ -38,9 +38,6 @@ Queste liste devono essere utilizzate con mediaflow-proxy aprendo il seguente li
 
 - **Lista Serie TV**  
   [`https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/serie.m3u`](https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/serie.m3u)
-
-- **Lista MPD** (solo ip Europeo)
-  [`https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/mpd.m3u`](https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/mpd.m3u)
 
 ---
 

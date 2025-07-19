@@ -532,8 +532,6 @@ https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://thedaddy.click/stream/stream-462.php
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
-https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
-#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
 https://thedaddy.click/stream/stream-870.php
@@ -938,7 +936,7 @@ https://thedaddy.click/stream/stream-575.php
 #EXTINF:-1 tvg-id="moto3czechgrandprixqualifying" tvg-name="Motorsport | Moto3 : Czech Grand Prix Qualifying (12:50)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Eventi Live",Motorsport | Moto3 : Czech Grand Prix Qualifying (12:50)
 https://thedaddy.click/stream/stream-575.php
 
-#EXTINF:-1 tvg-id="moto2czechgrandprixqualifying" tvg-name="Motorsport | Moto2 : Czech Grand Prix Qualifying (13:40)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live",Motorsport | Moto2 : Czech Grand Prix Qualifying (13:40)
+#EXTINF:-1 tvg-id="moto2czechgrandprixqualifying" tvg-name="Motorsport | Moto2 : Czech Grand Prix Qualifying (13:40)" tvg-logo="https://1.bp.blogspot.com/--h_B_gQgA5M/X7dzqBuFa1I/AAAAAAAAKcA/_64dF25d7LQDis3x67-bnWXPQwPKkVAVACLcBGAsYHQ/w1200-h630-p-k-no-nu/Moto2.png" group-title="Eventi Live",Motorsport | Moto2 : Czech Grand Prix Qualifying (13:40)
 https://thedaddy.click/stream/stream-575.php
 
 #EXTINF:-1 tvg-id="motogpczechgrandprixsprint" tvg-name="Motorsport | MotoGP : Czech Grand Prix Sprint (14:30)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-0.png" group-title="Eventi Live",Motorsport | MotoGP : Czech Grand Prix Sprint (14:30)
@@ -953,7 +951,7 @@ https://thedaddy.click/stream/stream-882.php
 #EXTINF:-1 tvg-id="iaafdiamondleaguelondonathleticsmeetlondonstadium" tvg-name="Athletics | IAAF Diamond League London Athletics Meet - London Stadium (15:00)" tvg-logo="https://iconape.com/wp-content/png_logo_vector/iaaf-diamond-league-logo.png" group-title="Eventi Live",Athletics | IAAF Diamond League London Athletics Meet - London Stadium (15:00)
 https://thedaddy.click/stream/stream-882.php
 
-#EXTINF:-1 tvg-id="worldcupmadridmensandwomensleadfinal" tvg-name="Climbing | World Cup | Madrid Men's and Women's Lead | Final (20:25)" tvg-logo="https://png.pngtree.com/png-vector/20231210/ourmid/pngtree-t-20-world-cup-2024-logo-skecth-look-vector-png-image_11196996.png" group-title="Eventi Live",Climbing | World Cup | Madrid Men's and Women's Lead | Final (20:25)
+#EXTINF:-1 tvg-id="worldcupmadridmensandwomensleadfinal" tvg-name="Climbing | World Cup | Madrid Men's and Women's Lead | Final (20:25)" tvg-logo="https://images.seeklogo.com/logo-png/57/2/club-world-cup-2025-logo-png_seeklogo-577684.png" group-title="Eventi Live",Climbing | World Cup | Madrid Men's and Women's Lead | Final (20:25)
 https://thedaddy.click/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="tourdefranceuciworldtourstage14pautoluchonsuperbagnresmountain182km4950m" tvg-name="Cycling | Tour de France UCI World Tour Stage 14 - Pau to Luchon-Superbagn?res Mountain | 182 km | 4950 m (13:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Tour de France UCI World Tour Stage 14 - Pau to Luchon-Superbagn?res Mountain | 182 km | 4950 m (13:00)

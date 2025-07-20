@@ -21,12 +21,8 @@ https://vavoo.to/vavoo-iptv/play/1792428355edae51bf7896
 https://vavoo.to/vavoo-iptv/play/1506307932300e27c2fd43
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_Ufficiale_Radio_Bellla_%26_Monella.png" group-title="Altro",BELLLA & MONELLA TV
 https://vavoo.to/vavoo-iptv/play/1611446752ef81feae9ae
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.opq.it/wp-content/uploads/BergamoTV.png" group-title="Altro",BERGAMO TV
-https://vavoo.to/vavoo-iptv/play/2476433040575c4662d870
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Altro",BLOOMBERG TV
 https://vavoo.to/vavoo-iptv/play/116299718d713a2de061f
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Altro",BLOOMBERG TV 4K
-https://vavoo.to/vavoo-iptv/play/3911047486fb5f634d6343
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMdUB8WEdsRVi_WZLxoi79pqlRef4s9Zehg&s" group-title="Altro",BYOBLU
 https://vavoo.to/vavoo-iptv/play/2826111812745ee617058d
 #EXTINF:-1 tvg-id="caccia.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-it.png?raw=true" group-title="Altro",CACCIA
@@ -321,6 +317,8 @@ https://vavoo.to/vavoo-iptv/play/279439224488ada9f3a1b3
 https://vavoo.to/vavoo-iptv/play/2521763009f0e0ef1051a6
 #EXTINF:-1 tvg-id="" tvg-logo="https://banner2.cleanpng.com/20180606/qrg/aa9vorpin.webp" group-title="Altro",TELETUBBIES
 https://vavoo.to/vavoo-iptv/play/257447576d383e8001862
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0xhoeVg7nRLPp8GnPkFzLUWvJ5WolvU-iYw&s" group-title="Altro",TELEVENEZIA
+https://vavoo.to/vavoo-iptv/play/281431819814af663d4567
 #EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/proxy/UNXKnLrwdDNoio4peXah3Pz81kI5Cv2FzJo82TPzn4seN-JZ3tovuVe45XSRBkIyMOfrrZ3bnWaMsTi80Xj40Q" group-title="Altro",TELEVIDEO AGRIGENTO
 https://vavoo.to/vavoo-iptv/play/40202419628e8eecc1dd12
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.trentinotv.it/images/resource/logo-trentino.png" group-title="Altro",TRENTINO TV
@@ -621,6 +619,8 @@ https://vavoo.to/vavoo-iptv/play/2651461317c35e3e83858e
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
 #EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
 https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
+https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
@@ -633,8 +633,6 @@ https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
 https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
-#EXTINF:-1 tvg-id="sky.documentaries.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari",SKY DOCUMENTARIES
-https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
 #EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari",SKY NATURE
 https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teleartetv.it/web/wp-content/uploads/2023/04/logo_TA.jpg" group-title="Documentari",TELEARTE
@@ -924,7 +922,7 @@ https://thedaddy.click/stream/stream-575.php
 #EXTINF:-1 tvg-id="moto2czechgrandprixrace" tvg-name="Motorsport | Moto2 : Czech Grand Prix Race (12:00)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live",Motorsport | Moto2 : Czech Grand Prix Race (12:00)
 https://thedaddy.click/stream/stream-575.php
 
-#EXTINF:-1 tvg-id="motogpczechgrandprixrace" tvg-name="Motorsport | MotoGP : Czech Grand Prix Race (13:15)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : Czech Grand Prix Race (13:15)
+#EXTINF:-1 tvg-id="motogpczechgrandprixrace" tvg-name="Motorsport | MotoGP : Czech Grand Prix Race (13:15)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-0.png" group-title="Eventi Live",Motorsport | MotoGP : Czech Grand Prix Race (13:15)
 https://thedaddy.click/stream/stream-575.php
 
 #EXTINF:-1 tvg-id="basketball3x3summeruniversiaderhineruhr2025medalzone" tvg-name="Basketball | Basketball 3x3: Summer Universiade - Rhine-Ruhr 2025 medal zone (14:10)" tvg-logo="https://www.guamsportsnetwork.com/wp-content/uploads/2019/08/FIBA-3x3-Basketball-logo.png" group-title="Eventi Live",Basketball | Basketball 3x3: Summer Universiade - Rhine-Ruhr 2025 medal zone (14:10)
@@ -933,7 +931,7 @@ https://thedaddy.click/stream/stream-879.php
 #EXTINF:-1 tvg-id="nationsleaguenetherlandsvsitaly" tvg-name="Volleyball | Nations League : Netherlands vs. Italy (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Netherlands_vs_Italy.png" group-title="Eventi Live",Volleyball | Nations League : Netherlands vs. Italy (16:30)
 https://thedaddy.click/stream/stream-877.php
 
-#EXTINF:-1 tvg-id="worldaquaticschampionshipsartisticswimmingteamsfreestylefinal" tvg-name="Water Sports | World Aquatics Championships Artistic Swimming: Teams - Freestyle (Final) (12:30)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/World_Aquatics_Doha_2024_logo.png/revision/latest/scale-to-width-down/1200?cb=20230816232318" group-title="Eventi Live",Water Sports | World Aquatics Championships Artistic Swimming: Teams - Freestyle (Final) (12:30)
+#EXTINF:-1 tvg-id="worldaquaticschampionshipsartisticswimmingteamsfreestylefinal" tvg-name="Water Sports | World Aquatics Championships Artistic Swimming: Teams - Freestyle (Final) (12:30)" tvg-logo="https://allsportdb.com/Images/Logo/Large/Events/7916.png" group-title="Eventi Live",Water Sports | World Aquatics Championships Artistic Swimming: Teams - Freestyle (Final) (12:30)
 https://thedaddy.click/stream/stream-882.php
 
 

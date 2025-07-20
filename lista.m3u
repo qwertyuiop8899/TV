@@ -117,6 +117,8 @@ https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
 https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 #EXTINF:-1 tvg-id="goldtv.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSjSJx2Wah0-hfWbBn4_C79K5I0600lcD8zw&s" group-title="Altro",GOLD TV
 https://vavoo.to/vavoo-iptv/play/2854396316c4fc7fe60f75
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.telegranducato.it/wp-content/uploads/img_struttura_sito/logo_granducato_ridotto.png" group-title="Altro",GRANDUCATO
+https://vavoo.to/vavoo-iptv/play/9421530140b5164a467be
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
 https://vavoo.to/vavoo-iptv/play/28977827817ceeecfaf662
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
@@ -319,8 +321,6 @@ https://vavoo.to/vavoo-iptv/play/279439224488ada9f3a1b3
 https://vavoo.to/vavoo-iptv/play/2521763009f0e0ef1051a6
 #EXTINF:-1 tvg-id="" tvg-logo="https://banner2.cleanpng.com/20180606/qrg/aa9vorpin.webp" group-title="Altro",TELETUBBIES
 https://vavoo.to/vavoo-iptv/play/257447576d383e8001862
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0xhoeVg7nRLPp8GnPkFzLUWvJ5WolvU-iYw&s" group-title="Altro",TELEVENEZIA
-https://vavoo.to/vavoo-iptv/play/281431819814af663d4567
 #EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/proxy/UNXKnLrwdDNoio4peXah3Pz81kI5Cv2FzJo82TPzn4seN-JZ3tovuVe45XSRBkIyMOfrrZ3bnWaMsTi80Xj40Q" group-title="Altro",TELEVIDEO AGRIGENTO
 https://vavoo.to/vavoo-iptv/play/40202419628e8eecc1dd12
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.trentinotv.it/images/resource/logo-trentino.png" group-title="Altro",TRENTINO TV
@@ -477,8 +477,6 @@ https://vavoo.to/vavoo-iptv/play/3990509931e84e66eaa232
 https://vavoo.to/vavoo-iptv/play/13516316035c18ca000fe1
 #EXTINF:-1 tvg-id="dazn.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN
 https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143
-#EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
-https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1 (D)
 https://thedaddy.click/stream/stream-877.php
 #EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
@@ -623,8 +621,6 @@ https://vavoo.to/vavoo-iptv/play/2651461317c35e3e83858e
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
 #EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
 https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
-https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
@@ -871,8 +867,6 @@ https://thedaddy.click/stream/stream-853.php
 https://vavoo.to/vavoo-iptv/play/4241820180667f1d89110e
 #EXTINF:-1 tvg-id="rai4.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai",RAI 4
 https://vavoo.to/vavoo-iptv/play/2179822223e6f7fefa408e
-#EXTINF:-1 tvg-id="rai4k.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1200px-Rai_4K_-_Logo_2017.svg.png" group-title="Rai",RAI 4K
-https://vavoo.to/vavoo-iptv/play/2049087681c31592c6b362
 #EXTINF:-1 tvg-id="rai5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Rai",RAI 5
 https://vavoo.to/vavoo-iptv/play/3249873828c4ad4d2c1d15
 #EXTINF:-1 tvg-id="rai5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Rai",RAI 5
@@ -921,7 +915,7 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="motogpczechgrandprixwarmup" tvg-name="Motorsport | MotoGP : Czech Grand Prix Warm Up (09:35)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-0.png" group-title="Eventi Live",Motorsport | MotoGP : Czech Grand Prix Warm Up (09:35)
+#EXTINF:-1 tvg-id="motogpczechgrandprixwarmup" tvg-name="Motorsport | MotoGP : Czech Grand Prix Warm Up (09:35)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : Czech Grand Prix Warm Up (09:35)
 https://thedaddy.click/stream/stream-575.php
 
 #EXTINF:-1 tvg-id="moto3czechgrandprixrace" tvg-name="Motorsport | Moto3 : Czech Grand Prix Race (11:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Eventi Live",Motorsport | Moto3 : Czech Grand Prix Race (11:00)
@@ -930,7 +924,7 @@ https://thedaddy.click/stream/stream-575.php
 #EXTINF:-1 tvg-id="moto2czechgrandprixrace" tvg-name="Motorsport | Moto2 : Czech Grand Prix Race (12:00)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live",Motorsport | Moto2 : Czech Grand Prix Race (12:00)
 https://thedaddy.click/stream/stream-575.php
 
-#EXTINF:-1 tvg-id="motogpczechgrandprixrace" tvg-name="Motorsport | MotoGP : Czech Grand Prix Race (13:15)" tvg-logo="https://logodownload.org/wp-content/uploads/2019/11/moto-gp-logo-0.png" group-title="Eventi Live",Motorsport | MotoGP : Czech Grand Prix Race (13:15)
+#EXTINF:-1 tvg-id="motogpczechgrandprixrace" tvg-name="Motorsport | MotoGP : Czech Grand Prix Race (13:15)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : Czech Grand Prix Race (13:15)
 https://thedaddy.click/stream/stream-575.php
 
 #EXTINF:-1 tvg-id="basketball3x3summeruniversiaderhineruhr2025medalzone" tvg-name="Basketball | Basketball 3x3: Summer Universiade - Rhine-Ruhr 2025 medal zone (14:10)" tvg-logo="https://www.guamsportsnetwork.com/wp-content/uploads/2019/08/FIBA-3x3-Basketball-logo.png" group-title="Eventi Live",Basketball | Basketball 3x3: Summer Universiade - Rhine-Ruhr 2025 medal zone (14:10)
@@ -939,7 +933,7 @@ https://thedaddy.click/stream/stream-879.php
 #EXTINF:-1 tvg-id="nationsleaguenetherlandsvsitaly" tvg-name="Volleyball | Nations League : Netherlands vs. Italy (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Netherlands_vs_Italy.png" group-title="Eventi Live",Volleyball | Nations League : Netherlands vs. Italy (16:30)
 https://thedaddy.click/stream/stream-877.php
 
-#EXTINF:-1 tvg-id="worldaquaticschampionshipsartisticswimmingteamsfreestylefinal" tvg-name="Water Sports | World Aquatics Championships Artistic Swimming: Teams - Freestyle (Final) (12:30)" tvg-logo="https://africaaquatics.org/uploads/admin/events/thumbnail/302_2023_World_Aquatics_Championships_logo.png" group-title="Eventi Live",Water Sports | World Aquatics Championships Artistic Swimming: Teams - Freestyle (Final) (12:30)
+#EXTINF:-1 tvg-id="worldaquaticschampionshipsartisticswimmingteamsfreestylefinal" tvg-name="Water Sports | World Aquatics Championships Artistic Swimming: Teams - Freestyle (Final) (12:30)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/World_Aquatics_Doha_2024_logo.png/revision/latest/scale-to-width-down/1200?cb=20230816232318" group-title="Eventi Live",Water Sports | World Aquatics Championships Artistic Swimming: Teams - Freestyle (Final) (12:30)
 https://thedaddy.click/stream/stream-882.php
 
 

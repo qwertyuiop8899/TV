@@ -562,6 +562,8 @@ https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP (D)
 https://thedaddy.click/stream/stream-575.php
 #EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA
+https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce
+#EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA
 https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A
 https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc
@@ -727,6 +729,8 @@ https://thedaddy.click/stream/stream-861.php
 https://vavoo.to/vavoo-iptv/play/352583705711c4cbe44bbb
 #EXTINF:-1 tvg-id="sky.cinema.collection.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film & Serie TV",SKY CINEMA COLLECTION (D)
 https://thedaddy.click/stream/stream-859.php
+#EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film & Serie TV",SKY CINEMA COMEDY
+https://vavoo.to/vavoo-iptv/play/500203271d58941028e95
 #EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film & Serie TV",SKY CINEMA COMEDY
 https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
 #EXTINF:-1 tvg-id="sky.cinema.drama.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film & Serie TV",SKY CINEMA DRAMA

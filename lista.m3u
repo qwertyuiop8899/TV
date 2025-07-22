@@ -279,6 +279,8 @@ https://vavoo.to/vavoo-iptv/play/87479718111853618b3cd
 https://vavoo.to/vavoo-iptv/play/15636496015811b8b8f7e4
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.milanopavia.tv/wp-content/uploads/2020/01/logoMilanoPaviaTV.png" group-title="Altro",TELE PAVIA
 https://vavoo.to/vavoo-iptv/play/6164833177424547eff1f
+#EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/images/teleromagna-logo.png" group-title="Altro",TELE ROMAGNA
+https://vavoo.to/vavoo-iptv/play/1294463772435c5239e44
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.telesirio.it/images/logo.png" group-title="Altro",TELE SIRIO
 https://vavoo.to/vavoo-iptv/play/21884692197ee0a9ba39f6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teletricolore.it/wp-content/uploads/2018/02/logo.png" group-title="Altro",TELE TRICOLORE
@@ -930,7 +932,7 @@ https://thedaddy.click/stream/stream-850.php
 #EXTINF:-1 tvg-id="worlduniversitygamesrhineruhrmatchday2" tvg-name="Athletics | World University Games Rhine-Ruhr | Matchday 2 (17:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Athletics | World University Games Rhine-Ruhr | Matchday 2 (17:30)
 https://thedaddy.click/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="finalfourpetanque2025fromgorizia" tvg-name="Bowling | Final Four Petanque 2025-from Gorizia (17:00)" tvg-logo="https://www.petanque-petanque.com/wp-content/uploads/2023/10/Logo_TDV_Pastille-300x300-1.png" group-title="Eventi Live",Bowling | Final Four Petanque 2025-from Gorizia (17:00)
+#EXTINF:-1 tvg-id="finalfourpetanque2025fromgorizia" tvg-name="Bowling | Final Four Petanque 2025-from Gorizia (17:00)" tvg-logo="https://assets.primesport.com/prod/images/2025 Mens Final Four Logo.png" group-title="Eventi Live",Bowling | Final Four Petanque 2025-from Gorizia (17:00)
 https://thedaddy.click/stream/stream-882.php
 
 #EXTINF:-1 tvg-id="2025worldaquaticschampionshipsmenswaterpolo2ndsemifinal" tvg-name="Water polo | 2025 World Aquatics Championships - Men's Water Polo: 2nd Semifinal (15:25)" tvg-logo="https://thumbor.prod.vidiocdn.com/1PJrrwza6E8n76ncCjCrQ83LBMU=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/472/world-aquatics-aee3e1.png" group-title="Eventi Live",Water polo | 2025 World Aquatics Championships - Men's Water Polo: 2nd Semifinal (15:25)

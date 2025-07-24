@@ -62,8 +62,6 @@ https://vavoo.to/vavoo-iptv/play/625586063b81b5ccae3f
 #EXTINF:-1 tvg-id="classica.hd.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/CLA_HD_Logo-CENT-300ppi_CMYK.jpg" group-title="Altro",CLASSICA
 https://vavoo.to/vavoo-iptv/play/640609226bada55274ff
 #EXTINF:-1 tvg-id="comedy.central.it" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",COMEDY CENTRAL
-https://vavoo.to/vavoo-iptv/play/365827745096a993ffc066
-#EXTINF:-1 tvg-id="comedy.central.it" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",COMEDY CENTRAL
 https://vavoo.to/vavoo-iptv/play/433893159bf516cde9a97
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.trendcomunicazione.com/wp-content/uploads/2018/11/20180416-logo-tv-bokka-300x155.png" group-title="Altro",COMPANY TV
 https://vavoo.to/vavoo-iptv/play/1322483308506652cfc631
@@ -161,6 +159,8 @@ https://dlhd.click/stream/stream-855.php
 https://dlhd.click/stream/stream-856.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://liratv.es/wp-content/uploads/2021/07/LIRA-TV-1.png" group-title="Altro",LIRA TV
 https://vavoo.to/vavoo-iptv/play/2835333400f831a30ce568
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",MARIA+VISION ITALIA
+https://vavoo.to/vavoo-iptv/play/364832494563359ab623df
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND
 https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND
@@ -527,8 +527,6 @@ https://dlhd.click/stream/stream-875.php
 https://dlhd.click/stream/stream-876.php
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
 https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://dlhd.click/stream/stream-462.php
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
@@ -691,8 +689,6 @@ https://dlhd.click/stream/stream-862.php
 https://dlhd.click/stream/stream-868.php
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film & Serie TV",CRIME + INV
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film & Serie TV",CRIME+ INVESTIGATION
-https://vavoo.to/vavoo-iptv/play/30052277008e849440ee94
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film & Serie TV",DISNEY+ FILM
 https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 #EXTINF:-1 tvg-id="foxhd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film & Serie TV",FOX
@@ -885,10 +881,14 @@ https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
 https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
+https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
+#EXTINF:-1 tvg-id="rainews24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24
+https://vavoo.to/vavoo-iptv/play/22729239721838600694f7
 #EXTINF:-1 tvg-id="rainews24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24
 https://vavoo.to/vavoo-iptv/play/2239645272d37ede79369f
 #EXTINF:-1 tvg-id="raipremium.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai",RAI PREMIUM
@@ -924,7 +924,7 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="clubfriendlyajaxvsceltic" tvg-name="Soccer | Club Friendly : Ajax vs Celtic (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ajax_vs_Celtic.png" group-title="Eventi Live",Soccer | Club Friendly : Ajax vs Celtic (20:30)
 https://dlhd.click/stream/stream-870.php
 
-#EXTINF:-1 tvg-id="tourdefranceuciworldtourstage18viftocourchevelmountain171km5450m" tvg-name="Cycling | Tour de France UCI World Tour Stage 18 - Vif to Courchevel Mountain | 171 km | 5450 m (13:00)" tvg-logo="https://www.letour.fr/img/global/logo-og.png" group-title="Eventi Live",Cycling | Tour de France UCI World Tour Stage 18 - Vif to Courchevel Mountain | 171 km | 5450 m (13:00)
+#EXTINF:-1 tvg-id="tourdefranceuciworldtourstage18viftocourchevelmountain171km5450m" tvg-name="Cycling | Tour de France UCI World Tour Stage 18 - Vif to Courchevel Mountain | 171 km | 5450 m (13:00)" tvg-logo="https://d21buns5ku92am.cloudfront.net/69126/images/393870-TDF-GD_Femmes-Zwift-Logo-White_background-RGB-610a71-original-1623858431.png" group-title="Eventi Live",Cycling | Tour de France UCI World Tour Stage 18 - Vif to Courchevel Mountain | 171 km | 5450 m (13:00)
 https://dlhd.click/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="nationsleaguewomenjapanwvsturkeyw" tvg-name="Volleyball | Nations League Women : Japan W vs Turkey W (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Japan W_vs_Turkey W.png" group-title="Eventi Live",Volleyball | Nations League Women : Japan W vs Turkey W (16:30)
@@ -933,10 +933,7 @@ https://dlhd.click/stream/stream-877.php
 #EXTINF:-1 tvg-id="nationsleaguewomenbrazilwvsgermanyw" tvg-name="Volleyball | Nations League Women : Brazil W vs Germany W (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Brazil W_vs_Germany W.png" group-title="Eventi Live",Volleyball | Nations League Women : Brazil W vs Germany W (20:00)
 https://dlhd.click/stream/stream-877.php
 
-#EXTINF:-1 tvg-id="worldchampionshipplayoffsgreecevsserbia" tvg-name="Water polo | World Championship - Play Offs : Greece vs Serbia (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Greece_vs_Serbia.png" group-title="Eventi Live",Water polo | World Championship - Play Offs : Greece vs Serbia (11:30)
-https://dlhd.click/stream/stream-882.php
-
-#EXTINF:-1 tvg-id="worldchampionshipfinal" tvg-name="Water Sports | World Championship: Final (13:30)" tvg-logo="https://iconape.com/wp-content/png_logo_vector/iihf-2004-world-championship-logo.png" group-title="Eventi Live",Water Sports | World Championship: Final (13:30)
+#EXTINF:-1 tvg-id="worldchampionshipfinal" tvg-name="Water Sports | World Championship: Final (13:30)" tvg-logo="https://images.seeklogo.com/logo-png/47/3/marlboro-world-championship-team-logo-png_seeklogo-471404.png?v=1958565987555095224" group-title="Eventi Live",Water Sports | World Championship: Final (13:30)
 https://dlhd.click/stream/stream-851.php
 
 

@@ -62,6 +62,8 @@ https://vavoo.to/vavoo-iptv/play/625586063b81b5ccae3f
 #EXTINF:-1 tvg-id="classica.hd.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/CLA_HD_Logo-CENT-300ppi_CMYK.jpg" group-title="Altro",CLASSICA
 https://vavoo.to/vavoo-iptv/play/640609226bada55274ff
 #EXTINF:-1 tvg-id="comedy.central.it" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",COMEDY CENTRAL
+https://vavoo.to/vavoo-iptv/play/365827745096a993ffc066
+#EXTINF:-1 tvg-id="comedy.central.it" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",COMEDY CENTRAL
 https://vavoo.to/vavoo-iptv/play/433893159bf516cde9a97
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.trendcomunicazione.com/wp-content/uploads/2018/11/20180416-logo-tv-bokka-300x155.png" group-title="Altro",COMPANY TV
 https://vavoo.to/vavoo-iptv/play/1322483308506652cfc631
@@ -588,8 +590,6 @@ https://vavoo.to/vavoo-iptv/play/33428493134b007f2ed197
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORTITALIA SOLOCALCIO
 https://vavoo.to/vavoo-iptv/play/21984103395cacdfaf1d34
 #EXTINF:-1 tvg-id="supertennis.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
-https://vavoo.to/vavoo-iptv/play/3213195143c3be65cec024
-#EXTINF:-1 tvg-id="supertennis.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
 https://vavoo.to/vavoo-iptv/play/300937751365646200d097
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.tennis.com/image/upload/t_16-9_768/v1620828532/tenniscom-prd/assets/Fallback/Tennis_Fallback_v6_f5tjzv.jpg" group-title="Sport",TENNIS CHANNEL
 https://vavoo.to/vavoo-iptv/play/2716316208c609145ce2cb
@@ -935,7 +935,7 @@ https://dlhd.click/stream/stream-577.php
 #EXTINF:-1 tvg-id="tourdefranceuciworldtourstage19albertvilletolaplagnemountain129km4550m" tvg-name="Cycling | Tour de France UCI World Tour Stage 19 - Albertville to La Plagne Mountain | 129 km | 4550 m (13:00)" tvg-logo="https://www.letour.fr/img/global/logo-og.png" group-title="Eventi Live",Cycling | Tour de France UCI World Tour Stage 19 - Albertville to La Plagne Mountain | 129 km | 4550 m (13:00)
 https://dlhd.click/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="artisticgymnasticssummeruniversiaderhineruhr2025womensallaroundfinals" tvg-name="Gymnastics | Artistic Gymnastics: Summer Universiade - Rhine-Ruhr 2025 women's all-around - finals (19:00)" tvg-logo="https://logos-download.com/wp-content/uploads/2018/12/USA_Gymnastics_Logo.png" group-title="Eventi Live",Gymnastics | Artistic Gymnastics: Summer Universiade - Rhine-Ruhr 2025 women's all-around - finals (19:00)
+#EXTINF:-1 tvg-id="artisticgymnasticssummeruniversiaderhineruhr2025womensallaroundfinals" tvg-name="Gymnastics | Artistic Gymnastics: Summer Universiade - Rhine-Ruhr 2025 women's all-around - finals (19:00)" tvg-logo="https://pngimg.com/uploads/gymnastics/gymnastics_PNG77.png" group-title="Eventi Live",Gymnastics | Artistic Gymnastics: Summer Universiade - Rhine-Ruhr 2025 women's all-around - finals (19:00)
 https://dlhd.click/stream/stream-878.php
 
 

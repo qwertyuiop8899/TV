@@ -21,6 +21,8 @@ https://vavoo.to/vavoo-iptv/play/1792428355edae51bf7896
 https://vavoo.to/vavoo-iptv/play/1506307932300e27c2fd43
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_Ufficiale_Radio_Bellla_%26_Monella.png" group-title="Altro",BELLLA & MONELLA TV
 https://vavoo.to/vavoo-iptv/play/1611446752ef81feae9ae
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.opq.it/wp-content/uploads/BergamoTV.png" group-title="Altro",BERGAMO TV
+https://vavoo.to/vavoo-iptv/play/2476433040575c4662d870
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Altro",BLOOMBERG TV
 https://vavoo.to/vavoo-iptv/play/116299718d713a2de061f
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Altro",BLOOMBERG TV 4K
@@ -59,6 +61,8 @@ https://vavoo.to/vavoo-iptv/play/3743894403dc7e6005c138
 https://vavoo.to/vavoo-iptv/play/625586063b81b5ccae3f
 #EXTINF:-1 tvg-id="classica.hd.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/CLA_HD_Logo-CENT-300ppi_CMYK.jpg" group-title="Altro",CLASSICA
 https://vavoo.to/vavoo-iptv/play/640609226bada55274ff
+#EXTINF:-1 tvg-id="comedy.central.it" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",COMEDY CENTRAL
+https://vavoo.to/vavoo-iptv/play/365827745096a993ffc066
 #EXTINF:-1 tvg-id="comedy.central.it" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",COMEDY CENTRAL
 https://vavoo.to/vavoo-iptv/play/433893159bf516cde9a97
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.trendcomunicazione.com/wp-content/uploads/2018/11/20180416-logo-tv-bokka-300x155.png" group-title="Altro",COMPANY TV
@@ -177,8 +181,6 @@ https://vavoo.to/vavoo-iptv/play/43501686619a1a53c7d14
 https://vavoo.to/vavoo-iptv/play/17895220057515b249c059
 #EXTINF:-1 tvg-id="pesca.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/pesca-it.png?raw=true" group-title="Altro",PESCA
 https://vavoo.to/vavoo-iptv/play/714472867a9a9547f329c
-#EXTINF:-1 tvg-id="pescaecaccia.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-pesca-it.png?raw=true" group-title="Altro",PESCA E CACCIA
-https://vavoo.to/vavoo-iptv/play/312451299385241b4e7078
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prima_TV_Logo_2022.svg/800px-Prima_TV_Logo_2022.svg.png" group-title="Altro",PRIMA TV
 https://vavoo.to/vavoo-iptv/play/530658045774685c88ed8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prima_TV_Logo_2022.svg/800px-Prima_TV_Logo_2022.svg.png" group-title="Altro",PRIMA TV
@@ -283,6 +285,8 @@ https://vavoo.to/vavoo-iptv/play/21884692197ee0a9ba39f6
 https://vavoo.to/vavoo-iptv/play/2314613216d218b9f4abd4
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lp10Brud3JZex6CgE4M9c-XcKFY4MrRhcFe9PUn-N4SD4=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",TELE TUSCIASABINA 2000
 https://vavoo.to/vavoo-iptv/play/545707096d82d839e8210
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0xhoeVg7nRLPp8GnPkFzLUWvJ5WolvU-iYw&s" group-title="Altro",TELE VENEZIA
+https://vavoo.to/vavoo-iptv/play/10952221968404a15fb50
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvdream.net/img/telea-tv.png" group-title="Altro",TELEA TV
 https://vavoo.to/vavoo-iptv/play/33320923104ab1534cf6af
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/TeleArena_logo.png" group-title="Altro",TELEARENA
@@ -523,6 +527,8 @@ https://dlhd.click/stream/stream-875.php
 https://dlhd.click/stream/stream-876.php
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
 https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://dlhd.click/stream/stream-462.php
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
@@ -879,6 +885,8 @@ https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
 https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
+https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
@@ -917,8 +925,32 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="clubfriendlyajaxvsceltic" tvg-name="Soccer | Club Friendly : Ajax vs Celtic (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ajax_vs_Celtic.png" group-title="Eventi Live",Soccer | Club Friendly : Ajax vs Celtic (20:30)
-https://dlhd.click/stream/stream-870.php
+#EXTINF:-1 tvg-id="clubfriendlyfiorentinavscarrarese" tvg-name="Soccer | Club Friendly : Fiorentina vs Carrarese (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Carrarese.png" group-title="Eventi Live",Soccer | Club Friendly : Fiorentina vs Carrarese (20:00)
+https://dlhd.click/stream/stream-55.php
+
+#EXTINF:-1 tvg-id="formula3moetchandonbelgiangppractice" tvg-name="Motorsport | Formula 3 : Moet & Chandon Belgian GP - Practice (08:45)" tvg-logo="https://images.seeklogo.com/logo-png/5/2/formula-3-euro-series-logo-png_seeklogo-56757.png" group-title="Eventi Live",Motorsport | Formula 3 : Moet & Chandon Belgian GP - Practice (08:45)
+https://dlhd.click/stream/stream-577.php
+
+#EXTINF:-1 tvg-id="formula2moetchandonbelgiangppractice" tvg-name="Motorsport | Formula 2 : Moet & Chandon Belgian GP - Practice (10:10)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/3iwfjg1536242234.png" group-title="Eventi Live",Motorsport | Formula 2 : Moet & Chandon Belgian GP - Practice (10:10)
+https://dlhd.click/stream/stream-577.php
+
+#EXTINF:-1 tvg-id="formula1moetchandonbelgiangppractice1" tvg-name="Motorsport | Formula 1 : Moet & Chandon Belgian GP - Practice 1 (12:30)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : Moet & Chandon Belgian GP - Practice 1 (12:30)
+https://dlhd.click/stream/stream-577.php
+
+#EXTINF:-1 tvg-id="formula3moetchandonbelgiangpqualifying" tvg-name="Motorsport | Formula 3 : Moet & Chandon Belgian GP - Qualifying (14:00)" tvg-logo="https://images.seeklogo.com/logo-png/5/2/formula-3-euro-series-logo-png_seeklogo-56757.png" group-title="Eventi Live",Motorsport | Formula 3 : Moet & Chandon Belgian GP - Qualifying (14:00)
+https://dlhd.click/stream/stream-577.php
+
+#EXTINF:-1 tvg-id="formula2moetchandonbelgiangpqualifying" tvg-name="Motorsport | Formula 2 : Moet & Chandon Belgian GP - Qualifying (15:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/3iwfjg1536242234.png" group-title="Eventi Live",Motorsport | Formula 2 : Moet & Chandon Belgian GP - Qualifying (15:00)
+https://dlhd.click/stream/stream-577.php
+
+#EXTINF:-1 tvg-id="formula1moetchandonbelgiangpsprintqualifying" tvg-name="Motorsport | Formula 1 : Moet & Chandon Belgian GP - Sprint Qualifying (16:30)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : Moet & Chandon Belgian GP - Sprint Qualifying (16:30)
+https://dlhd.click/stream/stream-577.php
+
+#EXTINF:-1 tvg-id="tourdefranceuciworldtourstage19albertvilletolaplagnemountain129km4550m" tvg-name="Cycling | Tour de France UCI World Tour Stage 19 - Albertville to La Plagne Mountain | 129 km | 4550 m (13:00)" tvg-logo="https://www.letour.fr/img/global/logo-og.png" group-title="Eventi Live",Cycling | Tour de France UCI World Tour Stage 19 - Albertville to La Plagne Mountain | 129 km | 4550 m (13:00)
+https://dlhd.click/stream/stream-878.php
+
+#EXTINF:-1 tvg-id="artisticgymnasticssummeruniversiaderhineruhr2025womensallaroundfinals" tvg-name="Gymnastics | Artistic Gymnastics: Summer Universiade - Rhine-Ruhr 2025 women's all-around - finals (19:00)" tvg-logo="https://logos-download.com/wp-content/uploads/2018/12/USA_Gymnastics_Logo.png" group-title="Eventi Live",Gymnastics | Artistic Gymnastics: Summer Universiade - Rhine-Ruhr 2025 women's all-around - finals (19:00)
+https://dlhd.click/stream/stream-878.php
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas

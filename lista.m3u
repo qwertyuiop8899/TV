@@ -409,6 +409,8 @@ https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
 https://vavoo.to/vavoo-iptv/play/313448120145a6443975e1
 #EXTINF:-1 tvg-id="mediaset.extra.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/mediaset-extra-it.png" group-title="Mediaset",MEDIASET EXTRA
 https://vavoo.to/vavoo-iptv/play/4774665319f73c392df0e
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET INFINITY+ 1
+https://vavoo.to/vavoo-iptv/play/3599959739ed5ed2f1f0cd
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET INFINITY+ 2
 https://vavoo.to/vavoo-iptv/play/2436070507988d651c6548
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET INFINITY+ 5
@@ -527,6 +529,8 @@ https://dlhd.click/stream/stream-875.php
 https://dlhd.click/stream/stream-876.php
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
 https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://dlhd.click/stream/stream-462.php
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
@@ -689,12 +693,18 @@ https://dlhd.click/stream/stream-862.php
 https://dlhd.click/stream/stream-868.php
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film & Serie TV",CRIME + INV
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film & Serie TV",CRIME+ INVESTIGATION
+https://vavoo.to/vavoo-iptv/play/30052277008e849440ee94
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film & Serie TV",DISNEY+ FILM
 https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 #EXTINF:-1 tvg-id="foxhd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film & Serie TV",FOX
 https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Film & Serie TV",PREMIUM CRIME
 https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN ACTION MOVIES
+https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN COMEDY MOVIES
+https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN DRAMA
 https://vavoo.to/vavoo-iptv/play/209862439074120bb15132
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film & Serie TV",RAKUTEN FAMILY
@@ -877,8 +887,6 @@ https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
 https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
-https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
@@ -913,6 +921,57 @@ https://vavoo.to/vavoo-iptv/play/57338653b83f61385a9f
 https://vavoo.to/vavoo-iptv/play/178550192490bfbe154312
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Rai",RAI YOYO
 https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
+
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="clubfriendlyliverpoolvsmilan" tvg-name="Soccer | Club Friendly : Liverpool vs Milan (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Liverpool_vs_Milan.png" group-title="Eventi Live",Soccer | Club Friendly : Liverpool vs Milan (13:30)
+https://dlhd.click/stream/stream-55.php
+
+#EXTINF:-1 tvg-id="clubfriendlyhannover96vscagliari" tvg-name="Soccer | Club Friendly : Hannover 96 vs Cagliari (14:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Hannover 96_vs_Cagliari.png" group-title="Eventi Live",Soccer | Club Friendly : Hannover 96 vs Cagliari (14:00)
+https://dlhd.click/stream/stream-59.php
+
+#EXTINF:-1 tvg-id="clubfriendlykaiserslauternvsroma" tvg-name="Soccer | Club Friendly : Kaiserslautern vs Roma (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Kaiserslautern_vs_Roma.png" group-title="Eventi Live",Soccer | Club Friendly : Kaiserslautern vs Roma (18:00)
+https://dlhd.click/stream/stream-77.php
+
+#EXTINF:-1 tvg-id="clubfriendlynapolivscatanzaro" tvg-name="Soccer | Club Friendly : Napoli vs Catanzaro (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Catanzaro.png" group-title="Eventi Live",Soccer | Club Friendly : Napoli vs Catanzaro (18:00)
+https://dlhd.click/stream/stream-22.php
+
+#EXTINF:-1 tvg-id="clubfriendlynapolivscatanzaro" tvg-name="Soccer | Club Friendly : Napoli vs Catanzaro (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Catanzaro.png" group-title="Eventi Live",Soccer | Club Friendly : Napoli vs Catanzaro (18:00)
+https://dlhd.click/stream/stream-86.php
+
+#EXTINF:-1 tvg-id="premierleaguesummerseriesevertonvsafcbournemouth" tvg-name="Soccer | Premier League Summer Series : Everton vs AFC Bournemouth (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Everton_vs_AFC Bournemouth.png" group-title="Eventi Live",Soccer | Premier League Summer Series : Everton vs AFC Bournemouth (22:00)
+https://dlhd.click/stream/stream-462.php
+
+#EXTINF:-1 tvg-id="premierleaguesummerseriesmanchesterunitedvswesthamunited" tvg-name="Soccer | Premier League Summer Series : Manchester United vs West Ham United (01:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Manchester United_vs_West Ham United.png" group-title="Eventi Live",Soccer | Premier League Summer Series : Manchester United vs West Ham United (01:00)
+https://dlhd.click/stream/stream-461.php
+
+#EXTINF:-1 tvg-id="premierleaguesummerseriesmanchesterunitedvswesthamunited" tvg-name="Soccer | Premier League Summer Series : Manchester United vs West Ham United (01:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Manchester United_vs_West Ham United.png" group-title="Eventi Live",Soccer | Premier League Summer Series : Manchester United vs West Ham United (01:00)
+https://dlhd.click/stream/stream-870.php
+
+#EXTINF:-1 tvg-id="formula3moetchandonbelgiangpsprintrace" tvg-name="Motorsport | Formula 3 : Moet & Chandon Belgian GP - Sprint Race (09:15)" tvg-logo="https://images.seeklogo.com/logo-png/5/2/formula-3-euro-series-logo-png_seeklogo-56757.png" group-title="Eventi Live",Motorsport | Formula 3 : Moet & Chandon Belgian GP - Sprint Race (09:15)
+https://dlhd.click/stream/stream-577.php
+
+#EXTINF:-1 tvg-id="formula1moetchandonbelgiangpsprint" tvg-name="Motorsport | Formula 1 : Moet & Chandon Belgian GP - Sprint (12:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : Moet & Chandon Belgian GP - Sprint (12:00)
+https://dlhd.click/stream/stream-577.php
+
+#EXTINF:-1 tvg-id="formula2moetchandonbelgiangpsprintrace" tvg-name="Motorsport | Formula 2 : Moet & Chandon Belgian GP - Sprint Race (14:20)" tvg-logo="https://assets.antenaplay.ro/2024/02/28/YW9VML2K4hpFUKMHme97.png" group-title="Eventi Live",Motorsport | Formula 2 : Moet & Chandon Belgian GP - Sprint Race (14:20)
+https://dlhd.click/stream/stream-577.php
+
+#EXTINF:-1 tvg-id="formula1moetchandonbelgiangpqualifying" tvg-name="Motorsport | Formula 1 : Moet & Chandon Belgian GP - Qualifying (16:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : Moet & Chandon Belgian GP - Qualifying (16:00)
+https://dlhd.click/stream/stream-577.php
+
+#EXTINF:-1 tvg-id="2025worldchampionshipsteamfinalsmensfoilwomensepeefromtbilisi" tvg-name="Fencing | 2025 World Championships - Team Finals: Men's Foil, Women's Epee (from Tbilisi) (16:00)" tvg-logo="https://archives.bulbagarden.net/media/upload/e/e8/Pokémon_World_Championships_logo.png" group-title="Eventi Live",Fencing | 2025 World Championships - Team Finals: Men's Foil, Women's Epee (from Tbilisi) (16:00)
+https://dlhd.click/stream/stream-882.php
+
+#EXTINF:-1 tvg-id="supertrileaguetorontoround1" tvg-name="Triathlon | Supertri League | Toronto Round 1 (20:00)" tvg-logo="https://assets.simon.com/tenantlogos/35388.png" group-title="Eventi Live",Triathlon | Supertri League | Toronto Round 1 (20:00)
+https://dlhd.click/stream/stream-878.php
+
+#EXTINF:-1 tvg-id="womensvolleyballnationsleaguesemifinal2brazilwvsjapanw" tvg-name="Volleyball | Women's Volleyball: Nations League semi-final 2 : Brazil W vs Japan W (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Nations League semi-final 2 : Brazil W_vs_Japan W.png" group-title="Eventi Live",Volleyball | Women's Volleyball: Nations League semi-final 2 : Brazil W vs Japan W (20:00)
+https://dlhd.click/stream/stream-877.php
+
+#EXTINF:-1 tvg-id="2025worldaquaticschampionshipsdivingwomens1mspringboardfinal" tvg-name="Water Sports | 2025 World Aquatics Championships - Diving: Women's 1m Springboard Final (13:00)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/World_Aquatics_Doha_2024_logo.png/revision/latest/scale-to-width-down/1200?cb=20230816232318" group-title="Eventi Live",Water Sports | 2025 World Aquatics Championships - Diving: Women's 1m Springboard Final (13:00)
+https://dlhd.click/stream/stream-882.php
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas

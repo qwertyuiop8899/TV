@@ -885,8 +885,6 @@ https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
 https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
-https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
@@ -931,7 +929,7 @@ https://dlhd.click/stream/stream-878.php
 #EXTINF:-1 tvg-id="shanghaimastersround1day1neilrobertsonvspangjunxu" tvg-name="Snooker | Shanghai Masters Round 1 | Day1 : Neil Robertson vs Pang Junxu (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Neil Robertson_vs_Pang Junxu.png" group-title="Eventi Live",Snooker | Shanghai Masters Round 1 | Day1 : Neil Robertson vs Pang Junxu (13:30)
 https://dlhd.click/stream/stream-879.php
 
-#EXTINF:-1 tvg-id="womenstourdefranceflat162km" tvg-name="Cycling | Women's Tour de France Flat | 162 km (15:15)" tvg-logo="https://cdn.cookielaw.org/logos/1cb7fe57-d2de-4bbe-be68-495598d39f44/f0e43435-8409-435f-973a-d106dedb03d1/8abea869-1060-456a-8973-10d444c93e4d/trf.png" group-title="Eventi Live",Cycling | Women's Tour de France Flat | 162 km (15:15)
+#EXTINF:-1 tvg-id="womenstourdefranceflat162km" tvg-name="Cycling | Women's Tour de France Flat | 162 km (15:15)" tvg-logo="https://d21buns5ku92am.cloudfront.net/69126/images/393870-TDF-GD_Femmes-Zwift-Logo-White_background-RGB-610a71-original-1623858431.png" group-title="Eventi Live",Cycling | Women's Tour de France Flat | 162 km (15:15)
 https://dlhd.click/stream/stream-878.php
 
 

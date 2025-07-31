@@ -529,10 +529,6 @@ https://dlhd.click/stream/stream-875.php
 https://dlhd.click/stream/stream-876.php
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
 https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://dlhd.click/stream/stream-462.php
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
@@ -545,6 +541,8 @@ https://dlhd.click/stream/stream-870.php
 https://vavoo.to/vavoo-iptv/play/42467740561588897497f2
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (D)
 https://dlhd.click/stream/stream-577.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL
+https://vavoo.to/vavoo-iptv/play/309353533094c3ad269514
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL (D)
 https://dlhd.click/stream/stream-460.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
@@ -691,14 +689,14 @@ https://dlhd.click/stream/stream-862.php
 https://dlhd.click/stream/stream-868.php
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",CRIME + INV
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",CRIME+ INVESTIGATION
+https://vavoo.to/vavoo-iptv/play/30052277008e849440ee94
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film - Serie TV",DISNEY+ FILM
 https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 #EXTINF:-1 tvg-id="foxhd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film - Serie TV",FOX
 https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Film - Serie TV",PREMIUM CRIME
 https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN ACTION MOVIES
-https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN COMEDY MOVIES
 https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN DRAMA
@@ -727,8 +725,6 @@ https://vavoo.to/vavoo-iptv/play/352583705711c4cbe44bbb
 https://dlhd.click/stream/stream-859.php
 #EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film - Serie TV",SKY CINEMA COMEDY
 https://vavoo.to/vavoo-iptv/play/500203271d58941028e95
-#EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film - Serie TV",SKY CINEMA COMEDY
-https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
 #EXTINF:-1 tvg-id="sky.cinema.drama.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film - Serie TV",SKY CINEMA DRAMA
 https://vavoo.to/vavoo-iptv/play/123553017707540030adf9
 #EXTINF:-1 tvg-id="sky.cinema.drama.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film - Serie TV",SKY CINEMA DRAMA (D)
@@ -920,9 +916,6 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="shanghaimastersround2day4" tvg-name="Snooker | Shanghai Masters Round 2 | Day 4 (08:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/020/967/131/original/cute-minimal-calendar-day-4-illustration-sticker-template-decorated-png.png" group-title="Eventi Live",Snooker | Shanghai Masters Round 2 | Day 4 (08:00)
-https://dlhd.click/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="shanghaimastersround2day4" tvg-name="Snooker | Shanghai Masters Round 2 | Day 4 (13:30)" tvg-logo="https://static.vecteezy.com/system/resources/previews/020/967/131/original/cute-minimal-calendar-day-4-illustration-sticker-template-decorated-png.png" group-title="Eventi Live",Snooker | Shanghai Masters Round 2 | Day 4 (13:30)
 https://dlhd.click/stream/stream-879.php

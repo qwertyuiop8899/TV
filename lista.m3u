@@ -549,6 +549,8 @@ https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae
 https://vavoo.to/vavoo-iptv/play/3897711086f5655aa4d5fb
 #EXTINF:-1 tvg-id="sky.sport.max.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport",SKY SPORT MAX
 https://vavoo.to/vavoo-iptv/play/206632691678b853b73adb
+#EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTO GP
+https://vavoo.to/vavoo-iptv/play/30363168866e9eeb997936
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP
 https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP (D)
@@ -877,6 +879,8 @@ https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323
 https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
 #EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai",RAI GULP
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
+https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
@@ -942,9 +946,6 @@ https://dlhd.click/stream/stream-577.php
 #EXTINF:-1 tvg-id="formula1lenovohungariangrandprixqualifying" tvg-name="Motorsport | Formula 1 : Lenovo Hungarian Grand Prix - Qualifying (16:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : Lenovo Hungarian Grand Prix - Qualifying (16:00)
 https://dlhd.click/stream/stream-577.php
 
-#EXTINF:-1 tvg-id="ufcfightnightmaincardtatsurotairavshyunsungpark" tvg-name="MMA | UFC Fight Night Main Card : Tatsuro Taira vs Hyun Sung Park (03:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Tatsuro Taira_vs_Hyun Sung Park.png" group-title="Eventi Live",MMA | UFC Fight Night Main Card : Tatsuro Taira vs Hyun Sung Park (03:00)
-https://dlhd.click/stream/stream-878.php
-
 #EXTINF:-1 tvg-id="shanghaimastersround2day6" tvg-name="Snooker | Shanghai Masters Round 2 | Day 6 (08:00)" tvg-logo="https://i.pinimg.com/originals/1d/5f/d5/1d5fd57dc1c677d7b62eea6acee47121.png" group-title="Eventi Live",Snooker | Shanghai Masters Round 2 | Day 6 (08:00)
 https://dlhd.click/stream/stream-878.php
 
@@ -957,7 +958,7 @@ https://dlhd.click/stream/stream-879.php
 #EXTINF:-1 tvg-id="tourdefrancewomenstage8mountain112km" tvg-name="Cycling | Tour de France Women: Stage 8 Mountain | 112 km (13:40)" tvg-logo="https://cdn.cookielaw.org/logos/1cb7fe57-d2de-4bbe-be68-495598d39f44/f0e43435-8409-435f-973a-d106dedb03d1/8abea869-1060-456a-8973-10d444c93e4d/trf.png" group-title="Eventi Live",Cycling | Tour de France Women: Stage 8 Mountain | 112 km (13:40)
 https://dlhd.click/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="womens3mspringboardfinal" tvg-name="Water Sports | Women's 3m Springboard Final (12:00)" tvg-logo="https://www.thesportsdb.com/images/media/player/render/t4g73a1627220640.png" group-title="Eventi Live",Water Sports | Women's 3m Springboard Final (12:00)
+#EXTINF:-1 tvg-id="womens3mspringboardfinal" tvg-name="Water Sports | Women's 3m Springboard Final (12:00)" tvg-logo="https://www.thesportsdb.com/images/media/player/render/7eq20e1630412032.png" group-title="Eventi Live",Water Sports | Women's 3m Springboard Final (12:00)
 https://dlhd.click/stream/stream-882.php
 
 

@@ -287,6 +287,8 @@ https://vavoo.to/vavoo-iptv/play/21884692197ee0a9ba39f6
 https://vavoo.to/vavoo-iptv/play/2314613216d218b9f4abd4
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lp10Brud3JZex6CgE4M9c-XcKFY4MrRhcFe9PUn-N4SD4=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",TELE TUSCIASABINA 2000
 https://vavoo.to/vavoo-iptv/play/545707096d82d839e8210
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0xhoeVg7nRLPp8GnPkFzLUWvJ5WolvU-iYw&s" group-title="Altro",TELE VENEZIA
+https://vavoo.to/vavoo-iptv/play/10952221968404a15fb50
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvdream.net/img/telea-tv.png" group-title="Altro",TELEA TV
 https://vavoo.to/vavoo-iptv/play/33320923104ab1534cf6af
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/TeleArena_logo.png" group-title="Altro",TELEARENA
@@ -527,6 +529,8 @@ https://dlhd.click/stream/stream-875.php
 https://dlhd.click/stream/stream-876.php
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
 https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://dlhd.click/stream/stream-462.php
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
@@ -559,8 +563,6 @@ https://dlhd.click/stream/stream-575.php
 https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce
 #EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA
 https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A
-https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS
 https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS
@@ -619,10 +621,14 @@ https://vavoo.to/vavoo-iptv/play/2651461317c35e3e83858e
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
 #EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
 https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
+https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
+https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
@@ -647,8 +653,6 @@ https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 https://vavoo.to/vavoo-iptv/play/33735102423e6e76be9ed3
 #EXTINF:-1 tvg-id="boing.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING
 https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5
-#EXTINF:-1 tvg-id="boingplus.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini",BOING PLUS
-https://vavoo.to/vavoo-iptv/play/3841982646469504c9c5fc
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
 https://vavoo.to/vavoo-iptv/play/1744435623b422a758373c
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
@@ -826,8 +830,6 @@ https://vavoo.to/vavoo-iptv/play/3420407456fb80f4ceda0b
 #EXTINF:-1 tvg-id="euronews.it" tvg-logo="https://play-lh.googleusercontent.com/Mi8GAQIp3x94VcvbxZNsK-CTNhHy1zmo51pmME5KkkK4WgN4aQhM1FlNgLZUMD4VAXhL" group-title="News",EURONEWS
 https://vavoo.to/vavoo-iptv/play/49095557997f00b59c5b8
 #EXTINF:-1 tvg-id="sky.tg24.it" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News",SKY TG 24
-https://vavoo.to/vavoo-iptv/play/33760313550167605877f1
-#EXTINF:-1 tvg-id="sky.tg24.it" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News",SKY TG 24
 https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News",TG COM 24
 https://vavoo.to/vavoo-iptv/play/1785098768e3514b1dbecc
@@ -875,8 +877,6 @@ https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323
 https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
 #EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai",RAI GULP
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
-https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
@@ -915,8 +915,50 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="clubfriendlycagliarivssaintétienne" tvg-name="Soccer | Club Friendly : Cagliari vs Saint-Étienne (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cagliari_vs_Saint-Étienne.png" group-title="Eventi Live",Soccer | Club Friendly : Cagliari vs Saint-Étienne (20:30)
+#EXTINF:-1 tvg-id="clubfriendlyleicestercityvsfiorentina" tvg-name="Soccer | Club Friendly : Leicester City vs Fiorentina (16:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Leicester City_vs_Fiorentina.png" group-title="Eventi Live",Soccer | Club Friendly : Leicester City vs Fiorentina (16:00)
+https://dlhd.click/stream/stream-55.php
+
+#EXTINF:-1 tvg-id="clubfriendlynapolivsbrest" tvg-name="Soccer | Club Friendly : Napoli vs Brest (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Brest.png" group-title="Eventi Live",Soccer | Club Friendly : Napoli vs Brest (19:00)
+https://dlhd.click/stream/stream-14.php
+
+#EXTINF:-1 tvg-id="premierleaguesummerseriesafcbournemouthvswesthamunited" tvg-name="Soccer | Premier League Summer Series : AFC Bournemouth vs West Ham United (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/AFC Bournemouth_vs_West Ham United.png" group-title="Eventi Live",Soccer | Premier League Summer Series : AFC Bournemouth vs West Ham United (20:00)
+https://dlhd.click/stream/stream-870.php
+
+#EXTINF:-1 tvg-id="clubfriendlypremierleaguesummerseriesmanchesterunitedvseverton" tvg-name="Soccer | Club Friendly Premier League Summer Series : Manchester United vs Everton (23:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Manchester United_vs_Everton.png" group-title="Eventi Live",Soccer | Club Friendly Premier League Summer Series : Manchester United vs Everton (23:00)
+https://dlhd.click/stream/stream-461.php
+
+#EXTINF:-1 tvg-id="clubfriendlypremierleaguesummerseriesmanchesterunitedvseverton" tvg-name="Soccer | Club Friendly Premier League Summer Series : Manchester United vs Everton (23:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Manchester United_vs_Everton.png" group-title="Eventi Live",Soccer | Club Friendly Premier League Summer Series : Manchester United vs Everton (23:00)
+https://dlhd.click/stream/stream-870.php
+
+#EXTINF:-1 tvg-id="formula3lenovohungariangrandprixrace" tvg-name="Motorsport | Formula 3 : Lenovo Hungarian Grand Prix - Race (08:45)" tvg-logo="https://images.seeklogo.com/logo-png/5/2/formula-3-euro-series-logo-png_seeklogo-56757.png" group-title="Eventi Live",Motorsport | Formula 3 : Lenovo Hungarian Grand Prix - Race (08:45)
+https://dlhd.click/stream/stream-577.php
+
+#EXTINF:-1 tvg-id="formula2lenovohungariangrandprixrace" tvg-name="Motorsport | Formula 2 : Lenovo Hungarian Grand Prix - Race (10:15)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/3iwfjg1536242234.png" group-title="Eventi Live",Motorsport | Formula 2 : Lenovo Hungarian Grand Prix - Race (10:15)
+https://dlhd.click/stream/stream-577.php
+
+#EXTINF:-1 tvg-id="formula1lenovohungariangrandprixgrandprixsunday" tvg-name="Motorsport | Formula 1 : Lenovo Hungarian Grand Prix - Grand Prix Sunday (14:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : Lenovo Hungarian Grand Prix - Grand Prix Sunday (14:00)
+https://dlhd.click/stream/stream-577.php
+
+#EXTINF:-1 tvg-id="formula1lenovohungariangrandprixrace" tvg-name="Motorsport | Formula 1 : Lenovo Hungarian Grand Prix - Race (15:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Motorsport | Formula 1 : Lenovo Hungarian Grand Prix - Race (15:00)
+https://dlhd.click/stream/stream-577.php
+
+#EXTINF:-1 tvg-id="worldchampionshipflandersmx2race2" tvg-name="Motorsport | World Championship Flanders | MX2 | Race 2 (16:00)" tvg-logo="https://www.level1graphic.com/wp-content/uploads/2024/06/NP_crf5-600x600.png" group-title="Eventi Live",Motorsport | World Championship Flanders | MX2 | Race 2 (16:00)
+https://dlhd.click/stream/stream-879.php
+
+#EXTINF:-1 tvg-id="shanghaimastersround2day7" tvg-name="Snooker | Shanghai Masters Round 2 | Day 7 (08:00)" tvg-logo="https://png.pngtree.com/png-clipart/20221229/original/pngtree-cricket-logo-png-image_8823326.png" group-title="Eventi Live",Snooker | Shanghai Masters Round 2 | Day 7 (08:00)
+https://dlhd.click/stream/stream-878.php
+
+#EXTINF:-1 tvg-id="shanghaimastersround2day7" tvg-name="Snooker | Shanghai Masters Round 2 | Day 7 (13:30)" tvg-logo="https://png.pngtree.com/png-clipart/20221229/original/pngtree-cricket-logo-png-image_8823326.png" group-title="Eventi Live",Snooker | Shanghai Masters Round 2 | Day 7 (13:30)
+https://dlhd.click/stream/stream-879.php
+
+#EXTINF:-1 tvg-id="womenstourdefrancestage9124prazsurarlychtelhilly124km" tvg-name="Cycling | Women's Tour de France Stage 9 - 124 Praz-sur-Arly - Ch?tel Hilly | 124 km (15:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Women's Tour de France Stage 9 - 124 Praz-sur-Arly - Ch?tel Hilly | 124 km (15:00)
+https://dlhd.click/stream/stream-878.php
+
+#EXTINF:-1 tvg-id="mensvolleyballnationsleaguematchfor3rdplacebrazilvsslovenia" tvg-name="Volleyball | Men's Volleyball: Nations League match for 3rd place : Brazil vs Slovenia (03:22)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Nations League match for 3rd place : Brazil_vs_Slovenia.png" group-title="Eventi Live",Volleyball | Men's Volleyball: Nations League match for 3rd place : Brazil vs Slovenia (03:22)
 https://dlhd.click/stream/stream-877.php
+
+#EXTINF:-1 tvg-id="worldaquaticschampionships2025" tvg-name="Water Sports | World Aquatics Championships 2025 (11:15)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/World_Aquatics_Doha_2024_logo.png/revision/latest/scale-to-width-down/1200?cb=20230816232318" group-title="Eventi Live",Water Sports | World Aquatics Championships 2025 (11:15)
+https://dlhd.click/stream/stream-851.php
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas

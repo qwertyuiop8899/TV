@@ -533,8 +533,6 @@ https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 https://thedaddy.dad/stream/stream-462.php
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
-#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
-https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
 https://thedaddy.dad/stream/stream-870.php
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1
@@ -559,8 +557,6 @@ https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce
 https://thedaddy.dad/stream/stream-575.php
 #EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA
 https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce
-#EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA
-https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A
 https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS
@@ -635,6 +631,8 @@ https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
 https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
+#EXTINF:-1 tvg-id="sky.documentaries.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari",SKY DOCUMENTARIES
+https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
 #EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari",SKY NATURE
 https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teleartetv.it/web/wp-content/uploads/2023/04/logo_TA.jpg" group-title="Documentari",TELEARTE
@@ -687,6 +685,8 @@ https://thedaddy.dad/stream/stream-862.php
 https://thedaddy.dad/stream/stream-868.php
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",CRIME + INV
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",CRIME+ INVESTIGATION
+https://vavoo.to/vavoo-iptv/play/30052277008e849440ee94
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film - Serie TV",DISNEY+ FILM
 https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 #EXTINF:-1 tvg-id="foxhd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film - Serie TV",FOX
@@ -697,8 +697,12 @@ https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df
 https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN COMEDY MOVIES
 https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN DRAMA
+https://vavoo.to/vavoo-iptv/play/209862439074120bb15132
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN FAMILY
 https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN TOP FREE
+https://vavoo.to/vavoo-iptv/play/1572866962efea4ca22353
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN TV SHOWS
 https://vavoo.to/vavoo-iptv/play/860912269147f85ae7a8
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film - Serie TV",SKY ATLANTIC
@@ -773,8 +777,8 @@ https://vavoo.to/vavoo-iptv/play/2221901869db7a5b77a267
 https://vavoo.to/vavoo-iptv/play/18766170987dd5e4939c9
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 15
 https://vavoo.to/vavoo-iptv/play/911168573d54b185731b5
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 16
-https://vavoo.to/vavoo-iptv/play/191150052585174f4ea582
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 17
+https://vavoo.to/vavoo-iptv/play/1284441949890c3c5c3d9d
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 18
 https://vavoo.to/vavoo-iptv/play/347075802871b4b6547803
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 2
@@ -907,6 +911,39 @@ https://vavoo.to/vavoo-iptv/play/57338653b83f61385a9f
 https://vavoo.to/vavoo-iptv/play/178550192490bfbe154312
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Rai",RAI YOYO
 https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
+
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="clubfriendlymonacovsinternazionale" tvg-name="Soccer | Club Friendly : Monaco vs Internazionale (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monaco_vs_Internazionale.png" group-title="Eventi Live",Soccer | Club Friendly : Monaco vs Internazionale (20:00)
+https://thedaddy.dad/stream/stream-877.php
+
+#EXTINF:-1 tvg-id="saudiarabiamasterskreishhgurbaxanivsreanneevans" tvg-name="Snooker | Saudi Arabia Masters : Kreishh Gurbaxani vs Reanne Evans (13:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Kreishh Gurbaxani_vs_Reanne Evans.png" group-title="Eventi Live",Snooker | Saudi Arabia Masters : Kreishh Gurbaxani vs Reanne Evans (13:00)
+https://thedaddy.dad/stream/stream-879.php
+
+#EXTINF:-1 tvg-id="saudiarabiamastersrobbiemcguiganvsgaoyang" tvg-name="Snooker | Saudi Arabia Masters : Robbie McGuigan vs Gao Yang (13:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Robbie McGuigan_vs_Gao Yang.png" group-title="Eventi Live",Snooker | Saudi Arabia Masters : Robbie McGuigan vs Gao Yang (13:00)
+https://thedaddy.dad/stream/stream-879.php
+
+#EXTINF:-1 tvg-id="saudiarabiamastersmateuszbaranowskivslanyuhao" tvg-name="Snooker | Saudi Arabia Masters : Mateusz Baranowski vs Lan Yuhao (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Mateusz Baranowski_vs_Lan Yuhao.png" group-title="Eventi Live",Snooker | Saudi Arabia Masters : Mateusz Baranowski vs Lan Yuhao (15:00)
+https://thedaddy.dad/stream/stream-879.php
+
+#EXTINF:-1 tvg-id="saudiarabiamasterssamcraigievsxuyichen" tvg-name="Snooker | Saudi Arabia Masters : Sam Craigie vs Xu Yi Chen (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sam Craigie_vs_Xu Yi Chen.png" group-title="Eventi Live",Snooker | Saudi Arabia Masters : Sam Craigie vs Xu Yi Chen (15:00)
+https://thedaddy.dad/stream/stream-879.php
+
+#EXTINF:-1 tvg-id="saudiarabiamasterschangbingyuvsmarcofu" tvg-name="Snooker | Saudi Arabia Masters : Chang Bingyu vs Marco Fu (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Chang Bingyu_vs_Marco Fu.png" group-title="Eventi Live",Snooker | Saudi Arabia Masters : Chang Bingyu vs Marco Fu (19:00)
+https://thedaddy.dad/stream/stream-879.php
+
+#EXTINF:-1 tvg-id="saudiarabiamastersiulianboikovsliuwenwei" tvg-name="Snooker | Saudi Arabia Masters : Iulian Boiko vs Liu Wenwei (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Iulian Boiko_vs_Liu Wenwei.png" group-title="Eventi Live",Snooker | Saudi Arabia Masters : Iulian Boiko vs Liu Wenwei (19:00)
+https://thedaddy.dad/stream/stream-879.php
+
+#EXTINF:-1 tvg-id="saudiarabiamastersoliverbrownvspatrickwhelan" tvg-name="Snooker | Saudi Arabia Masters : Oliver Brown vs Patrick Whelan (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Oliver Brown_vs_Patrick Whelan.png" group-title="Eventi Live",Snooker | Saudi Arabia Masters : Oliver Brown vs Patrick Whelan (21:00)
+https://thedaddy.dad/stream/stream-879.php
+
+#EXTINF:-1 tvg-id="saudiarabiamastersyaopengchengvsalexanderursenbacher" tvg-name="Snooker | Saudi Arabia Masters : Yao Pengcheng vs Alexander Ursenbacher (21:00)" tvg-logo="https://yao.com.do/wp-content/uploads/2019/01/logo-YAO-3.png" group-title="Eventi Live",Snooker | Saudi Arabia Masters : Yao Pengcheng vs Alexander Ursenbacher (21:00)
+https://thedaddy.dad/stream/stream-879.php
+
+#EXTINF:-1 tvg-id="tourofpolandstage5mainkatowicezakopane2058km" tvg-name="Cycling | Tour of Poland | Stage 5 Main | Katowice – Zakopane (205.8km) (11:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Tour of Poland | Stage 5 Main | Katowice – Zakopane (205.8km) (11:30)
+https://thedaddy.dad/stream/stream-878.php
 
 
 #EXTINF:-1 tvg-chno="80" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG.png" tvg-id="612e05b885183d0007958101" group-title="Pluto TV Italia",Pluto TV Christmas

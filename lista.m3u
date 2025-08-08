@@ -54,6 +54,8 @@ https://vavoo.to/vavoo-iptv/play/1527236924d8d52d57c2e3
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Catfish%2C_the_TV_Show_Logo.PNG" group-title="Altro",CATFISH
 https://vavoo.to/vavoo-iptv/play/23815838281e427554084f
 #EXTINF:-1 tvg-id="cielo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro",CIELO
+https://vavoo.to/vavoo-iptv/play/27199536882db77bf0ce4c
+#EXTINF:-1 tvg-id="cielo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro",CIELO
 https://vavoo.to/vavoo-iptv/play/3743894403dc7e6005c138
 #EXTINF:-1 tvg-id="cine34.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Altro",CINE 34
 https://vavoo.to/vavoo-iptv/play/625586063b81b5ccae3f
@@ -617,6 +619,8 @@ https://vavoo.to/vavoo-iptv/play/2651461317c35e3e83858e
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
 #EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
 https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
+https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
@@ -942,7 +946,7 @@ https://thedaddy.dad/stream/stream-879.php
 #EXTINF:-1 tvg-id="saudiarabiamastersyaopengchengvsalexanderursenbacher" tvg-name="Snooker | Saudi Arabia Masters : Yao Pengcheng vs Alexander Ursenbacher (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Yao Pengcheng_vs_Alexander Ursenbacher.png" group-title="Eventi Live",Snooker | Saudi Arabia Masters : Yao Pengcheng vs Alexander Ursenbacher (21:00)
 https://thedaddy.dad/stream/stream-879.php
 
-#EXTINF:-1 tvg-id="tourofpolandstage5mainkatowicezakopane2058km" tvg-name="Cycling | Tour of Poland | Stage 5 Main | Katowice – Zakopane (205.8km) (11:30)" tvg-logo="https://www.janpol.com/ito/wp-content/uploads/2019/11/10.png" group-title="Eventi Live",Cycling | Tour of Poland | Stage 5 Main | Katowice – Zakopane (205.8km) (11:30)
+#EXTINF:-1 tvg-id="tourofpolandstage5mainkatowicezakopane2058km" tvg-name="Cycling | Tour of Poland | Stage 5 Main | Katowice – Zakopane (205.8km) (11:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Tour of Poland | Stage 5 Main | Katowice – Zakopane (205.8km) (11:30)
 https://thedaddy.dad/stream/stream-878.php
 
 

@@ -246,6 +246,8 @@ https://vavoo.to/vavoo-iptv/play/2002360508ebbced695f3c
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/senato-tv-it.png?raw=true" group-title="Altro",SENATO TV
 https://vavoo.to/vavoo-iptv/play/28955495519a6e882c3db3
 #EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO
+https://vavoo.to/vavoo-iptv/play/2130523218823893ad0255
+#EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO
 https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 #EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO (D)
 https://thedaddy.dad/stream/stream-881.php
@@ -523,12 +525,8 @@ https://thedaddy.dad/stream/stream-874.php
 https://thedaddy.dad/stream/stream-875.php
 #EXTINF:-1 tvg-id="sky.sport..256.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sport",SKY SPORT 256 (D)
 https://thedaddy.dad/stream/stream-876.php
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://thedaddy.dad/stream/stream-462.php
-#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
-https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
@@ -629,8 +627,6 @@ https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
 https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
-#EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
-https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 #EXTINF:-1 tvg-id="sky.documentaries.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari",SKY DOCUMENTARIES
 https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
 #EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari",SKY NATURE
@@ -733,8 +729,6 @@ https://thedaddy.dad/stream/stream-867.php
 https://vavoo.to/vavoo-iptv/play/1228534500ffff855fff55
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
 https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
-#EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24
-https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24 (D)
 https://thedaddy.dad/stream/stream-866.php
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
@@ -879,8 +873,6 @@ https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
 https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
-https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
@@ -931,13 +923,13 @@ https://thedaddy.dad/stream/stream-879.php
 #EXTINF:-1 tvg-id="sailingtheoceanracecologne1strun" tvg-name="Sailing / Boating | Sailing: The Ocean Race Cologne - 1st run (15:30)" tvg-logo="https://png.pngtree.com/png-vector/20220605/ourmid/pngtree-vector-illustration-of-a-sailing-logo-featuring-ample-text-space-for-your-slogan-or-tag-line-vector-png-image_30998516.png" group-title="Eventi Live",Sailing / Boating | Sailing: The Ocean Race Cologne - 1st run (15:30)
 https://thedaddy.dad/stream/stream-879.php
 
-#EXTINF:-1 tvg-id="tourofpolandstage7menwieliczkaitt125km" tvg-name="Cycling | Tour of Poland | Stage 7 Men | Wieliczka (ITT, 12.5km) (13:15)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Tour of Poland | Stage 7 Men | Wieliczka (ITT, 12.5km) (13:15)
+#EXTINF:-1 tvg-id="tourofpolandstage7menwieliczkaitt125km" tvg-name="Cycling | Tour of Poland | Stage 7 Men | Wieliczka (ITT, 12.5km) (13:15)" tvg-logo="https://www.furnel.pl/wp-content/uploads/2021/01/mapka_UNESCO_tour.png" group-title="Eventi Live",Cycling | Tour of Poland | Stage 7 Men | Wieliczka (ITT, 12.5km) (13:15)
 https://thedaddy.dad/stream/stream-878.php
 
 #EXTINF:-1 tvg-id="arcticraceofnorwaystage4mentromsø1353km" tvg-name="Cycling | Arctic Race of Norway | Stage 4 Men | Tromsø (135.3km) (16:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Arctic Race of Norway | Stage 4 Men | Tromsø (135.3km) (16:45)
 https://thedaddy.dad/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="summerskijumpinggrandprixcourchevelhs135fday2" tvg-name="Ski Jumping | Summer Ski Jumping – Grand Prix Courchevel | HS135 (F) – Day 2 (16:15)" tvg-logo="https://frame.twibbonize.com/b1ba102a-2c1d-4d29-987a-ee01be8bff01.png" group-title="Eventi Live",Ski Jumping | Summer Ski Jumping – Grand Prix Courchevel | HS135 (F) – Day 2 (16:15)
+#EXTINF:-1 tvg-id="summerskijumpinggrandprixcourchevelhs135fday2" tvg-name="Ski Jumping | Summer Ski Jumping – Grand Prix Courchevel | HS135 (F) – Day 2 (16:15)" tvg-logo="https://ski.worldcupcourchevel.com/wp-content/uploads/2024/10/LOGO-SKI-WORLDCUP-FIS-ALPINE-2025-259x300.png" group-title="Eventi Live",Ski Jumping | Summer Ski Jumping – Grand Prix Courchevel | HS135 (F) – Day 2 (16:15)
 https://thedaddy.dad/stream/stream-878.php
 
 

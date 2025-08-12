@@ -76,7 +76,7 @@ Con OMG Premium TV potrai sfruttare:
 
 ### ✅ Crea il tuo proxy personalizzato
 
-- **Mediaflow Proxy** (consigliato):  
+- **Mediaflow Proxy**:  
   [mediaflow-proxy](https://github.com/nzo66/mediaflow-proxy)
   
 - **Mediaflow Proxy Per HuggingFace**
@@ -84,11 +84,6 @@ Con OMG Premium TV potrai sfruttare:
   `(usa Mediaflow Proxy solo per lista Film e MPD)`
 
   Usa questa repo ottimizzata: [hfmfp](https://github.com/nzo66/hfmfp)
-
-- **TvProxy**:
-  [tvproxy (repo GitHub)](https://github.com/nzo66/tvproxy)
-
-  `usando questo proxy hai la possibilita' di installarlo su un qualsiasi dispositivo android grazie all'app Termux`
 
 ---
 
@@ -105,29 +100,6 @@ Avvia creando un fork della repository proxy.
 ### 🔁 Come proxare le liste con Mediaflow-Proxy?
 
 Utilizza il Playlist Builder: https://<mfp-ip>/playlist/builder
-
-Questo ti permetterà di servire la lista M3U attraverso il tuo proxy personale in modo sicuro e performante.
-
----
-
-### 🔁 Come proxare le liste con Mediaflow-Proxy e TvProxy assieme?
-
-Usa questo: [`https://github.com/nzo66/Playlist-Generator`](https://github.com/nzo66/Playlist-Generator)
-
-Questo ti permetterà di servire la lista M3U attraverso il tuo proxy personale in modo sicuro e performante.
-
----
-
-### 🔁 Come proxare la lista con TvProxy?
-
-Utilizza il seguente URL: `https://<server-ip>/proxy?url=<url-lista>`
-
-questo sara il link della tua lista da mettere nelle app iptv!
-
-Sostituisci:
-
-- `<server-ip>` con l'indirizzo IP del tuo server TvProxy
-- `<url-lista>` con l'URL effettivo della tua lista M3U (es. quello GitHub)
 
 Questo ti permetterà di servire la lista M3U attraverso il tuo proxy personale in modo sicuro e performante.
 

@@ -1,5 +1,27 @@
 {
     "Monday 11th Aug 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "23:00",
+                "event": "Sharon Speedway's Super DIRTcar Series",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision",
+                        "channel_id": "5000"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Wild Thing Kart Series at Stafford Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FLORacing",
+                        "channel_id": "5002"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "18:00",
@@ -1720,6 +1742,10 @@
                     {
                         "channel_name": "Netflix PPV",
                         "channel_id": "2"
+                    },
+                    {
+                        "channel_name": "Netflix PPV 2",
+                        "channel_id": "5001"
                     },
                     {
                         "channel_name": "SuperSport Variety 4",

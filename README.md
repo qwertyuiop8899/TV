@@ -81,8 +81,6 @@ Con OMG Premium TV potrai sfruttare:
   
 - **Mediaflow Proxy Per HuggingFace**
   
-  `(usa Mediaflow Proxy solo per lista Film e MPD)`
-
   Usa questa repo ottimizzata: [hfmfp](https://github.com/nzo66/hfmfp)
 
 ---

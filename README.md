@@ -81,7 +81,7 @@ Con OMG Premium TV potrai sfruttare:
   
 - **Mediaflow Proxy Per HuggingFace**
   
-  Usa questa repo ottimizzata: [hfmfp](https://github.com/nzo66/hfmfp)
+  Usa questa repo ottimizzata: [HF-MFP](https://github.com/nzo66/HF-MFP)
 
 ---
 

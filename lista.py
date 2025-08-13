@@ -2510,9 +2510,9 @@ def italy_channels():
 
     CATEGORY_KEYWORDS = {
         "Rai": ["rai"],
-        "Mediaset": ["twenty seven", "twentyseven", "mediaset", "italia 1", "italia 2", "canale 5", "la 5", "cine 34", "top crime", "iris", "focus"],
+        "Mediaset": ["twenty seven", "twentyseven", "mediaset", "italia 1", "italia 2", "canale 5", "la 5", "cine 34", "top crime", "iris", "focus", "rete 4"],
         "Sport": ["inter", "milan", "lazio", "calcio", "tennis", "sport", "super tennis", "supertennis", "dazn", "eurosport", "sky sport", "rai sport"],
-        "Film - Serie TV": ["crime", "primafila", "primafila 5", "cinema", "movie", "film", "serie", "hbo", "fox", "rakuten", "atlantic"],
+        "Film - Serie TV": ["crime", "primafila", "primafila 4", "primafila 5", "cinema", "movie", "film", "serie", "hbo", "fox", "rakuten", "atlantic"],
         "News": ["news", "tg", "rai news", "sky tg", "tgcom"],
         "Bambini": ["frisbee", "super!", "fresbee", "k2", "cartoon", "boing", "nick", "disney", "baby", "rai yoyo"],
         "Documentari": ["documentaries", "discovery", "geo", "history", "nat geo", "nature", "arte", "documentary"],

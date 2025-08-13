@@ -2517,7 +2517,7 @@ def italy_channels():
         "Bambini": ["frisbee", "super!", "fresbee", "k2", "cartoon", "boing", "nick", "disney", "baby", "rai yoyo"],
         "Documentari": ["documentaries", "discovery", "geo", "history", "nat geo", "nature", "arte", "documentary"],
         "Musica": ["deejay", "rds", "hits", "rtl", "mtv", "vh1", "radio", "music", "kiss", "kisskiss", "m2o", "fm"],
-        "Altro": ["focus", "real time"]
+        "Altro": ["real time"]
     }
 
     def classify_channel(name):

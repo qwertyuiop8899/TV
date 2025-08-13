@@ -8,6 +8,24 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "68"
+                    },
+                    {
+                        "channel_name": "Event PPV 2",
+                        "channel_id": "5001"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 NAPA All Star Circuit of Champions at Wayne County Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "76"
+                    },
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5002"
                     }
                 ]
             },
@@ -22,22 +40,16 @@
                 ]
             },
             {
-                "time": "22:00",
-                "event": "2025 NAPA All Star Circuit of Champions at Wayne County Speedway",
-                "channels": [
-                    {
-                        "channel_name": "Floracing",
-                        "channel_id": "76"
-                    }
-                ]
-            },
-            {
                 "time": "22:30",
                 "event": "2025 Weekly Racing at Utica-Rome Speedway",
                 "channels": [
                     {
                         "channel_name": "Floracing",
                         "channel_id": "77"
+                    },
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5000"
                     }
                 ]
             },
@@ -48,6 +60,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "86"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5003"
                     }
                 ]
             }
@@ -1429,8 +1445,8 @@
                         "channel_id": "432"
                     },
                     {
-                        "channel_name": "Fox Sports Argentina (CH-787)",
-                        "channel_id": "9"
+                        "channel_name": "Fox Sports Argentina",
+                        "channel_id": "787"
                     },
                     {
                         "channel_name": "beIN Sports MENA 4",

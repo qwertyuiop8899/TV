@@ -2524,10 +2524,16 @@ def italy_channels():
         name_lower = name.lower()
         for category, words in CATEGORY_KEYWORDS.items():
             for word in words:
-                # Usa word boundaries per match precisi
-                pattern = r'\b' + re.escape(word) + r'\b'
-                if re.search(pattern, name_lower):
-                    return category
+                # Gestione speciale per parole con caratteri speciali
+                if any(char in word for char in ['!', '&', '+', '-']):
+                    # Per parole con caratteri speciali, usa una ricerca diretta
+                    if word in name_lower:
+                        return category
+                else:
+                    # Per parole normali, usa word boundaries
+                    pattern = r'\b' + re.escape(word) + r'\b'
+                    if re.search(pattern, name_lower):
+                        return category
         return "Altro"
 
     def get_channels():

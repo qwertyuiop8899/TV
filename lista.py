@@ -2511,10 +2511,10 @@ def italy_channels():
     CATEGORY_KEYWORDS = {
         "Rai": ["rai"],
         "Mediaset": ["twenty seven", "twentyseven", "mediaset", "italia 1", "italia 2", "canale 5", "la 5", "cine 34", "top crime", "iris", "focus", "rete 4"],
-        "Sport": ["inter", "milan", "lazio", "calcio", "tennis", "sport", "super tennis", "supertennis", "dazn", "eurosport", "sky sport", "rai sport"],
-        "Film - Serie TV": ["crime", "primafila", "primafila 4", "primafila 5", "cinema", "movie", "film", "serie", "hbo", "fox", "rakuten", "atlantic"],
-        "News": ["news", "tg", "rai news", "sky tg", "tgcom"],
-        "Bambini": ["frisbee", "super!", "fresbee", "k2", "cartoon", "boing", "nick", "disney", "baby", "rai yoyo"],
+        "Sport": ["inter", "milan", "lazio", "calcio", "tennis", "sport", "sportitalia", "trsport", "sports", "super tennis", "supertennis", "dazn", "eurosport", "sky sport", "rai sport"],
+        "Film - Serie TV": ["crime", "primafila", "cinema", "movie", "film", "serie", "hbo", "fox", "rakuten", "atlantic"],
+        "News": ["news", "tg", "rai news", "sky tg", "tgcom", "euronews"],
+        "Bambini": ["frisbee", "super!", "fresbee", "k2", "cartoon", "boing", "nick", "disney", "baby", "rai yoyo", "cartoonito"],
         "Documentari": ["documentaries", "discovery", "geo", "history", "nat geo", "nature", "arte", "documentary"],
         "Musica": ["deejay", "rds", "hits", "rtl", "mtv", "vh1", "radio", "music", "kiss", "kisskiss", "m2o", "fm"],
         "Altro": ["real time"]
@@ -2523,8 +2523,11 @@ def italy_channels():
     def classify_channel(name):
         name_lower = name.lower()
         for category, words in CATEGORY_KEYWORDS.items():
-            if any(word in name_lower for word in words):
-                return category
+            for word in words:
+                # Usa word boundaries per match precisi
+                pattern = r'\b' + re.escape(word) + r'\b'
+                if re.search(pattern, name_lower):
+                    return category
         return "Altro"
 
     def get_channels():
@@ -2580,94 +2583,144 @@ def italy_channels():
         logos = fetch_logos()
         tvg_id_map = create_tvg_id_map("epg.xml")
         channels_by_category = {}
-        
+
+        # MAPPA SEMPLIFICATA PER RENAME
+        VAVOO_RENAME_MAP = {
+            "DISCOVERY FOCUS": "FOCUS",
+            "CINE 34 MEDIASET": "CINE 34", 
+            "MEDIASET IRIS": "IRIS",
+            "MEDIASET 1": "ITALIA 1",
+            "27 TWENTY SEVEN": "27 TWENTYSEVEN"
+        }
+
         # Processa i canali Vavoo
         for ch in channels:
             original_name = ch.get("name", "SenzaNome")
             name = clean_channel_name(original_name)
+            
+            # Applica il rename
+            display_name = VAVOO_RENAME_MAP.get(name.upper(), name)
+            
+            # USA IL NOME MODIFICATO PER IL LOOKUP
+            name_for_lookup = display_name  # Nome modificato per ricerca logo/tvg-id
+            
             url = ch.get("url", "")
-            category = classify_channel(name)
+            category = classify_channel(display_name)
+
             if url:
                 if category not in channels_by_category:
                     channels_by_category[category] = []
-                channels_by_category[category].append({"name": name, "url": url})
-        
+                
+                # USA IL NOME MODIFICATO PER RICERCA LOGO E TVG-ID
+                logo = logos.get(name_for_lookup.lower(), "")
+                tvg_id = tvg_id_map.get(normalize_channel_name(name_for_lookup), "")
+                
+                channels_by_category[category].append({
+                    "name": display_name,      # Nome modificato per display
+                    "url": url,
+                    "logo": logo,             # Logo trovato con nome modificato
+                    "tvg_id": tvg_id         # TVG-ID trovato con nome modificato
+                })
+
         # Processa i canali Daddylive se presenti
         if daddylive_channels:
             for raw_name, stream_url in daddylive_channels:
                 # Pulizia e trasformazione del nome come nella logica originale
                 name_after_initial_clean = clean_channel_name(raw_name)
-                
                 # Rimuovi "italy" e converti in maiuscolo
                 base_daddy_name = re.sub(r'italy', '', name_after_initial_clean, flags=re.IGNORECASE).strip()
                 base_daddy_name = re.sub(r'\s+', ' ', base_daddy_name).strip()
                 base_daddy_name = base_daddy_name.upper()
-                
+
                 # Usa la mappa fornita per la rinomina dei canali Sky Calcio specifici di Daddylive
-                sky_calcio_rename_map = {
+                rename_map = {
                     "SKY CALCIO 1": "SKY SPORT 251",
                     "SKY CALCIO 2": "SKY SPORT 252",
                     "SKY CALCIO 3": "SKY SPORT 253",
                     "SKY CALCIO 4": "SKY SPORT 254",
                     "SKY CALCIO 5": "SKY SPORT 255",
                     "SKY CALCIO 6": "SKY SPORT 256",
-                    "SKY CALCIO 7": "DAZN 1"
+                    "SKY CALCIO 7": "DAZN 1",
+                    "LA7D HD+": "CANALE 5"
                 }
 
                 # Rimuovi eventuali numeri tra parentesi dal nome base prima della mappa
                 base_daddy_name_clean = re.sub(r"\s*\(\d+\)", "", base_daddy_name).strip()
-                if base_daddy_name_clean in sky_calcio_rename_map:
-                    base_daddy_name = sky_calcio_rename_map[base_daddy_name_clean]
-                
+                if base_daddy_name_clean in rename_map:
+                    base_daddy_name = rename_map[base_daddy_name_clean]
+
                 # Skip DAZN
                 if base_daddy_name == "DAZN" or base_daddy_name == "DAZN2":
                     continue
-                
+
                 # Aggiungi suffisso (D) per identificare i canali Daddylive
                 final_name = f"{base_daddy_name} (D)"
                 category = classify_channel(base_daddy_name)
-                
+
                 # Usa il nome base (senza suffisso) per cercare logo e tvg-id
                 logo = logos.get(base_daddy_name.lower(), "")
                 tvg_id = tvg_id_map.get(normalize_channel_name(base_daddy_name), "")
-                
+
                 if category not in channels_by_category:
                     channels_by_category[category] = []
+
                 channels_by_category[category].append({
-                    "name": final_name, 
+                    "name": final_name,
                     "url": stream_url,
                     "logo": logo,
                     "tvg_id": tvg_id
                 })
-        
+
         # Salva nel file M3U
         with open(filename, "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
             for category, channel_list in channels_by_category.items():
                 channel_list.sort(key=lambda x: x["name"].lower())
+                
+                # Gestione dei canali duplicati (aggiungi suffisso numerico)
+                name_count = {}
+                url_by_name = {}
+                # Prima passata: conta le occorrenze dei nomi e memorizza gli URL
+                for ch in channel_list:
+                    name = ch["name"]
+                    url = ch["url"]
+                    if name not in name_count:
+                        name_count[name] = 1
+                        url_by_name[name] = [url]
+                    else:
+                        name_count[name] += 1
+                        url_by_name[name].append(url)
+
+                # Seconda passata: rinomina i canali duplicati con URL diversi
+                for ch in channel_list:
+                    name = ch["name"]
+                    url = ch["url"]
+                    # Se ci sono più canali con lo stesso nome ma URL diversi
+                    if name_count[name] > 1 and len(set(url_by_name[name])) > 1:
+                        # Trova l'indice di questo URL nell'elenco degli URL per questo nome
+                        idx = url_by_name[name].index(url) + 1
+                        # Modifica il nome solo se non è già stato modificato
+                        if not name.endswith(f"({idx})"):
+                            ch["name"] = f"{name} ({idx})"
+
                 f.write(f"\n# {category.upper()}\n")
                 for ch in channel_list:
                     name = ch["name"]
                     url = ch["url"]
                     
-                    # Usa logo e tvg_id specifici se presenti (per canali Daddylive)
-                    if "logo" in ch and "tvg_id" in ch:
-                        logo = ch["logo"]
-                        tvg_id = ch["tvg_id"]
-                    else:
-                        # Fallback per canali Vavoo (logica originale)
-                        logo = logos.get(name.lower(), "")
-                        tvg_id = tvg_id_map.get(normalize_channel_name(name), "")
+                    # Usa logo e tvg_id pre-calcolati
+                    logo = ch.get("logo", "")
+                    tvg_id = ch.get("tvg_id", "")
                     
                     f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-logo="{logo}" group-title="{category}",{name}\n{url}\n')
-        
+
         print(f"Playlist M3U salvata in: {filename}")
         print(f"Totale canali Vavoo: {len(channels)}")
         if daddylive_channels:
             print(f"Totale canali Daddylive: {len(daddylive_channels)}")
         print(f"Totale canali per categoria:")
         for category, channel_list in channels_by_category.items():
-            print(f"  {category}: {len(channel_list)} canali")
+            print(f" {category}: {len(channel_list)} canali")
 
     def search_m3u8_in_sites(channel_id, is_tennis=False):
         """

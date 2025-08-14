@@ -2596,6 +2596,7 @@ def italy_channels():
             "CINE 34 MEDIASET": "CINE 34", 
             "MEDIASET IRIS": "IRIS",
             "MEDIASET 1": "ITALIA 1",
+            "ZONA DAZN": "DAZN",
             "27 TWENTY SEVEN": "27 TWENTYSEVEN"
         }
 

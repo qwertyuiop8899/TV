@@ -535,8 +535,10 @@ https://thedaddy.dad/stream/stream-874.php
 https://thedaddy.dad/stream/stream-875.php
 #EXTINF:-1 tvg-id="sky.sport..256.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sport",SKY SPORT 256 (D)
 https://thedaddy.dad/stream/stream-876.php
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (1)
 https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (2)
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://thedaddy.dad/stream/stream-462.php
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (1)
@@ -559,6 +561,10 @@ https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae
 https://vavoo.to/vavoo-iptv/play/3897711086f5655aa4d5fb
 #EXTINF:-1 tvg-id="sky.sport.max.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport",SKY SPORT MAX
 https://vavoo.to/vavoo-iptv/play/206632691678b853b73adb
+#EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTO GP
+https://vavoo.to/vavoo-iptv/play/30363168866e9eeb997936
+#EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP
+https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP (D)
 https://thedaddy.dad/stream/stream-575.php
 #EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (1)
@@ -619,10 +625,8 @@ https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 https://vavoo.to/vavoo-iptv/play/2651461317c35e3e83858e
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE (2)
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (1)
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
 https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (2)
-https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (1)
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (2)
@@ -635,8 +639,6 @@ https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE (2)
 https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
-#EXTINF:-1 tvg-id="sky.documentaries.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari",SKY DOCUMENTARIES
-https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
 #EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari",SKY NATURE
 https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentari",TELEPACE TRENTO (HISTORY LAB)
@@ -940,22 +942,22 @@ https://thedaddy.dad/stream/stream-575.php
 #EXTINF:-1 tvg-id="moto3greekgrandprixofaustria" tvg-name="Motorsport | Moto3 : Greek Grand Prix of Austria (13:10)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/ksxcfb1568976756.png" group-title="Eventi Live",Motorsport | Moto3 : Greek Grand Prix of Austria (13:10)
 https://thedaddy.dad/stream/stream-575.php
 
-#EXTINF:-1 tvg-id="motogpgreekgrandprixofaustriapractice1" tvg-name="Motorsport | MotoGP : Greek Grand Prix of Austria Practice 1 (13:15)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-1-logo-png-transparent.png" group-title="Eventi Live",Motorsport | MotoGP : Greek Grand Prix of Austria Practice 1 (13:15)
+#EXTINF:-1 tvg-id="motogpgreekgrandprixofaustriapractice1" tvg-name="Motorsport | MotoGP : Greek Grand Prix of Austria Practice 1 (13:15)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",Motorsport | MotoGP : Greek Grand Prix of Austria Practice 1 (13:15)
 https://thedaddy.dad/stream/stream-575.php
 
-#EXTINF:-1 tvg-id="moto2greekgrandprixofaustria" tvg-name="Motorsport | Moto2 : Greek Grand Prix of Austria (14:00)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live",Motorsport | Moto2 : Greek Grand Prix of Austria (14:00)
+#EXTINF:-1 tvg-id="moto2greekgrandprixofaustria" tvg-name="Motorsport | Moto2 : Greek Grand Prix of Austria (14:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/yqvtrq1432309315.png" group-title="Eventi Live",Motorsport | Moto2 : Greek Grand Prix of Austria (14:00)
 https://thedaddy.dad/stream/stream-575.php
 
-#EXTINF:-1 tvg-id="saudiarabiasnookermasterssemifinal" tvg-name="Snooker | Saudi Arabia Snooker Masters | Semi-Final (13:00)" tvg-logo="https://images.gc.wstservices.co.uk/fit-in/400x600/c17f1370-66b1-11ef-8536-693799ca84e9.png" group-title="Eventi Live",Snooker | Saudi Arabia Snooker Masters | Semi-Final (13:00)
+#EXTINF:-1 tvg-id="saudiarabiasnookermasterssemifinal" tvg-name="Snooker | Saudi Arabia Snooker Masters | Semi-Final (13:00)" tvg-logo="https://img.gc.wstservices.co.uk/fit-in/400x600/c17f1370-66b1-11ef-8536-693799ca84e9.png" group-title="Eventi Live",Snooker | Saudi Arabia Snooker Masters | Semi-Final (13:00)
 https://thedaddy.dad/stream/stream-879.php
 
-#EXTINF:-1 tvg-id="saudiarabiasnookermasterssemifinal" tvg-name="Snooker | Saudi Arabia Snooker Masters | Semi-Final (19:00)" tvg-logo="https://images.gc.wstservices.co.uk/fit-in/400x600/c17f1370-66b1-11ef-8536-693799ca84e9.png" group-title="Eventi Live",Snooker | Saudi Arabia Snooker Masters | Semi-Final (19:00)
+#EXTINF:-1 tvg-id="saudiarabiasnookermasterssemifinal" tvg-name="Snooker | Saudi Arabia Snooker Masters | Semi-Final (19:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Snooker | Saudi Arabia Snooker Masters | Semi-Final (19:00)
 https://thedaddy.dad/stream/stream-879.php
 
-#EXTINF:-1 tvg-id="tourofdenmarkstage4mensvendborgvejle2269km" tvg-name="Cycling | Tour of Denmark | Stage 4 Men | Svendborg – Vejle (226.9km) (15:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Cycling | Tour of Denmark | Stage 4 Men | Svendborg – Vejle (226.9km) (15:45)
+#EXTINF:-1 tvg-id="tourofdenmarkstage4mensvendborgvejle2269km" tvg-name="Cycling | Tour of Denmark | Stage 4 Men | Svendborg – Vejle (226.9km) (15:45)" tvg-logo="https://static.flashscore.com/res/image/data/nPuzuihU-2qAIcPdN.png" group-title="Eventi Live",Cycling | Tour of Denmark | Stage 4 Men | Svendborg – Vejle (226.9km) (15:45)
 https://thedaddy.dad/stream/stream-879.php
 
-#EXTINF:-1 tvg-id="italiansummerchampionships2025matchday2fromrome" tvg-name="Water Sports | Italian Summer Championships 2025 - Matchday 2 (from Rome) (14:40)" tvg-logo="https://wearecollegetennis.com/wp-content/uploads/2023/08/ITA-All-American-Logo-1024x1024.png" group-title="Eventi Live",Water Sports | Italian Summer Championships 2025 - Matchday 2 (from Rome) (14:40)
+#EXTINF:-1 tvg-id="italiansummerchampionships2025matchday2fromrome" tvg-name="Water Sports | Italian Summer Championships 2025 - Matchday 2 (from Rome) (14:40)" tvg-logo="https://wearecollegetennis.com/wp-content/uploads/2024/01/Summer-Series-Summer-Championships-300x300.png" group-title="Eventi Live",Water Sports | Italian Summer Championships 2025 - Matchday 2 (from Rome) (14:40)
 https://thedaddy.dad/stream/stream-882.php
 
 

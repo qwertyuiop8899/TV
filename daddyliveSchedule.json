@@ -596,7 +596,12 @@
             {
                 "time": "16:00",
                 "event": "Norway Toppserien Women : Valerenga Oslo vs. Lillestrom SK Kvinner",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "TV2 Sport 1 Norway",
+                        "channel_id": "27"
+                    }
+                ]
             },
             {
                 "time": "16:00",

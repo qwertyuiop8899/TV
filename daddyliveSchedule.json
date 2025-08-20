@@ -2,12 +2,100 @@
     "Wednesday 20th Aug 2025 - Schedule Time UK GMT": {
         "PPV Events</span>": [
             {
+                "time": "21:30",
+                "event": "All-Star Pavement Midgets at Indianapolis Raceway Park",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "5006"
+                    }
+                ]
+            },
+            {
+                "time": "21:45",
+                "event": "Super DIRTcar Series Fulton",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "68"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "Millbridge Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "69"
+                    },
+                    {
+                        "channel_name": "Event PPV II",
+                        "channel_id": "5005"
+                    }
+                ]
+            },
+            {
                 "time": "22:30",
                 "event": "Thunder City Speedway",
                 "channels": [
                     {
-                        "channel_name": "MyRacePass",
+                        "channel_name": "Event PPV",
                         "channel_id": "5004"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "Owosso Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5007"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Buena Vista Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5008"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Stuart International Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5009"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "Cottage Grove Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5010"
+                    }
+                ]
+            },
+            {
+                "time": "01:15",
+                "event": "2025 Kubota HLR Gold Cup Race of Champions at Silver Dollar Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "76"
+                    },
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "5011"
                     }
                 ]
             }

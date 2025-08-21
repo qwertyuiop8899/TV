@@ -29,7 +29,7 @@ Queste liste devono essere utilizzate con un proxy.
 
 ---
 
-## 🔗 Link Film, Serie TV e MPD
+## 🔗 Link Film, Serie TV e MPD (solo con Mediaflow-Proxy)
 
 Queste liste devono essere utilizzate con mediaflow-proxy aprendo il seguente link http://ipvostromfp/playlist/builder
 
@@ -76,6 +76,9 @@ Con OMG Premium TV potrai sfruttare:
 
 ### ✅ Crea il tuo proxy personalizzato
 
+- **TvProxy**:  
+  [TvProxy](https://github.com/nzo66/tvproxy)
+
 - **Mediaflow Proxy**:  
   [mediaflow-proxy](https://github.com/nzo66/mediaflow-proxy)
   
@@ -92,6 +95,14 @@ Con OMG Premium TV potrai sfruttare:
 Avvia creando un fork della repository proxy.
 
 ### 2. Modifica il file `.env`.
+
+---
+
+### 🔁 Come proxare le liste con TvProxy?
+
+Utilizza il Playlist Builder: https://<mfp-ip>/builder
+
+Questo ti permetterà di servire la lista M3U attraverso il tuo proxy personale in modo sicuro e performante.
 
 ---
 

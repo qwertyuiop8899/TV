@@ -3121,6 +3121,16 @@
         ],
         "WWE</span>": [
             {
+                "time": "19:00",
+                "event": "WWE Friday Night SmackDown Early Start",
+                "channels": [
+                    {
+                        "channel_name": "Netflix PPV",
+                        "channel_id": "5005"
+                    }
+                ]
+            },
+            {
                 "time": "00:00",
                 "event": "WWE Friday Night SmackDown",
                 "channels": [

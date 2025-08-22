@@ -12,6 +12,16 @@
                 ]
             },
             {
+                "time": "21:30",
+                "event": "Oxford 250 FRIDAY at Oxford Plains",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5015"
+                    }
+                ]
+            },
+            {
                 "time": "21:45",
                 "event": "2025 Lucas Oil Rumble By The River at Port Royal Speedway",
                 "channels": [

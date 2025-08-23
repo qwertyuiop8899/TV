@@ -9551,6 +9551,42 @@
                 ]
             }
         ],
+        "Tennis ATP - WINSTON SALEM</span>": [
+            {
+                "time": "21:00",
+                "event": "ATP - WINSTON SALEM : Fucsovics M. vs Van De Zandschulp B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - CLEVELAND</span>": [
+            {
+                "time": "16:00",
+                "event": "WTA - CLEVELAND : Cirstea S. vs Li A",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - MONTERREY</span>": [
+            {
+                "time": "00:30",
+                "event": "WTA - MONTERREY : Shnaider D. vs Bouzkova or Alexandrova",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "16:00",
@@ -10517,6 +10553,10 @@
                         "channel_id": "106"
                     },
                     {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "5000"
+                    },
+                    {
                         "channel_name": "TNT Sports 4 UK",
                         "channel_id": "34"
                     },
@@ -10563,6 +10603,10 @@
                     {
                         "channel_name": "UFC Fight Pass",
                         "channel_id": "106"
+                    },
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "5000"
                     },
                     {
                         "channel_name": "TNT Sports 4 UK",
@@ -10625,11 +10669,6 @@
             {
                 "time": "11:00",
                 "event": "UFC Fight Night Main Card : Brian Ortega vs Aljamain Sterling",
-                "channels": []
-            },
-            {
-                "time": "11:20",
-                "event": "UFC Fight Night Main Card : Johnny Walker vs Zhang Mingyang",
                 "channels": []
             },
             {

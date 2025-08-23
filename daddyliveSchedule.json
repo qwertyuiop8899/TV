@@ -3548,7 +3548,7 @@
             },
             {
                 "time": "00:20",
-                "event": "NFL : Kansas City Chiefs - Chicago Bears",
+                "event": "NFL : Kansas City Chiefs vs Chicago Bears",
                 "channels": [
                     {
                         "channel_name": "NFL Sunday Ticket",
@@ -5675,6 +5675,36 @@
                 ]
             },
             {
+                "time": "10:00",
+                "event": "South Korea - K League 1 : Daegu vs Jeju SK",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 1 : Gimcheon Sangmu vs Suwon FC",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Jeonnam Dragons vs Ansan Greeners",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Seongnam vs Gyeongnam",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "South Korea - K League 2 : Seoul E-Land vs Gimpo",
+                "channels": []
+            },
+            {
+                "time": "10:30",
+                "event": "South Korea - K League 2 : Bucheon vs Cheonan City",
+                "channels": []
+            },
+            {
                 "time": "11:00",
                 "event": "U18 Premier League : Manchester United U18 vs Middlesbrough U18",
                 "channels": [
@@ -6225,6 +6255,11 @@
                         "channel_id": "20"
                     }
                 ]
+            },
+            {
+                "time": "12:30",
+                "event": "Austria - 2.League : Austria Klagenfurt vs SW Bregenz",
+                "channels": []
             },
             {
                 "time": "13:00",
@@ -7118,6 +7153,11 @@
             },
             {
                 "time": "15:30",
+                "event": "Croatia - Prva NL : Orijent 1919 vs Hrvace",
+                "channels": []
+            },
+            {
+                "time": "15:30",
                 "event": "Poland - Ekstraklasa : Korona Kielce vs Motor Lublin",
                 "channels": [
                     {
@@ -7319,6 +7359,16 @@
                         "channel_id": "873"
                     }
                 ]
+            },
+            {
+                "time": "16:00",
+                "event": "Slovakia - 1. liga : FC Kosice vs Ruzomberok",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Slovakia - 1. liga : Skalica vs Tatran Presov",
+                "channels": []
             },
             {
                 "time": "16:00",
@@ -7712,7 +7762,7 @@
             },
             {
                 "time": "16:45",
-                "event": "Croatia - 1. HNL : Slaven Koprivnica vs Lokomotiva Zagreb",
+                "event": "Croatia - 1. HNL : Slaven Koprivnica/Belupo vs Lokomotiva Zagreb",
                 "channels": [
                     {
                         "channel_name": "MAX Sport 1 Croatia",
@@ -7799,6 +7849,11 @@
                         "channel_id": "540"
                     }
                 ]
+            },
+            {
+                "time": "17:00",
+                "event": "Portugal - League 3 - Gr.B : UD Santarem vs Covilha",
+                "channels": []
             },
             {
                 "time": "17:00",
@@ -8140,6 +8195,11 @@
             },
             {
                 "time": "18:00",
+                "event": "Austria - 2.League : Sturm Graz II vs Kapfenberger",
+                "channels": []
+            },
+            {
+                "time": "18:00",
                 "event": "France - Ligue 2 : Boulogne vs Saint-\u00c9tienne",
                 "channels": [
                     {
@@ -8183,6 +8243,11 @@
                         "channel_id": "129"
                     }
                 ]
+            },
+            {
+                "time": "18:00",
+                "event": "Austria - 2.League : FAC Viena vs Austria Salzburg",
+                "channels": []
             },
             {
                 "time": "18:15",
@@ -8233,6 +8298,11 @@
                         "channel_id": "889"
                     }
                 ]
+            },
+            {
+                "time": "18:30",
+                "event": "Slovakia - 1. liga : Dunajska Streda vs Trencin",
+                "channels": []
             },
             {
                 "time": "18:30",
@@ -9005,6 +9075,16 @@
                 ]
             },
             {
+                "time": "21:00",
+                "event": "Venezuela - Primera Division : Zamora vs Monagas",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "Uruguay - Primera Division : Nacional Montevideo vs Boston River",
+                "channels": []
+            },
+            {
                 "time": "21:10",
                 "event": "Colombia - Primera A : Envigado vs Deportivo Pereira",
                 "channels": [
@@ -9076,6 +9156,31 @@
             },
             {
                 "time": "23:00",
+                "event": "USL League One : Chattanooga Red Wolves vs South Georgia Tormenta",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "USL Championship : Detroit City vs Tampa Bay Rowdies",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "USL League One : Greenville Triumph vs Texoma FC",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "USL Championship : Lexington vs Oakland Roots",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "USL League One : Richmond Kickers vs One Knoxville",
+                "channels": []
+            },
+            {
+                "time": "23:00",
                 "event": "USL Championship : Indy Eleven vs Miami FC",
                 "channels": [
                     {
@@ -9126,6 +9231,11 @@
             },
             {
                 "time": "23:30",
+                "event": "Venezuela - Primera Division : Carabobo vs Universidad Central Venezuela",
+                "channels": []
+            },
+            {
+                "time": "23:30",
                 "event": "Uruguay - Primera Division : Miramar Misiones vs Cerro Largo",
                 "channels": [
                     {
@@ -9171,6 +9281,26 @@
                 ]
             },
             {
+                "time": "23:30",
+                "event": "USL Championship : Charleston Battery vs Loudoun United",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "USL Championship : Birmingham Legion vs Pittsburgh Riverhounds",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "USL Championship : Louisville City vs New Mexico United",
+                "channels": []
+            },
+            {
+                "time": "00:00",
+                "event": "USL League One : Union Omaha vs AV Alta FC",
+                "channels": []
+            },
+            {
                 "time": "00:00",
                 "event": "Chile - Primera Division : Universidad Cat\u00f3lica vs Uni\u00f3n Espa\u00f1ola",
                 "channels": [
@@ -9207,6 +9337,16 @@
                         "channel_id": "746"
                     }
                 ]
+            },
+            {
+                "time": "00:30",
+                "event": "USL Championship : Tulsa vs Orange County",
+                "channels": []
+            },
+            {
+                "time": "01:00",
+                "event": "USL Championship : El Paso Locomotive vs Sacramento Republic",
+                "channels": []
             },
             {
                 "time": "01:00",
@@ -9407,6 +9547,42 @@
                     {
                         "channel_name": "SuperSport Grandstand",
                         "channel_id": "412"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP - WINSTON SALEM</span>": [
+            {
+                "time": "21:00",
+                "event": "ATP - WINSTON SALEM : Fucsovics M. vs Van De Zandschulp B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - CLEVELAND</span>": [
+            {
+                "time": "16:00",
+                "event": "WTA - CLEVELAND : Cirstea S. vs Li A",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
+        "Tennis WTA - MONTERREY</span>": [
+            {
+                "time": "00:30",
+                "event": "WTA - MONTERREY : Shnaider D. vs Bouzkova or Alexandrova",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
                     }
                 ]
             }
@@ -10377,6 +10553,10 @@
                         "channel_id": "106"
                     },
                     {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "5000"
+                    },
+                    {
                         "channel_name": "TNT Sports 4 UK",
                         "channel_id": "34"
                     },
@@ -10423,6 +10603,10 @@
                     {
                         "channel_name": "UFC Fight Pass",
                         "channel_id": "106"
+                    },
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "5000"
                     },
                     {
                         "channel_name": "TNT Sports 4 UK",
@@ -10485,11 +10669,6 @@
             {
                 "time": "11:00",
                 "event": "UFC Fight Night Main Card : Brian Ortega vs Aljamain Sterling",
-                "channels": []
-            },
-            {
-                "time": "11:20",
-                "event": "UFC Fight Night Main Card : Johnny Walker vs Zhang Mingyang",
                 "channels": []
             },
             {

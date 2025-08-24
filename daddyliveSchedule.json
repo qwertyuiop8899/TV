@@ -116,12 +116,26 @@
                 ]
             },
             {
+                "time": "23:00",
+                "event": "NASCAR Weekly Racing at South Boston Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "5002"
+                    }
+                ]
+            },
+            {
                 "time": "23:15",
                 "event": "World of Outlaws Sprint Cars Red River",
                 "channels": [
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "167"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5003"
                     }
                 ]
             },
@@ -132,6 +146,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "168"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5001"
                     }
                 ]
             },
@@ -152,6 +170,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "170"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5004"
                     }
                 ]
             },
@@ -192,6 +214,10 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "174"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5005"
                     }
                 ]
             },

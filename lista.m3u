@@ -35,6 +35,8 @@ https://vavoo.to/vavoo-iptv/play/1692155417ce364b21d0ca
 https://vavoo.to/vavoo-iptv/play/3639213638a7c6a2cc326e
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/DW0Tvz72-8XZ7rEBVh1jBzwYE1fZhTaowuuxN75Jl8yBtnFkySH1z2T2b7OPlotmHeQ" group-title="Altro",CAFE 24
 https://vavoo.to/vavoo-iptv/play/1625923783d5a6dda233b3
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/camera-dei-deputati-it.png?raw=true" group-title="Altro",CAMERA DEI DEPUTATI
+https://vavoo.to/vavoo-iptv/play/4253692893cca91a1bbfde
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/canale-italia-2-it.png?raw=true" group-title="Altro",CANALE 2
 https://vavoo.to/vavoo-iptv/play/3914444703fd1a0c69d728
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcfjFIqjwxnG9AbEhJ6gwKb6IprmlFnF9aQ&s" group-title="Altro",CANALE 21 EXTRA
@@ -123,6 +125,8 @@ https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 https://vavoo.to/vavoo-iptv/play/1565298794daace40d1b60
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (2)
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
+https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Juwelo_TV.svg" group-title="Altro",JUWELO ITALIA
@@ -413,6 +417,8 @@ https://vavoo.to/vavoo-iptv/play/4774665319f73c392df0e
 https://vavoo.to/vavoo-iptv/play/3599959739ed5ed2f1f0cd
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET INFINITY+ 2
 https://vavoo.to/vavoo-iptv/play/2436070507988d651c6548
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Mediaset",MEDIASET INFINITY+ 5
+https://vavoo.to/vavoo-iptv/play/588488827b855babc9df4
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.italiasera.it/wp-content/uploads/2019/06/Mediaset-640x366.png" group-title="Mediaset",MEDIASET ITALIA
 https://vavoo.to/vavoo-iptv/play/198956233782673579c94b
 #EXTINF:-1 tvg-id="mediasetitalia2hd.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Mediaset",MEDIASET ITALIA 2
@@ -487,8 +493,6 @@ https://vavoo.to/vavoo-iptv/play/291117845637cc65891f64
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1 (D)
 https://daddylive.sx/stream/stream-877.php
-#EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
-https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (1)
 https://vavoo.to/vavoo-iptv/play/34813468571b25fb16646d
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (2)
@@ -507,6 +511,10 @@ https://vavoo.to/vavoo-iptv/play/29737730766a27b9a63e21
 https://vavoo.to/vavoo-iptv/play/2774026655397d6ec52fe5
 #EXTINF:-1 tvg-id="milan.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/milan-tv-it.png" group-title="Sport",MILAN TV
 https://vavoo.to/vavoo-iptv/play/36572179483992957fcd47
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/internationaltelevision/images/7/79/San_Marino_RTV_Sport_-_logo.png/revision/latest?cb=20221207153729" group-title="Sport",RTV SAN MARINO SPORT
+https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
+#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/san-marino-rtv-sport-20211731580347.logowik.com.webp" group-title="Sport",RTV SPORT
+https://vavoo.to/vavoo-iptv/play/134178901c516be5767e9
 #EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
 https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="sky.sport.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24
@@ -561,6 +569,8 @@ https://daddylive.sx/stream/stream-575.php
 https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce
 #EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (2)
 https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A
+https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (1)
 https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (2)
@@ -629,8 +639,8 @@ https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE (2)
 https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
-#EXTINF:-1 tvg-id="sky.documentaries.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Documentari",SKY DOCUMENTARIES
-https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
+#EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari",SKY NATURE
+https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentari",TELEPACE TRENTO (HISTORY LAB)
 https://vavoo.to/vavoo-iptv/play/1794299695413e7553c574
 
@@ -677,8 +687,6 @@ https://daddylive.sx/stream/stream-862.php
 https://daddylive.sx/stream/stream-868.php
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",CRIME + INV
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",CRIME+ INVESTIGATION
-https://vavoo.to/vavoo-iptv/play/30052277008e849440ee94
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film - Serie TV",DISNEY+ FILM
 https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 #EXTINF:-1 tvg-id="foxhd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film - Serie TV",FOX
@@ -853,8 +861,6 @@ https://daddylive.sx/stream/stream-853.php
 https://vavoo.to/vavoo-iptv/play/4241820180667f1d89110e
 #EXTINF:-1 tvg-id="rai4.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai",RAI 4 (2)
 https://vavoo.to/vavoo-iptv/play/2179822223e6f7fefa408e
-#EXTINF:-1 tvg-id="rai4k.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1200px-Rai_4K_-_Logo_2017.svg.png" group-title="Rai",RAI 4K
-https://vavoo.to/vavoo-iptv/play/2049087681c31592c6b362
 #EXTINF:-1 tvg-id="rai5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Rai",RAI 5 (1)
 https://vavoo.to/vavoo-iptv/play/3249873828c4ad4d2c1d15
 #EXTINF:-1 tvg-id="rai5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-5-it.png" group-title="Rai",RAI 5 (2)

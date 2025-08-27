@@ -2647,8 +2647,7 @@ def italy_channels():
                     "SKY CALCIO 4": "SKY SPORT 254",
                     "SKY CALCIO 5": "SKY SPORT 255",
                     "SKY CALCIO 6": "SKY SPORT 256",
-                    "SKY CALCIO 7": "DAZN 1",
-                    "LA7D HD+": "CANALE 5"
+                    "SKY CALCIO 7": "DAZN 1"
                 }
 
                 # Rimuovi eventuali numeri tra parentesi dal nome base prima della mappa
@@ -2820,6 +2819,9 @@ def italy_channels():
 
                 if channel_id_match and channel_name_raw:
                     channel_id = channel_id_match.group(1)
+                    if channel_id == "853" and "rai 3" in channel_name_raw.lower():
+                        print(f"[CORREZIONE] Canale ID {channel_id} corretto da '{channel_name_raw}' a 'CANALE 5'")
+                        channel_name_raw = "CANALE 5"
                     lower_channel_name = channel_name_raw.lower()
 
                     if channel_id in seen_daddy_channel_ids:

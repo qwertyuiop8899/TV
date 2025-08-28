@@ -659,8 +659,6 @@ https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 https://vavoo.to/vavoo-iptv/play/33735102423e6e76be9ed3
 #EXTINF:-1 tvg-id="boing.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING (2)
 https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5
-#EXTINF:-1 tvg-id="boingplus.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini",BOING PLUS
-https://vavoo.to/vavoo-iptv/play/3841982646469504c9c5fc
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (1)
 https://vavoo.to/vavoo-iptv/play/1744435623b422a758373c
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (2)
@@ -847,10 +845,8 @@ https://vavoo.to/vavoo-iptv/play/24181484494b43d448b066
 https://vavoo.to/vavoo-iptv/play/28023290645ecbd632b9ce
 
 # RAI
-#EXTINF:-1 tvg-id="rai1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1 (1)
+#EXTINF:-1 tvg-id="rai1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1
 https://vavoo.to/vavoo-iptv/play/875922788627becc98639
-#EXTINF:-1 tvg-id="rai1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1 (2)
-https://vavoo.to/vavoo-iptv/play/122565375973a967da4f03
 #EXTINF:-1 tvg-id="rai1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1 (D)
 https://daddylive.sx/stream/stream-850.php
 #EXTINF:-1 tvg-id="rai2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Rai",RAI 2 (1)
@@ -927,7 +923,7 @@ https://daddylive.sx/stream/stream-68.php
 #EXTINF:-1 tvg-id="uefaconferenceleaguefiorentinavspolessya" tvg-name="Soccer | UEFA Conference League : Fiorentina vs Polessya (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Polessya.png" group-title="Eventi Live",Soccer | UEFA Conference League : Fiorentina vs Polessya (20:00)
 https://daddylive.sx/stream/stream-870.php
 
-#EXTINF:-1 tvg-id="usopenround1day5" tvg-name="Tennis | US Open Round 1 | Day 5 (16:00)" tvg-logo="https://cdn-icons-png.flaticon.com/512/42/42285.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 5 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day5" tvg-name="Tennis | US Open Round 1 | Day 5 (16:00)" tvg-logo="https://i.race-monitor.com/logos/rotax_us_open.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 5 (16:00)
 https://daddylive.sx/stream/stream-576.php
 
 #EXTINF:-1 tvg-id="usopenround1day5" tvg-name="Tennis | US Open Round 1 | Day 5 (16:00)" tvg-logo="https://cdn-icons-png.flaticon.com/512/42/42285.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 5 (16:00)
@@ -936,25 +932,25 @@ https://daddylive.sx/stream/stream-462.php
 #EXTINF:-1 tvg-id="usopenround1day5" tvg-name="Tennis | US Open Round 1 | Day 5 (16:00)" tvg-logo="https://cdn-icons-png.flaticon.com/512/42/42285.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 5 (16:00)
 https://daddylive.sx/stream/stream-461.php
 
-#EXTINF:-1 tvg-id="usopenround1day5" tvg-name="Tennis | US Open Round 1 | Day 5 (16:00)" tvg-logo="https://www.britishdodgeball.org/wp-content/uploads/2022/10/british-open--997x1024.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 5 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day5" tvg-name="Tennis | US Open Round 1 | Day 5 (16:00)" tvg-logo="https://i.race-monitor.com/logos/rotax_us_open.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 5 (16:00)
 https://daddylive.sx/stream/stream-460.php
 
 #EXTINF:-1 tvg-id="usopenround1day5" tvg-name="Tennis | US Open Round 1 | Day 5 (16:00)" tvg-logo="https://cdn-icons-png.flaticon.com/512/42/42285.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 5 (16:00)
 https://daddylive.sx/stream/stream-878.php
 
-#EXTINF:-1 tvg-id="usopenround1day5" tvg-name="Tennis | US Open Round 1 | Day 5 (16:00)" tvg-logo="https://cdn-icons-png.flaticon.com/512/42/42285.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 5 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day5" tvg-name="Tennis | US Open Round 1 | Day 5 (16:00)" tvg-logo="https://cdn.mybookie.ag/wp-content/uploads/theOpen.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 5 (16:00)
 https://daddylive.sx/stream/stream-879.php
 
-#EXTINF:-1 tvg-id="diamondleaguet2025zurichfinalii" tvg-name="Athletics | Diamond League (T2025): Zurich Final II (18:30)" tvg-logo="https://cdn1.sportngin.com/attachments/photo/4852-207968232/Diamond_League_large.png" group-title="Eventi Live",Athletics | Diamond League (T2025): Zurich Final II (18:30)
+#EXTINF:-1 tvg-id="diamondleaguet2025zurichfinalii" tvg-name="Athletics | Diamond League (T2025): Zurich Final II (18:30)" tvg-logo="https://images.seeklogo.com/logo-png/49/2/diamond-league-logo-png_seeklogo-490221.png" group-title="Eventi Live",Athletics | Diamond League (T2025): Zurich Final II (18:30)
 https://daddylive.sx/stream/stream-882.php
 
-#EXTINF:-1 tvg-id="diamondleaguet2025zurichfinalii" tvg-name="Athletics | Diamond League (T2025): Zurich Final II (18:30)" tvg-logo="https://cdn1.sportngin.com/attachments/photo/4852-207968232/Diamond_League_large.png" group-title="Eventi Live",Athletics | Diamond League (T2025): Zurich Final II (18:30)
+#EXTINF:-1 tvg-id="diamondleaguet2025zurichfinalii" tvg-name="Athletics | Diamond League (T2025): Zurich Final II (18:30)" tvg-logo="https://images.seeklogo.com/logo-png/49/2/diamond-league-logo-png_seeklogo-490221.png" group-title="Eventi Live",Athletics | Diamond League (T2025): Zurich Final II (18:30)
 https://daddylive.sx/stream/stream-852.php
 
 #EXTINF:-1 tvg-id="eurobasketgreecevsitaly" tvg-name="Basketball | EuroBasket : Greece vs Italy (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Greece_vs_Italy.png" group-title="Eventi Live",Basketball | EuroBasket : Greece vs Italy (20:30)
 https://daddylive.sx/stream/stream-851.php
 
-#EXTINF:-1 tvg-id="lavueltaaespañastage6mountain170km" tvg-name="Cycling | La Vuelta a España: Stage 6 Mountain | 170 km (14:50)" tvg-logo="https://seeklogo.com/images/V/Vuelta_Espana_2002-logo-DB3873A83F-seeklogo.com.png" group-title="Eventi Live",Cycling | La Vuelta a España: Stage 6 Mountain | 170 km (14:50)
+#EXTINF:-1 tvg-id="lavueltaaespañastage6mountain170km" tvg-name="Cycling | La Vuelta a España: Stage 6 Mountain | 170 km (14:50)" tvg-logo="https://www.sportpools.net/dist/images/logos/logo-vuelta.png" group-title="Eventi Live",Cycling | La Vuelta a España: Stage 6 Mountain | 170 km (14:50)
 https://daddylive.sx/stream/stream-878.php
 
 

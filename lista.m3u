@@ -155,8 +155,6 @@ https://vavoo.to/vavoo-iptv/play/364832494563359ab623df
 https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND (2)
 https://vavoo.to/vavoo-iptv/play/3889279895a867a5410d74
-#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Altro",NICKELODEON
-https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
 #EXTINF:-1 tvg-id="" tvg-logo="https://gag-fondazionedeagostini.s3.amazonaws.com/wp-content/uploads/2023/03/logo-Onda-Novara-TV-Ufficiale-1.png" group-title="Altro",ONDA NOVARA TV
 https://vavoo.to/vavoo-iptv/play/3134124967ad7ac6cb62f9
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Og_2yYQhg-ersjEG5xZ99bri_Di4l5dlyw&s" group-title="Altro",ONDA TV (1)
@@ -549,7 +547,9 @@ https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 https://daddylive.sx/stream/stream-462.php
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (1)
 https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
-#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (2)
+#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (1)
+https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
+#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (3)
 https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
 https://daddylive.sx/stream/stream-870.php
@@ -707,8 +707,6 @@ https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Film - Serie TV",PREMIUM CRIME
 https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN ACTION MOVIES
-https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN COMEDY MOVIES
 https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN DRAMA
@@ -885,10 +883,8 @@ https://vavoo.to/vavoo-iptv/play/31633805432b7c33717323
 https://vavoo.to/vavoo-iptv/play/190165274240d2e779ea96
 #EXTINF:-1 tvg-id="raigulp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Rai",RAI GULP (2)
 https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA (1)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
 https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA (2)
-https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE (1)
 https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE (2)
@@ -930,7 +926,7 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="usopenround1day10" tvg-name="Tennis | US Open Round 1 | Day 10 (16:00)" tvg-logo="https://hienlaptop.com/wp-content/uploads/2024/12/logo-hoi-phu-nu-04.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 10 (16:00)
 https://daddylive.sx/stream/stream-576.php
 
-#EXTINF:-1 tvg-id="usopenround1day10" tvg-name="Tennis | US Open Round 1 | Day 10 (16:00)" tvg-logo="https://hienlaptop.com/wp-content/uploads/2024/12/logo-hoi-phu-nu-04.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 10 (16:00)
+#EXTINF:-1 tvg-id="usopenround1day10" tvg-name="Tennis | US Open Round 1 | Day 10 (16:00)" tvg-logo="https://www.mapsofworld.com/usa/images2011/map-of-us.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 10 (16:00)
 https://daddylive.sx/stream/stream-462.php
 
 #EXTINF:-1 tvg-id="usopenround1day10" tvg-name="Tennis | US Open Round 1 | Day 10 (16:00)" tvg-logo="https://hienlaptop.com/wp-content/uploads/2024/12/logo-hoi-phu-nu-04.png" group-title="Eventi Live",Tennis | US Open Round 1 | Day 10 (16:00)

@@ -1,5 +1,17 @@
 {
     "Thursday 04th September 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "17:40",
+                "event": "Boone Speedway",
+                "channels": [
+                    {
+                        "channel_name": "IMCA.TV",
+                        "channel_id": "5000"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "21:00",

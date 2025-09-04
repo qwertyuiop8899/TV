@@ -1522,6 +1522,66 @@
                 ]
             }
         ],
+        "Tennis ATP - US OPEN</span>": [
+            {
+                "time": "23:00",
+                "event": "WTA - US OPEN : Sabalenka A. vs Pegula J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "WTA - US OPEN : Osaka N. vs Anisimova A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1521"
+                    }
+                ]
+            }
+        ],
+        "Tennis ATP DOUBLES - US OPEN</span>": [
+            {
+                "time": "20:00",
+                "event": "ATP DOUBLES - US OPEN : Pegula J. vs Li A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1522"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "ATP DOUBLES - US OPEN : Krejcikova B. vs Townsend T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1522"
+                    }
+                ]
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "14:00",
